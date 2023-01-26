@@ -1,0 +1,142 @@
+﻿WOJ. POMORSKIE;;2358452
+  Powiat bytowski;2201000;76781
+    gm.w. Borzytuchom;2201012;3439
+    gm.m-w. Bytów;2201023;25227
+    gm.w. Czarna Dąbrówka;2201032;5681
+    gm.w. Kołczygłowy;2201042;4099
+    gm.w. Lipnica;2201052;5129
+    gm.m-w. Miastko;2201063;18103
+    gm.w. Parchowo;2201072;3784
+    gm.w. Studzienice;2201082;3638
+    gm.w. Trzebielino;2201092;3523
+    gm.w. Tuchomie;2201102;4158
+  Powiat chojnicki;2202000;96273
+    m. Chojnice;2202011;39041
+    gm.m-w. Brusy;2202023;14336
+    gm.w. Chojnice;2202032;19326
+    gm.m-w. Czersk;2202043;21297
+    gm.w. Konarzyny;2202052;2273
+  Powiat człuchowski;2203000;53708
+    m. Człuchów;2203011;13216
+    gm.m-w. Czarne;2203023;8649
+    gm.w. Człuchów;2203032;10693
+    gm.m-w. Debrzno;2203043;8626
+    gm.w. Koczała;2203052;3181
+    gm.w. Przechlewo;2203062;5951
+    gm.w. Rzeczenica;2203072;3392
+  Powiat gdański;2204000;129265
+    m. Pruszcz Gdański;2204011;31939
+    gm.w. Cedry Wielkie;2204022;6759
+    gm.w. Kolbudy;2204032;20627
+    gm.w. Pruszcz Gdański;2204042;37164
+    gm.w. Przywidz;2204052;6073
+    gm.w. Pszczółki;2204062;10795
+    gm.w. Suchy Dąb;2204072;4245
+    gm.w. Trąbki Wielkie;2204082;11663
+  Powiat kartuski;2205000;150988
+    gm.w. Chmielno;2205012;7809
+    gm.m-w. Kartuzy;2205023;34289
+    gm.w. Przodkowo;2205032;10873
+    gm.w. Sierakowice;2205042;20686
+    gm.w. Somonino;2205052;11204
+    gm.w. Stężyca;2205062;11112
+    gm.w. Sulęczyno;2205072;5684
+    gm.m-w. Żukowo;2205083;49331
+  Powiat kościerski;2206000;72237
+    m. Kościerzyna;2206011;23487
+    gm.w. Dziemiany;2206022;4438
+    gm.w. Karsin;2206032;6120
+    gm.w. Kościerzyna;2206042;16029
+    gm.w. Liniewo;2206052;4478
+    gm.w. Lipusz;2206062;3772
+    gm.w. Nowa Karczma;2206072;7159
+    gm.w. Stara Kiszewa;2206082;6754
+  Powiat kwidzyński;2207000;80782
+    m. Kwidzyn;2207011;37339
+    gm.w. Gardeja;2207022;8140
+    gm.w. Kwidzyn;2207032;11352
+    gm.m-w. Prabuty;2207043;12303
+    gm.w. Ryjewo;2207052;5677
+    gm.w. Sadlinki;2207062;5971
+  Powiat lęborski;2208000;63989
+    m. Lębork;2208011;34261
+    m. Łeba;2208021;3131
+    gm.w. Cewice;2208032;7441
+    gm.w. Nowa Wieś Lęborska;2208042;13570
+    gm.w. Wicko;2208052;5586
+  Powiat malborski;2209000;61198
+    m. Malbork;2209011;37156
+    gm.w. Lichnowy;2209032;4210
+    gm.w. Malbork;2209042;4980
+    gm.w. Miłoradz;2209062;3247
+    gm.m-w. Nowy Staw;2209073;7175
+    gm.w. Stare Pole;2209082;4430
+  Powiat nowodworski;2210000;33991
+    m. Krynica Morska;2210011;1189
+    gm.m-w. Nowy Dwór Gdański;2210023;17047
+    gm.w. Ostaszewo;2210032;2933
+    gm.w. Stegna;2210042;9365
+    gm.w. Sztutowo;2210052;3457
+  Powiat pucki;2211000;90613
+    m. Hel;2211011;2880
+    gm.m-w. Jastarnia;2211023;3535
+    m. Puck;2211031;10688
+    gm.m-w. Władysławowo;2211043;14562
+    gm.w. Kosakowo;2211052;20247
+    gm.w. Krokowa;2211062;10507
+    gm.w. Puck;2211072;28194
+  Powiat słupski;2212000;96224
+    m. Ustka;2212011;14053
+    gm.w. Damnica;2212022;5741
+    gm.w. Dębnica Kaszubska;2212032;9092
+    gm.w. Główczyce;2212042;8367
+    gm.m-w. Kępice;2212053;8303
+    gm.w. Kobylnica;2212062;13888
+    gm.w. Potęgowo;2212072;6563
+    gm.w. Słupsk;2212082;19113
+    gm.w. Smołdzino;2212092;3080
+    gm.w. Ustka;2212102;8024
+  Powiat starogardzki;2213000;125541
+    gm.m-w. Czarna Woda;2213013;3073
+    m. Skórcz;2213021;3481
+    m. Starogard Gdański;2213031;45804
+    gm.w. Bobowo;2213042;3155
+    gm.w. Kaliska;2213052;5318
+    gm.w. Lubichowo;2213062;6809
+    gm.w. Osieczna;2213072;2712
+    gm.w. Osiek;2213082;2257
+    gm.m-w. Skarszewy;2213093;14467
+    gm.w. Skórcz;2213102;4337
+    gm.w. Smętowo Graniczne;2213112;4884
+    gm.w. Starogard Gdański;2213122;17143
+    gm.w. Zblewo;2213132;12101
+  Powiat tczewski;2214000;112111
+    m. Tczew;2214011;57739
+    gm.m-w. Gniew;2214023;14589
+    gm.w. Morzeszczyn;2214032;3363
+    gm.m-w. Pelplin;2214043;15281
+    gm.w. Subkowy;2214052;5369
+    gm.w. Tczew;2214062;15770
+  Powiat wejherowski;2215000;226654
+    m. Reda;2215011;28460
+    m. Rumia;2215021;52506
+    m. Wejherowo;2215031;46712
+    gm.w. Choczewo;2215042;5025
+    gm.w. Gniewino;2215052;7415
+    gm.w. Linia;2215062;6411
+    gm.w. Luzino;2215072;17493
+    gm.w. Łęczyce;2215082;11993
+    gm.w. Szemud;2215092;20681
+    gm.w. Wejherowo;2215102;29958
+  Powiat sztumski;2216000;38890
+    gm.m-w. Dzierzgoń;2216013;8783
+    gm.w. Mikołajki Pomorskie;2216022;3404
+    gm.w. Stary Dzierzgoń;2216032;3489
+    gm.w. Stary Targ;2216042;5943
+    gm.m-w. Sztum;2216053;17271
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Gdańsk;2261000;486226
+Gdynia;2262000;243770
+Słupsk;2263000;86737
+Sopot;2264000;32474

@@ -1,0 +1,134 @@
+﻿WOJ. ZACHODNIO-POMORSKIE;;1645058
+  Powiat białogardzki;3201000;44950
+    m. Białogard;3201011;22781
+    gm.w. Białogard;3201022;7303
+    gm.m-w. Karlino;3201033;8554
+    gm.m-w. Tychowo;3201043;6312
+  Powiat choszczeński;3202000;45053
+    gm.w. Bierzwnik;3202012;4427
+    gm.m-w. Choszczno;3202023;20381
+    gm.m-w. Drawno;3202033;4682
+    gm.w. Krzęcin;3202042;3294
+    gm.m-w. Pełczyce;3202053;7242
+    gm.m-w. Recz;3202063;5027
+  Powiat drawski;3203000;54155
+    gm.m-w. Czaplinek;3203013;11227
+    gm.m-w. Drawsko Pomorskie;3203023;16523
+    gm.m-w. Kalisz Pomorski;3203033;6882
+    gm.w. Wierzchowo;3203052;4080
+    gm.m-w. Złocieniec;3203063;15443
+  Powiat goleniowski;3204000;81606
+    gm.m-w. Goleniów;3204023;36972
+    gm.m-w. Maszewo;3204033;8550
+    gm.m-w. Nowogard;3204043;23576
+    gm.w. Osina;3204052;2917
+    gm.w. Przybiernów;3204062;4850
+    gm.m-w. Stepnica;3204073;4741
+  Powiat gryficki;3205000;57076
+    gm.w. Brojce;3205012;3510
+    gm.m-w. Gryfice;3205023;22913
+    gm.w. Karnice;3205032;3723
+    gm.m-w. Płoty;3205043;8192
+    gm.w. Rewal;3205072;3646
+    gm.m-w. Trzebiatów;3205083;15092
+  Powiat gryfiński;3206000;77970
+    gm.w. Banie;3206012;5803
+    gm.m-w. Cedynia;3206023;4033
+    gm.m-w. Chojna;3206033;13246
+    gm.m-w. Gryfino;3206043;30520
+    gm.m-w. Mieszkowice;3206053;6593
+    gm.m-w. Moryń;3206063;4116
+    gm.w. Stare Czarnowo;3206072;3695
+    gm.m-w. Trzcińsko-Zdrój;3206083;4895
+    gm.w. Widuchowa;3206092;5069
+  Powiat kamieński;3207000;44657
+    gm.m-w. Dziwnów;3207013;3644
+    gm.m-w. Golczewo;3207023;5575
+    gm.m-w. Kamień Pomorski;3207033;13613
+    gm.m-w. Międzyzdroje;3207043;6092
+    gm.w. Świerzno;3207052;4004
+    gm.m-w. Wolin;3207063;11729
+  Powiat kołobrzeski;3208000;77241
+    m. Kołobrzeg;3208011;43884
+    gm.w. Dygowo;3208022;5370
+    gm.m-w. Gościno;3208033;5258
+    gm.w. Kołobrzeg;3208042;11294
+    gm.w. Rymań;3208052;3710
+    gm.w. Siemyśl;3208062;3949
+    gm.w. Ustronie Morskie;3208072;3776
+  Powiat koszaliński;3209000;66376
+    gm.w. Będzino;3209012;8482
+    gm.w. Biesiekierz;3209022;7477
+    gm.m-w. Bobolice;3209033;8378
+    gm.w. Manowo;3209042;6793
+    gm.m-w. Mielno;3209053;4802
+    gm.m-w. Polanów;3209063;8182
+    gm.m-w. Sianów;3209073;13898
+    gm.w. Świeszyno;3209082;8364
+  Powiat myśliborski;3210000;62963
+    gm.m-w. Barlinek;3210013;18549
+    gm.w. Boleszkowice;3210022;2780
+    gm.m-w. Dębno;3210033;19584
+    gm.m-w. Myślibórz;3210043;18737
+    gm.w. Nowogródek Pomorski;3210052;3313
+  Powiat policki;3211000;84429
+    gm.w. Dobra (Szczecińska);3211012;28642
+    gm.w. Kołbaskowo;3211022;14875
+    gm.m-w. Nowe Warpno;3211033;1542
+    gm.m-w. Police;3211043;39370
+  Powiat pyrzycki;3212000;36950
+    gm.w. Bielice;3212012;2970
+    gm.w. Kozielice;3212022;2417
+    gm.m-w. Lipiany;3212033;5540
+    gm.w. Przelewice;3212042;4557
+    gm.m-w. Pyrzyce;3212053;18358
+    gm.w. Warnice;3212062;3108
+  Powiat sławieński;3213000;53533
+    m. Darłowo;3213011;12778
+    m. Sławno;3213021;11958
+    gm.w. Darłowo;3213032;7594
+    gm.w. Malechowo;3213042;6013
+    gm.w. Postomino;3213052;6778
+    gm.w. Sławno;3213062;8412
+  Powiat stargardzki;3214000;119141
+    m. Stargard;3214011;66990
+    gm.m-w. Chociwel;3214023;5537
+    gm.m-w. Dobrzany;3214033;4573
+    gm.w. Dolice;3214042;7193
+    gm.m-w. Ińsko;3214053;3174
+    gm.w. Kobylanka;3214062;6325
+    gm.w. Marianowo;3214082;2881
+    gm.w. Stara Dąbrowa;3214092;3583
+    gm.w. Stargard;3214102;14805
+    gm.m-w. Suchań;3214113;4080
+  Powiat szczecinecki;3215000;73456
+    m. Szczecinek;3215011;37987
+    gm.m-w. Barwice;3215023;7937
+    gm.m-w. Biały Bór;3215033;4933
+    gm.m-w. Borne Sulinowo;3215043;9365
+    gm.w. Grzmiąca;3215052;4363
+    gm.w. Szczecinek;3215062;8871
+  Powiat świdwiński;3216000;43800
+    m. Świdwin;3216011;14759
+    gm.w. Brzeżno;3216022;2610
+    gm.m-w. Połczyn-Zdrój;3216033;13876
+    gm.w. Rąbino;3216042;3318
+    gm.w. Sławoborze;3216052;3863
+    gm.w. Świdwin;3216062;5374
+  Powiat wałecki;3217000;50466
+    m. Wałcz;3217011;23841
+    gm.m-w. Człopa;3217023;4619
+    gm.m-w. Mirosławiec;3217033;5322
+    gm.m-w. Tuczno;3217043;4526
+    gm.w. Wałcz;3217052;12158
+  Powiat łobeski;3218000;33929
+    gm.m-w. Dobra;3218013;3905
+    gm.m-w. Łobez;3218023;12996
+    gm.w. Radowo Małe;3218032;3272
+    gm.m-w. Resko;3218043;7376
+    gm.m-w. Węgorzyno;3218053;6380
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Koszalin;3261000;104648
+Szczecin;3262000;393028
+Świnoujście;3263000;39631

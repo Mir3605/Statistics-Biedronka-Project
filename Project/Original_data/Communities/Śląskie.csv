@@ -1,0 +1,187 @@
+﻿WOJ. ŚLĄSKIE;;4359954
+  Powiat będziński;2401000;145899
+    m. Będzin;2401011;54720
+    m. Czeladź;2401021;30317
+    m. Wojkowice;2401031;8540
+    gm.w. Bobrowniki;2401042;12432
+    gm.w. Mierzęcice;2401052;7923
+    gm.w. Psary;2401062;12334
+    gm.m-w. Siewierz;2401073;12741
+    m. Sławków;2401081;6892
+  Powiat bielski;2402000;165721
+    m. Szczyrk;2402011;5402
+    gm.w. Bestwina;2402022;12142
+    gm.w. Buczkowice;2402032;11218
+    gm.m-w. Czechowice-Dziedzi;2402043;44581
+    gm.w. Jasienica;2402052;25055
+    gm.w. Jaworze;2402062;7373
+    gm.w. Kozy;2402072;13106
+    gm.w. Porąbka;2402082;15440
+    gm.m-w. Wilamowice;2402093;18063
+    gm.w. Wilkowice;2402102;13341
+  Powiat cieszyński;2403000;175826
+    m. Cieszyn;2403011;33486
+    m. Ustroń;2403021;16023
+    m. Wisła;2403031;10716
+    gm.w. Brenna;2403042;11741
+    gm.w. Chybie;2403052;9636
+    gm.w. Dębowiec;2403062;5769
+    gm.w. Goleszów;2403072;13156
+    gm.w. Hażlach;2403082;10766
+    gm.w. Istebna;2403092;12153
+    gm.m-w. Skoczów;2403103;26331
+    gm.m-w. Strumień;2403113;13232
+    gm.w. Zebrzydowice;2403122;12817
+  Powiat częstochowski;2404000;132171
+    gm.m-w. Blachownia;2404013;12597
+    gm.w. Dąbrowa Zielona;2404022;3639
+    gm.w. Janów;2404032;5861
+    gm.w. Kamienica Polska;2404042;5419
+    gm.w. Kłomnice;2404052;13003
+    gm.m-w. Koniecpol;2404063;8813
+    gm.w. Konopiska;2404072;10769
+    gm.w. Kruszyna;2404082;4680
+    gm.w. Lelów;2404092;4608
+    gm.w. Mstów;2404102;10802
+    gm.w. Mykanów;2404112;15325
+    gm.m-w. Olsztyn;2404123;8194
+    gm.w. Poczesna;2404132;12475
+    gm.w. Przyrów;2404142;3564
+    gm.w. Rędziny;2404152;9563
+    gm.w. Starcza;2404162;2859
+  Powiat gliwicki;2405000;113226
+    m. Knurów;2405011;36044
+    m. Pyskowice;2405021;17194
+    gm.w. Gierałtowice;2405032;12568
+    gm.w. Pilchowice;2405042;12471
+    gm.w. Rudziniec;2405052;10842
+    gm.m-w. Sośnicowice;2405063;8975
+    gm.m-w. Toszek;2405073;9275
+    gm.w. Wielowieś;2405082;5857
+  Powiat kłobucki;2406000;82530
+    gm.m-w. Kłobuck;2406013;19824
+    gm.m-w. Krzepice;2406023;8602
+    gm.w. Lipie;2406032;6006
+    gm.w. Miedźno;2406042;7448
+    gm.w. Opatów;2406052;6615
+    gm.w. Panki;2406062;4882
+    gm.w. Popów;2406072;5765
+    gm.w. Przystajń;2406082;5708
+    gm.w. Wręczyca Wielka;2406092;17680
+  Powiat lubliniecki;2407000;75224
+    m. Lubliniec;2407011;23406
+    gm.w. Boronów;2407022;3316
+    gm.w. Ciasna;2407032;7277
+    gm.w. Herby;2407042;6454
+    gm.w. Kochanowice;2407052;6940
+    gm.w. Koszęcin;2407062;11898
+    gm.w. Pawonków;2407072;6517
+    gm.m-w. Woźniki;2407083;9416
+  Powiat mikołowski;2408000;99599
+    m. Łaziska Górne;2408011;21371
+    m. Mikołów;2408021;41383
+    m. Orzesze;2408031;21758
+    gm.w. Ornontowice;2408042;6157
+    gm.w. Wyry;2408052;8930
+  Powiat myszkowski;2409000;68297
+    m. Myszków;2409011;29897
+    gm.m-w. Koziegłowy;2409023;14166
+    gm.w. Niegowa;2409032;5402
+    gm.w. Poraj;2409042;10653
+    gm.m-w. Żarki;2409053;8179
+  Powiat pszczyński;2410000;110902
+    gm.w. Goczałkowice-Zdrój;2410012;6613
+    gm.w. Kobiór;2410022;5120
+    gm.w. Miedźna;2410032;16136
+    gm.w. Pawłowice;2410042;17650
+    gm.m-w. Pszczyna;2410053;52749
+    gm.w. Suszec;2410062;12634
+  Powiat raciborski;2411000;100402
+    m. Racibórz;2411011;50419
+    gm.w. Kornowac;2411022;5112
+    gm.m-w. Krzanowice;2411033;5340
+    gm.w. Krzyżanowice;2411042;10766
+    gm.m-w. Kuźnia Raciborska;2411053;10735
+    gm.w. Nędza;2411062;6694
+    gm.w. Pietrowice Wielkie;2411072;6501
+    gm.w. Rudnik;2411082;4835
+  Powiat rybnicki;2412000;76828
+    gm.m-w. Czerwionka-Leszczy;2412013;40443
+    gm.w. Gaszowice;2412022;9889
+    gm.w. Jejkowice;2412032;4169
+    gm.w. Lyski;2412042;9752
+    gm.w. Świerklany;2412052;12575
+  Powiat tarnogórski;2413000;139191
+    m. Kalety;2413011;8196
+    m. Miasteczko Śląskie;2413021;7014
+    m. Radzionków;2413031;16156
+    m. Tarnowskie Góry;2413041;61413
+    gm.w. Krupski Młyn;2413052;3038
+    gm.w. Ożarowice;2413062;5938
+    gm.w. Świerklaniec;2413072;12932
+    gm.w. Tworóg;2413082;8220
+    gm.w. Zbrosławice;2413092;16284
+  Powiat bieruńsko-lędziński;2414000;59547
+    m. Bieruń;2414011;19015
+    m. Imielin;2414021;9385
+    m. Lędziny;2414031;16480
+    gm.w. Bojszowy;2414042;8369
+    gm.w. Chełm Śląski;2414052;6298
+  Powiat wodzisławski;2415000;151424
+    m. Pszów;2415011;13150
+    m. Radlin;2415021;16993
+    m. Rydułtowy;2415031;20436
+    m. Wodzisław Śląski;2415041;45316
+    gm.w. Godów;2415052;13717
+    gm.w. Gorzyce;2415062;21147
+    gm.w. Lubomia;2415072;7675
+    gm.w. Marklowice;2415082;5374
+    gm.w. Mszana;2415092;7616
+  Powiat zawierciański;2416000;113186
+    m. Poręba;2416011;8204
+    m. Zawiercie;2416021;46962
+    gm.w. Irządze;2416032;2517
+    gm.w. Kroczyce;2416042;6078
+    gm.m-w. Łazy;2416053;15659
+    gm.m-w. Ogrodzieniec;2416063;8919
+    gm.m-w. Pilica;2416073;8123
+    gm.m-w. Szczekociny;2416083;7099
+    gm.w. Włodowice;2416092;5175
+    gm.w. Żarnowiec;2416102;4450
+  Powiat żywiecki;2417000;149422
+    m. Żywiec;2417011;29875
+    gm.w. Czernichów;2417022;6457
+    gm.w. Gilowice;2417032;6225
+    gm.w. Jeleśnia;2417042;12733
+    gm.w. Koszarawa;2417052;2235
+    gm.w. Lipowa;2417062;10853
+    gm.w. Łękawica;2417072;4514
+    gm.w. Łodygowice;2417082;15098
+    gm.w. Milówka;2417092;9884
+    gm.w. Radziechowy-Wieprz;2417102;12885
+    gm.w. Rajcza;2417112;8442
+    gm.w. Ślemień;2417122;3514
+    gm.w. Świnna;2417132;7920
+    gm.w. Ujsoły;2417142;4229
+    gm.w. Węgierska Górka;2417152;14558
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Bielsko-Biała;2461000;167509
+Bytom;2462000;150594
+Chorzów;2463000;102564
+Częstochowa;2464000;209395
+Dąbrowa Górnicza;2465000;115317
+Gliwice;2466000;171896
+Jastrzębie-Zdrój;2467000;83477
+Jaworzno;2468000;87842
+Katowice;2469000;281418
+Mysłowice;2470000;71849
+Piekary Śląskie;2471000;52396
+Ruda Śląska;2472000;132040
+Rybnik;2473000;132266
+Siemianowice Śląskie;2474000;64139
+Sosnowiec;2475000;190406
+Świętochłowice;2476000;45972
+Tychy;2477000;123562
+Zabrze;2478000;156082
+Żory;2479000;61835

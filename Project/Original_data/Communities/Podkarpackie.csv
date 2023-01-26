@@ -1,0 +1,184 @@
+﻿WOJ. PODKARPACKIE;;2081585
+  Powiat bieszczadzki;1801000;20854
+    gm.w. Czarna;1801032;2378
+    gm.w. Lutowiska;1801052;2004
+    gm.m-w. Ustrzyki Dolne;1801083;16472
+  Powiat brzozowski;1802000;63776
+    gm.m-w. Brzozów;1802013;26076
+    gm.w. Domaradz;1802022;5864
+    gm.w. Dydnia;1802032;7562
+    gm.w. Haczów;1802042;9055
+    gm.w. Jasienica Rosielna;1802052;7607
+    gm.w. Nozdrzec;1802062;7612
+  Powiat dębicki;1803000;133088
+    m. Dębica;1803011;43523
+    gm.m-w. Brzostek;1803023;12711
+    gm.w. Czarna;1803032;13325
+    gm.w. Dębica;1803042;25665
+    gm.w. Jodłowa;1803052;5259
+    gm.m-w. Pilzno;1803063;18220
+    gm.w. Żyraków;1803072;14385
+  Powiat jarosławski;1804000;116665
+    m. Jarosław;1804011;35739
+    m. Radymno;1804021;5050
+    gm.w. Chłopice;1804032;5319
+    gm.w. Jarosław;1804042;13156
+    gm.w. Laszki;1804052;6637
+    gm.w. Pawłosiów;1804062;8441
+    gm.m-w. Pruchnik;1804073;9319
+    gm.w. Radymno;1804082;10950
+    gm.w. Rokietnica;1804092;4166
+    gm.w. Roźwienica;1804102;6192
+    gm.w. Wiązownica;1804112;11696
+  Powiat jasielski;1805000;109796
+    m. Jasło;1805011;33276
+    gm.w. Brzyska;1805022;6327
+    gm.w. Dębowiec;1805032;8795
+    gm.w. Jasło;1805042;15988
+    gm.m-w. Kołaczyce;1805053;8653
+    gm.w. Krempna;1805062;1719
+    gm.w. Nowy Żmigród;1805072;8742
+    gm.w. Osiek Jasielski;1805082;5190
+    gm.w. Skołyszyn;1805092;12072
+    gm.w. Tarnowiec;1805112;9034
+  Powiat kolbuszowski;1806000;61481
+    gm.w. Cmolas;1806012;8010
+    gm.m-w. Kolbuszowa;1806023;24332
+    gm.w. Majdan Królewski;1806032;9690
+    gm.w. Niwiska;1806042;6188
+    gm.w. Raniżów;1806052;6939
+    gm.w. Dzikowiec;1806062;6322
+  Powiat krośnieński;1807000;109268
+    gm.w. Chorkówka;1807012;13488
+    gm.m-w. Dukla;1807023;13986
+    gm.m-w. Iwonicz-Zdrój;1807033;10385
+    gm.m-w. Jedlicze;1807043;14947
+    gm.w. Korczyna;1807052;11129
+    gm.w. Krościenko Wyżne;1807062;5376
+    gm.w. Miejsce Piastowe;1807072;13326
+    gm.m-w. Rymanów;1807083;15322
+    gm.w. Wojaszówka;1807092;9233
+    gm.w. Jaśliska;1807102;2076
+  Powiat leżajski;1808000;67199
+    m. Leżajsk;1808011;12926
+    gm.w. Grodzisko Dolne;1808022;7787
+    gm.w. Kuryłówka;1808032;5523
+    gm.w. Leżajsk;1808042;19912
+    gm.m-w. Nowa Sarzyna;1808053;21051
+  Powiat lubaczowski;1809000;53151
+    m. Lubaczów;1809011;11485
+    gm.m-w. Cieszanów;1809023;6824
+    gm.w. Horyniec-Zdrój;1809032;4419
+    gm.w. Lubaczów;1809042;8957
+    gm.m-w. Narol;1809053;7609
+    gm.m-w. Oleszyce;1809063;6149
+    gm.w. Stary Dzików;1809072;4036
+    gm.w. Wielkie Oczy;1809082;3672
+  Powiat łańcucki;1810000;80759
+    m. Łańcut;1810011;17668
+    gm.w. Białobrzegi;1810022;8674
+    gm.w. Czarna;1810032;11992
+    gm.w. Łańcut;1810042;21785
+    gm.w. Markowa;1810052;6336
+    gm.w. Rakszawa;1810062;7306
+    gm.w. Żołynia;1810072;6998
+  Powiat mielecki;1811000;133451
+    m. Mielec;1811011;57612
+    gm.w. Borowa;1811022;5309
+    gm.w. Czermin;1811032;7028
+    gm.w. Gawłuszowice;1811042;2708
+    gm.w. Mielec;1811052;13529
+    gm.w. Padew Narodowa;1811062;5158
+    gm.m-w. Przecław;1811073;11995
+    gm.m-w. Radomyśl Wielki;1811083;14219
+    gm.w. Tuszów Narodowy;1811092;8286
+    gm.w. Wadowice Górne;1811102;7607
+  Powiat niżański;1812000;64254
+    gm.w. Harasiuki;1812012;5774
+    gm.w. Jarocin;1812022;5122
+    gm.w. Jeżowe;1812032;9843
+    gm.w. Krzeszów;1812042;4133
+    gm.m-w. Nisko;1812053;21534
+    gm.m-w. Rudnik nad Sanem;1812063;9915
+    gm.m-w. Ulanów;1812073;7933
+  Powiat przemyski;1813000;71565
+    gm.w. Bircza;1813012;5957
+    gm.m-w. Dubiecko;1813023;8844
+    gm.w. Fredropol;1813032;5210
+    gm.w. Krasiczyn;1813042;5124
+    gm.w. Krzywcza;1813052;4566
+    gm.w. Medyka;1813062;6252
+    gm.w. Orły;1813072;8557
+    gm.w. Przemyśl;1813082;10683
+    gm.w. Stubno;1813092;3705
+    gm.w. Żurawica;1813102;12667
+  Powiat przeworski;1814000;76178
+    m. Przeworsk;1814011;14709
+    gm.w. Adamówka;1814022;4035
+    gm.w. Gać;1814032;4529
+    gm.w. Jawornik Polski;1814042;4256
+    gm.m-w. Kańczuga;1814053;11810
+    gm.w. Przeworsk;1814062;14609
+    gm.m-w. Sieniawa;1814073;6758
+    gm.w. Tryńcza;1814082;8510
+    gm.w. Zarzecze;1814092;6962
+  Powiat ropczycko-sędziszowsk;1815000;74017
+    gm.w. Iwierzyce;1815012;7714
+    gm.w. Ostrów;1815022;7371
+    gm.m-w. Ropczyce;1815033;27229
+    gm.m-w. Sędziszów Małopols;1815043;23879
+    gm.w. Wielopole Skrzyńskie;1815052;7824
+  Powiat rzeszowski;1816000;174160
+    m. Dynów;1816011;6022
+    gm.m-w. Błażowa;1816023;10827
+    gm.m-w. Boguchwała;1816033;21836
+    gm.w. Chmielnik;1816042;7344
+    gm.w. Dynów;1816052;6650
+    gm.m-w. Głogów Małopolski;1816063;19397
+    gm.w. Hyżne;1816072;6956
+    gm.w. Kamień;1816082;6813
+    gm.w. Krasne;1816092;12781
+    gm.w. Lubenia;1816102;6521
+    gm.m-w. Sokołów Małopolski;1816113;17315
+    gm.w. Świlcza;1816122;16568
+    gm.w. Trzebownisko;1816132;23815
+    gm.m-w. Tyczyn;1816143;11315
+  Powiat sanocki;1817000;90590
+    m. Sanok;1817011;34921
+    gm.w. Besko;1817022;4399
+    gm.w. Bukowsko;1817032;5339
+    gm.w. Komańcza;1817042;4194
+    gm.w. Sanok;1817052;18110
+    gm.w. Tyrawa Wołoska;1817062;1946
+    gm.m-w. Zagórz;1817073;12743
+    gm.w. Zarszyn;1817082;8938
+  Powiat stalowowolski;1818000;101942
+    m. Stalowa Wola;1818011;56280
+    gm.w. Bojanów;1818022;7570
+    gm.w. Pysznica;1818032;11734
+    gm.w. Radomyśl nad Sanem;1818042;7237
+    gm.m-w. Zaklików;1818053;8116
+    gm.w. Zaleszany;1818062;11005
+  Powiat strzyżowski;1819000;59649
+    gm.w. Czudec;1819012;11591
+    gm.w. Frysztak;1819022;10116
+    gm.w. Niebylec;1819032;10320
+    gm.m-w. Strzyżów;1819043;19925
+    gm.w. Wiśniowa;1819052;7697
+  Powiat tarnobrzeski;1820000;51364
+    gm.m-w. Baranów Sandomiers;1820013;11387
+    gm.w. Gorzyce;1820022;12773
+    gm.w. Grębów;1820032;10002
+    gm.m-w. Nowa Dęba;1820043;17202
+  Powiat leski;1821000;25615
+    gm.w. Baligród;1821012;3060
+    gm.w. Cisna;1821022;1689
+    gm.m-w. Lesko;1821033;10892
+    gm.w. Olszanica;1821042;4729
+    gm.w. Solina;1821052;5245
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Krosno;1861000;44530
+Przemyśl;1862000;57193
+Rzeszów;1863000;196726
+Tarnobrzeg;1864000;44314

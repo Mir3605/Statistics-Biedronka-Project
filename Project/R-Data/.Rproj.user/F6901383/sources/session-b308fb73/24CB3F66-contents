@@ -1,0 +1,88 @@
+# install.packages('tidyverse') - that's how you install packages in R
+library(tidyverse)
+library(comprehenr)
+library(matlib)
+
+n <- 7
+
+## u and v are vectors of a and b of straight line
+## u and v format u <- c(a1, b1, breakpoint, a2, b2)
+
+evalFunc <- function(u, x){
+  if(abs(x-u[3])>2/n) return(0)
+  if(u[3] >= x) return(u[1]*x + u[2])
+  return(u[4]*x + u[5])
+}
+evalDeriv <- function(u, x){
+  if(abs(x-u[3])>2/n) return(0)
+  if(u[3] >= x) return(u[1])
+  return(u[4])
+}
+
+B <- function(u, v){
+  integralValue = integralAproximation(u, v)
+  value = 3*evalFunc(v, 0)*evalFunc(u, 0) - integralValue
+  return (value)
+}
+
+## u'v'
+functionInsideIntegral <- function(x, u, v){
+  return (evalDeriv(u, x)*evalDeriv(v, x))
+}
+
+integralAproximation <- function(u, v){
+  if(u[3] - 2/n < 1 && u[3] + 2/n > 1){
+    aSubB = 1 - (u[3]-2/n)
+    aAddB = 1 + u[3] - 2/n
+    first = (aSubB/2)*3*functionInsideIntegral((aSubB/2)*0.577+aAddB/2, u, v)
+    first = first + (aSubB/2)*3*functionInsideIntegral((aSubB/2)*(-0.577)+aAddB/2, u, v)
+    aSubB = u[3] + 2/n - 1
+    aAddB = 1 + u[3] + 2/n
+    second = (aSubB/2)*5*functionInsideIntegral((aSubB/2)*0.577+aAddB/2, u, v)
+    second = second + (aSubB/2)*5*functionInsideIntegral((aSubB/2)*(-0.577)+aAddB/2, u, v)
+    return (first+second)
+  }
+  if(u[3] > 1){
+    aSubB = 4/n
+    aAddB = 2*u[3]
+    val = (aSubB/2)*5*functionInsideIntegral((aSubB/2)*0.577+aAddB/2, u, v)
+    val = val + (aSubB/2)*5*functionInsideIntegral((aSubB/2)*(-0.577)+aAddB/2, u, v)
+    return(val)
+  }
+  aSubB = 4/n
+  aAddB = 2*u[3]
+  val = (aSubB/2)*3*functionInsideIntegral((aSubB/2)*0.577+aAddB/2, u, v)
+  val = val + (aSubB/2)*3*functionInsideIntegral((aSubB/2)*(-0.577)+aAddB/2, u, v)
+  # print(val)
+  # print("integral aproximation\n")
+  return (val)
+}
+
+
+phiArray <- to_list(for(i in 1:n) if(i==1) c(-n/2, 1, 0, -n/2, 1) 
+                   else c(n/2, -(i-2), 2*(i-1)/n, -n/2, i))
+LArray <- to_vec(for(i in 1:n) 30*evalFunc(phiArray[[i]], 0))
+BArray <- to_vec(for(i in 1:n) for(j in 1:n) B(phiArray[[i]], phiArray[[j]]))
+BMatrix <- matrix(BArray, n, n)
+showEqn(BMatrix, LArray)
+weights = solve(BMatrix, LArray, tol = 1e-22)
+weights
+outputFunction <- function(x){
+  ans = c()
+  for(xi in x){
+    for(i in 1:n){
+      if(i==n){
+        ans = c(ans, weights[n]*evalFunc(phiArray[[n]], xi))
+        break
+      } 
+      if(((2*i)/n) >= xi){
+        ans = c(ans, weights[i]*evalFunc(phiArray[[i]], xi) + 
+                         weights[i+1]*evalFunc(phiArray[[i+1]], xi))
+        break
+      } 
+    }
+  }
+  return(ans)
+}
+ggplot(data.frame(x = c(0, 2)), aes(x = x)) + stat_function(fun = outputFunction)
+

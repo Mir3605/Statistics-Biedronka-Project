@@ -1,0 +1,354 @@
+﻿WOJ. MAZOWIECKIE;;5511491
+  Powiat białobrzeski;1401000;32667
+    gm.m-w. Białobrzegi;1401013;9816
+    gm.w. Promna;1401022;5488
+    gm.w. Radzanów;1401032;3789
+    gm.w. Stara Błotnica;1401042;5460
+    gm.w. Stromiec;1401052;5435
+    gm.m-w. Wyśmierzyce;1401063;2679
+  Powiat ciechanowski;1402000;85867
+    m. Ciechanów;1402011;42239
+    gm.w. Ciechanów;1402022;7435
+    gm.m-w. Glinojeck;1402033;7229
+    gm.w. Gołymin-Ośrodek;1402042;3544
+    gm.w. Grudusk;1402052;3362
+    gm.w. Ojrzeń;1402062;4135
+    gm.w. Opinogóra Górna;1402072;5797
+    gm.w. Regimin;1402082;4736
+    gm.w. Sońsk;1402092;7390
+  Powiat garwoliński;1403000;105783
+    m. Garwolin;1403011;17322
+    m. Łaskarzew;1403021;4520
+    gm.w. Borowie;1403032;4952
+    gm.w. Garwolin;1403042;13385
+    gm.w. Górzno;1403052;6667
+    gm.w. Łaskarzew;1403062;5274
+    gm.w. Maciejowice;1403072;6461
+    gm.w. Miastków Kościelny;1403082;4616
+    gm.w. Parysów;1403092;4122
+    gm.m-w. Pilawa;1403103;10555
+    gm.w. Sobolew;1403112;7836
+    gm.w. Trojanów;1403122;7108
+    gm.w. Wilga;1403132;5114
+    gm.m-w. Żelechów;1403143;7851
+  Powiat gostyniński;1404000;42846
+    m. Gostynin;1404011;17396
+    gm.w. Gostynin;1404022;11774
+    gm.w. Pacyna;1404032;3321
+    gm.m-w. Sanniki;1404043;5678
+    gm.w. Szczawin Kościelny;1404052;4677
+  Powiat grodziski;1405000;103920
+    m. Milanówek;1405011;16467
+    m. Podkowa Leśna;1405021;3873
+    gm.w. Baranów;1405032;5547
+    gm.m-w. Grodzisk Mazowieck;1405043;54122
+    gm.w. Jaktorów;1405052;13261
+    gm.w. Żabia Wola;1405062;10650
+  Powiat grójecki;1406000;97594
+    gm.w. Belsk Duży;1406012;6261
+    gm.w. Błędów;1406022;7117
+    gm.w. Chynów;1406032;10152
+    gm.w. Goszczyn;1406042;2866
+    gm.m-w. Grójec;1406053;26234
+    gm.w. Jasieniec;1406062;5367
+    gm.m-w. Mogielnica;1406073;8261
+    gm.m-w. Nowe Miasto nad Pi;1406083;7248
+    gm.w. Pniewy;1406092;4808
+    gm.m-w. Warka;1406113;19280
+  Powiat kozienicki;1407000;57688
+    gm.w. Garbatka-Letnisko;1407012;4775
+    gm.w. Głowaczów;1407022;6761
+    gm.w. Gniewoszów;1407032;3807
+    gm.w. Grabów nad Pilicą;1407042;4018
+    gm.m-w. Kozienice;1407053;28119
+    gm.w. Magnuszew;1407062;6445
+    gm.w. Sieciechów;1407072;3763
+  Powiat legionowski;1408000;129733
+    m. Legionowo;1408011;52913
+    gm.w. Jabłonna;1408022;22817
+    gm.w. Nieporęt;1408032;16946
+    gm.m-w. Serock;1408043;17093
+    gm.w. Wieliszew;1408052;19964
+  Powiat lipski;1409000;31965
+    gm.w. Chotcza;1409012;2227
+    gm.w. Ciepielów;1409022;5259
+    gm.m-w. Lipsko;1409033;10190
+    gm.w. Rzeczniów;1409042;4086
+    gm.w. Sienno;1409052;5582
+    gm.m-w. Solec nad Wisłą;1409063;4621
+  Powiat łosicki;1410000;29163
+    gm.w. Huszlew;1410012;2669
+    gm.m-w. Łosice;1410023;10566
+    gm.w. Olszanka;1410032;2770
+    gm.w. Platerów;1410042;4482
+    gm.w. Sarnaki;1410052;4238
+    gm.w. Stara Kornica;1410062;4438
+  Powiat makowski;1411000;42293
+    m. Maków Mazowiecki;1411011;9028
+    gm.w. Czerwonka;1411022;2548
+    gm.w. Karniewo;1411032;4896
+    gm.w. Krasnosielc;1411042;5947
+    gm.w. Młynarze;1411052;1628
+    gm.w. Płoniawy-Bramura;1411062;4984
+    gm.m-w. Różan;1411073;4289
+    gm.w. Rzewnie;1411082;2440
+    gm.w. Sypniewo;1411092;2974
+    gm.w. Szelków;1411102;3559
+  Powiat miński;1412000;158893
+    m. Mińsk Mazowiecki;1412011;40297
+    gm.m-w. Cegłów;1412043;6096
+    gm.w. Dębe Wielkie;1412052;11562
+    gm.w. Dobre;1412062;5852
+    gm.m-w. Halinów;1412073;18042
+    gm.w. Jakubów;1412082;5085
+    gm.m-w. Kałuszyn;1412093;5558
+    gm.w. Latowicz;1412102;5178
+    gm.w. Mińsk Mazowiecki;1412112;16698
+    gm.m-w. Mrozy;1412123;8596
+    gm.w. Siennica;1412132;7620
+    gm.w. Stanisławów;1412142;7004
+    m. Sulejówek;1412151;21305
+  Powiat mławski;1413000;69657
+    m. Mława;1413011;30860
+    gm.w. Dzierzgowo;1413022;2812
+    gm.w. Lipowiec Kościelny;1413032;4511
+    gm.w. Radzanów;1413042;3001
+    gm.w. Strzegowo;1413052;7134
+    gm.w. Stupsk;1413062;4494
+    gm.w. Szreńsk;1413072;3835
+    gm.w. Szydłowo;1413082;4225
+    gm.w. Wieczfnia Kościelna;1413092;3692
+    gm.w. Wiśniewo;1413102;5093
+  Powiat nowodworski;1414000;79827
+    m. Nowy Dwór Mazowiecki;1414011;28657
+    gm.w. Czosnów;1414022;10999
+    gm.w. Leoncin;1414032;5586
+    gm.m-w. Nasielsk;1414043;19354
+    gm.w. Pomiechówek;1414052;9295
+    gm.m-w. Zakroczym;1414063;5936
+  Powiat ostrołęcki;1415000;87470
+    gm.w. Baranowo;1415012;6037
+    gm.w. Czarnia;1415022;2260
+    gm.w. Czerwin;1415032;4762
+    gm.w. Goworowo;1415042;7883
+    gm.w. Kadzidło;1415052;11020
+    gm.w. Lelis;1415062;9866
+    gm.w. Łyse;1415072;8232
+    gm.m-w. Myszyniec;1415083;10122
+    gm.w. Olszewo-Borki;1415092;10968
+    gm.w. Rzekuń;1415102;11761
+    gm.w. Troszyn;1415112;4559
+  Powiat ostrowski;1416000;69121
+    m. Ostrów Mazowiecka;1416011;21705
+    gm.w. Andrzejewo;1416022;3801
+    gm.w. Boguty-Pianki;1416032;2416
+    gm.m-w. Brok;1416043;2599
+    gm.w. Małkinia Górna;1416052;10879
+    gm.w. Nur;1416062;2537
+    gm.w. Ostrów Mazowiecka;1416072;12726
+    gm.w. Stary Lubotyń;1416082;3589
+    gm.w. Szulborze Wielkie;1416092;1549
+    gm.w. Wąsewo;1416102;3995
+    gm.w. Zaręby Kościelne;1416112;3325
+  Powiat otwocki;1417000;126508
+    m. Józefów;1417011;21084
+    m. Otwock;1417021;44178
+    gm.w. Celestynów;1417032;11637
+    gm.m-w. Karczew;1417043;15821
+    gm.w. Kołbiel;1417052;8336
+    gm.w. Osieck;1417062;3645
+    gm.w. Sobienie-Jeziory;1417072;6252
+    gm.w. Wiązowna;1417082;15555
+  Powiat piaseczyński;1418000;210717
+    gm.m-w. Góra Kalwaria;1418013;28226
+    gm.m-w. Konstancin-Jeziorn;1418023;25123
+    gm.w. Lesznowola;1418032;35964
+    gm.m-w. Piaseczno;1418043;96087
+    gm.w. Prażmów;1418052;13013
+    gm.m-w. Tarczyn;1418063;12304
+  Powiat płocki;1419000;109634
+    gm.w. Bielsk;1419012;8896
+    gm.w. Bodzanów;1419022;7867
+    gm.w. Brudzeń Duży;1419032;8250
+    gm.w. Bulkowo;1419042;5252
+    gm.m-w. Drobin;1419053;7404
+    gm.m-w. Gąbin;1419063;11075
+    gm.w. Łąck;1419072;5363
+    gm.w. Mała Wieś;1419082;5686
+    gm.w. Nowy Duninów;1419092;3943
+    gm.w. Radzanowo;1419102;8580
+    gm.w. Słubice;1419112;4138
+    gm.w. Słupno;1419122;8860
+    gm.w. Stara Biała;1419132;12229
+    gm.w. Staroźreby;1419142;6823
+    gm.m-w. Wyszogród;1419153;5268
+  Powiat płoński;1420000;84573
+    m. Płońsk;1420011;21674
+    m. Raciąż;1420021;4036
+    gm.w. Baboszewo;1420032;7492
+    gm.m-w. Czerwińsk nad Wisł;1420043;7209
+    gm.w. Dzierzążnia;1420052;3387
+    gm.w. Joniec;1420062;2738
+    gm.w. Naruszewo;1420072;6009
+    gm.m-w. Nowe Miasto;1420083;4573
+    gm.w. Płońsk;1420092;8284
+    gm.w. Raciąż;1420102;7955
+    gm.m-w. Sochocin;1420113;5685
+    gm.w. Załuski;1420122;5531
+  Powiat pruszkowski;1421000;177652
+    m. Piastów;1421011;23111
+    m. Pruszków;1421021;65334
+    gm.m-w. Brwinów;1421033;29694
+    gm.w. Michałowice;1421042;19216
+    gm.w. Nadarzyn;1421052;17444
+    gm.w. Raszyn;1421062;22853
+  Powiat przasnyski;1422000;49595
+    m. Przasnysz;1422011;16491
+    gm.m-w. Chorzele;1422023;9379
+    gm.w. Czernice Borowe;1422032;3548
+    gm.w. Jednorożec;1422042;6661
+    gm.w. Krasne;1422052;3347
+    gm.w. Krzynowłoga Mała;1422062;3239
+    gm.w. Przasnysz;1422072;6930
+  Powiat przysuski;1423000;39104
+    gm.w. Borkowice;1423012;4049
+    gm.w. Gielniów;1423022;4302
+    gm.w. Klwów;1423032;3128
+    gm.w. Odrzywół;1423042;3405
+    gm.w. Potworów;1423052;4012
+    gm.m-w. Przysucha;1423063;11057
+    gm.w. Rusinów;1423072;4039
+    gm.w. Wieniawa;1423082;5112
+  Powiat pułtuski;1424000;50512
+    gm.w. Gzy;1424012;3588
+    gm.w. Obryte;1424022;4387
+    gm.w. Pokrzywnica;1424032;5125
+    gm.m-w. Pułtusk;1424043;24186
+    gm.w. Świercze;1424052;4493
+    gm.w. Winnica;1424062;4010
+    gm.w. Zatory;1424072;4723
+  Powiat radomski;1425000;151181
+    m. Pionki;1425011;16424
+    gm.w. Gózd;1425022;9255
+    gm.m-w. Iłża;1425033;13807
+    gm.w. Jastrzębia;1425042;7132
+    gm.w. Jedlińsk;1425052;14571
+    gm.m-w. Jedlnia-Letnisko;1425063;13466
+    gm.w. Kowala;1425072;12416
+    gm.w. Pionki;1425082;9672
+    gm.w. Przytyk;1425092;7064
+    gm.m-w. Skaryszew;1425103;15310
+    gm.w. Wierzbica;1425112;9295
+    gm.w. Wolanów;1425122;8965
+    gm.w. Zakrzew;1425132;13804
+  Powiat siedlecki;1426000;80427
+    gm.w. Domanice;1426012;2479
+    gm.w. Korczew;1426022;2395
+    gm.w. Kotuń;1426032;8165
+    gm.w. Mokobody;1426042;4837
+    gm.m-w. Mordy;1426053;5410
+    gm.w. Paprotnia;1426062;2375
+    gm.w. Przesmyki;1426072;2834
+    gm.w. Siedlce;1426082;19451
+    gm.w. Skórzec;1426092;8128
+    gm.w. Suchożebry;1426102;4644
+    gm.w. Wiśniew;1426112;5691
+    gm.w. Wodynie;1426122;4213
+    gm.w. Zbuczyn;1426132;9805
+  Powiat sierpecki;1427000;48817
+    m. Sierpc;1427011;17116
+    gm.w. Gozdowo;1427022;5712
+    gm.w. Mochowo;1427032;5587
+    gm.w. Rościszewo;1427042;3821
+    gm.w. Sierpc;1427052;6635
+    gm.w. Szczutowo;1427062;4013
+    gm.w. Zawidz;1427072;5933
+  Powiat sochaczewski;1428000;83494
+    m. Sochaczew;1428011;33918
+    gm.w. Brochów;1428022;4405
+    gm.w. Iłów;1428032;5957
+    gm.w. Młodzieszyn;1428042;5545
+    gm.w. Nowa Sucha;1428052;6817
+    gm.w. Rybno;1428062;3402
+    gm.w. Sochaczew;1428072;11838
+    gm.w. Teresin;1428082;11612
+  Powiat sokołowski;1429000;50795
+    m. Sokołów Podlaski;1429011;18494
+    gm.w. Bielany;1429022;3509
+    gm.w. Ceranów;1429032;1853
+    gm.w. Jabłonna Lacka;1429042;4184
+    gm.m-w. Kosów Lacki;1429053;5441
+    gm.w. Repki;1429062;4708
+    gm.w. Sabnie;1429072;3347
+    gm.w. Sokołów Podlaski;1429082;5801
+    gm.w. Sterdyń;1429092;3458
+  Powiat szydłowiecki;1430000;37850
+    gm.w. Chlewiska;1430012;5588
+    gm.w. Jastrząb;1430022;5120
+    gm.w. Mirów;1430032;3762
+    gm.w. Orońsko;1430042;5943
+    gm.m-w. Szydłowiec;1430053;17437
+  Powiat warszawski zachodni;1432000;132642
+    gm.m-w. Błonie;1432013;22198
+    gm.w. Izabelin;1432022;10824
+    gm.w. Kampinos;1432032;4471
+    gm.w. Leszno;1432042;10959
+    gm.m-w. Łomianki;1432053;31276
+    gm.m-w. Ożarów Mazowiecki;1432063;30499
+    gm.w. Stare Babice;1432072;22415
+  Powiat węgrowski;1433000;62426
+    m. Węgrów;1433011;11872
+    gm.w. Grębków;1433022;4280
+    gm.w. Korytnica;1433032;5561
+    gm.w. Liw;1433042;7170
+    gm.m-w. Łochów;1433053;17348
+    gm.w. Miedzna;1433062;3623
+    gm.w. Sadowne;1433072;5519
+    gm.w. Stoczek;1433082;4566
+    gm.w. Wierzbno;1433092;2487
+  Powiat wołomiński;1434000;272237
+    m. Kobyłka;1434011;27867
+    m. Marki;1434021;43909
+    m. Ząbki;1434031;44720
+    m. Zielonka;1434041;18171
+    gm.w. Dąbrówka;1434052;8516
+    gm.w. Jadów;1434062;7105
+    gm.w. Klembów;1434072;10963
+    gm.w. Poświętne;1434082;6432
+    gm.m-w. Radzymin;1434093;30560
+    gm.w. Strachówka;1434102;2614
+    gm.m-w. Tłuszcz;1434113;20132
+    gm.m-w. Wołomin;1434123;51248
+  Powiat wyszkowski;1435000;73579
+    gm.w. Brańszczyk;1435012;8191
+    gm.w. Długosiodło;1435022;7467
+    gm.w. Rząśnik;1435032;6831
+    gm.w. Somianka;1435042;5611
+    gm.m-w. Wyszków;1435053;39319
+    gm.w. Zabrodzie;1435062;6160
+  Powiat zwoleński;1436000;34593
+    gm.w. Kazanów;1436012;4305
+    gm.w. Policzna;1436022;5176
+    gm.w. Przyłęk;1436032;5841
+    gm.w. Tczów;1436042;4825
+    gm.m-w. Zwoleń;1436053;14446
+  Powiat żuromiński;1437000;36065
+    gm.m-w. Bieżuń;1437013;4650
+    gm.w. Kuczbork-Osada;1437022;4327
+    gm.m-w. Lubowidz;1437033;6344
+    gm.w. Lutocin;1437042;4015
+    gm.w. Siemiątkowo;1437052;3233
+    gm.m-w. Żuromin;1437063;13496
+  Powiat żyrardowski;1438000;75543
+    m. Żyrardów;1438011;38985
+    gm.m-w. Mszczonów;1438023;11347
+    gm.w. Puszcza Mariańska;1438032;8782
+    gm.w. Radziejowice;1438042;6334
+    gm.m-w. Wiskitki;1438053;10095
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Ostrołęka;1461000;48995
+Płock;1462000;113146
+Radom;1463000;198754
+Siedlce;1464000;75820
+Warszawa;1465011;1862345

@@ -1,0 +1,236 @@
+﻿WOJ. LUBELSKIE;;2030509
+  Powiat bialski;0601000;105752
+    m. Międzyrzec Podlaski;0601011;15611
+    m. Terespol;0601021;5197
+    gm.w. Biała Podlaska;0601032;15224
+    gm.w. Drelów;0601042;5100
+    gm.w. Janów Podlaski;0601052;4962
+    gm.w. Kodeń;0601062;3327
+    gm.w. Konstantynów;0601072;3837
+    gm.w. Leśna Podlaska;0601082;4029
+    gm.w. Łomazy;0601092;4632
+    gm.w. Międzyrzec Podlaski;0601102;10215
+    gm.w. Piszczac;0601112;6763
+    gm.w. Rokitno;0601122;2752
+    gm.w. Rossosz;0601132;2104
+    gm.w. Sławatycze;0601142;2285
+    gm.w. Sosnówka;0601152;2189
+    gm.w. Terespol;0601162;6136
+    gm.w. Tuczna;0601172;2796
+    gm.w. Wisznice;0601182;4512
+    gm.w. Zalesie;0601192;4081
+  Powiat biłgorajski;0602000;97352
+    m. Biłgoraj;0602011;25173
+    gm.w. Aleksandrów;0602022;3201
+    gm.w. Biłgoraj;0602032;13593
+    gm.w. Biszcza;0602042;3734
+    gm.m-w. Frampol;0602053;5707
+    gm.m-w. Goraj;0602063;3906
+    gm.m-w. Józefów;0602073;6457
+    gm.w. Księżpol;0602082;6721
+    gm.w. Łukowa;0602092;3982
+    gm.w. Obsza;0602102;4044
+    gm.w. Potok Górny;0602112;5094
+    gm.m-w. Tarnogród;0602123;6277
+    gm.w. Tereszpol;0602132;3840
+    gm.w. Turobin;0602142;5623
+  Powiat chełmski;0603000;74550
+    m. Rejowiec Fabryczny;0603011;4038
+    gm.w. Białopole;0603022;2855
+    gm.w. Chełm;0603032;15205
+    gm.w. Dorohusk;0603042;5953
+    gm.w. Dubienka;0603052;2110
+    gm.w. Kamień;0603062;4079
+    gm.w. Leśniowice;0603072;3357
+    gm.w. Rejowiec Fabryczny;0603082;4051
+    gm.w. Ruda-Huta;0603092;4179
+    gm.w. Sawin;0603102;5180
+    gm.m-w. Siedliszcze;0603113;6465
+    gm.w. Wierzbica;0603122;4751
+    gm.w. Wojsławice;0603132;3472
+    gm.w. Żmudź;0603142;2821
+    gm.m-w. Rejowiec;0603153;6034
+  Powiat hrubieszowski;0604000;58093
+    m. Hrubieszów;0604011;16390
+    gm.w. Dołhobyczów;0604022;4757
+    gm.w. Horodło;0604032;4875
+    gm.w. Hrubieszów;0604042;9280
+    gm.w. Mircze;0604052;6313
+    gm.w. Trzeszczany;0604062;3799
+    gm.w. Uchanie;0604072;4129
+    gm.w. Werbkowice;0604082;8550
+  Powiat janowski;0605000;43356
+    gm.w. Batorz;0605012;3092
+    gm.w. Chrzanów;0605022;2706
+    gm.w. Dzwola;0605032;5983
+    gm.w. Godziszów;0605042;5498
+    gm.m-w. Janów Lubelski;0605053;14832
+    gm.m-w. Modliborzyce;0605063;6776
+    gm.w. Potok Wielki;0605072;4469
+  Powiat krasnostawski;0606000;59946
+    m. Krasnystaw;0606011;17573
+    gm.w. Fajsławice;0606022;4506
+    gm.w. Gorzków;0606032;3281
+    gm.m-w. Izbica;0606043;7766
+    gm.w. Krasnystaw;0606052;8206
+    gm.w. Kraśniczyn;0606062;3443
+    gm.w. Łopiennik Górny;0606072;3602
+    gm.w. Rudnik;0606092;2755
+    gm.w. Siennica Różana;0606102;3871
+    gm.w. Żółkiewka;0606112;4943
+  Powiat kraśnicki;0607000;90485
+    m. Kraśnik;0607011;31950
+    gm.m-w. Annopol;0607023;8072
+    gm.w. Dzierzkowice;0607032;5226
+    gm.w. Gościeradów;0607042;6863
+    gm.w. Kraśnik;0607052;7034
+    gm.w. Szastarka;0607062;5491
+    gm.w. Trzydnik Duży;0607072;6055
+    gm.m-w. Urzędów;0607083;8253
+    gm.w. Wilkołaz;0607092;5362
+    gm.w. Zakrzówek;0607102;6179
+  Powiat lubartowski;0608000;84822
+    m. Lubartów;0608011;20168
+    gm.w. Abramów;0608022;3873
+    gm.w. Firlej;0608032;5688
+    gm.w. Jeziorzany;0608042;2506
+    gm.m-w. Kamionka;0608053;6411
+    gm.m-w. Kock;0608063;5815
+    gm.w. Lubartów;0608072;12060
+    gm.w. Michów;0608082;5551
+    gm.w. Niedźwiada;0608092;6200
+    gm.m-w. Ostrów Lubelski;0608103;5013
+    gm.w. Ostrówek;0608112;3739
+    gm.w. Serniki;0608122;4800
+    gm.w. Uścimów;0608132;2998
+  Powiat lubelski;0609000;162734
+    gm.m-w. Bełżyce;0609013;12788
+    gm.w. Borzechów;0609022;3751
+    gm.m-w. Bychawa;0609033;11006
+    gm.w. Garbów;0609042;8938
+    gm.w. Głusk;0609052;14326
+    gm.w. Jabłonna;0609062;8243
+    gm.w. Jastków;0609072;15243
+    gm.w. Konopnica;0609082;15702
+    gm.w. Krzczonów;0609092;4145
+    gm.w. Niedrzwica Duża;0609102;11915
+    gm.w. Niemce;0609112;21522
+    gm.w. Strzyżewice;0609122;8133
+    gm.w. Wojciechów;0609132;6016
+    gm.w. Wólka;0609142;14154
+    gm.w. Wysokie;0609152;4158
+    gm.w. Zakrzew;0609162;2694
+  Powiat łęczyński;0610000;56000
+    gm.w. Cyców;0610012;7683
+    gm.w. Ludwin;0610022;5609
+    gm.m-w. Łęczna;0610033;22506
+    gm.w. Milejów;0610042;8677
+    gm.w. Puchaczów;0610052;5560
+    gm.w. Spiczyn;0610062;5965
+  Powiat łukowski;0611000;101760
+    m. Łuków;0611011;27569
+    m. Stoczek Łukowski;0611021;2391
+    gm.w. Adamów;0611032;5207
+    gm.w. Krzywda;0611042;9844
+    gm.w. Łuków;0611052;18434
+    gm.w. Serokomla;0611062;3732
+    gm.w. Stanin;0611072;9258
+    gm.w. Stoczek Łukowski;0611082;7267
+    gm.w. Trzebieszów;0611092;7134
+    gm.w. Wojcieszków;0611102;6525
+    gm.w. Wola Mysłowska;0611112;4399
+  Powiat opolski;0612000;56397
+    gm.w. Chodel;0612012;6350
+    gm.m-w. Józefów nad Wisłą;0612023;6131
+    gm.w. Karczmiska;0612032;5385
+    gm.w. Łaziska;0612042;4596
+    gm.m-w. Opole Lubelskie;0612053;16429
+    gm.m-w. Poniatowa;0612063;13321
+    gm.w. Wilków;0612072;4185
+  Powiat parczewski;0613000;32739
+    gm.w. Dębowa Kłoda;0613012;3609
+    gm.w. Jabłoń;0613022;3588
+    gm.w. Milanów;0613032;3449
+    gm.m-w. Parczew;0613043;13913
+    gm.w. Podedwórze;0613052;1528
+    gm.w. Siemień;0613062;4314
+    gm.w. Sosnowica;0613072;2338
+  Powiat puławski;0614000;108263
+    m. Puławy;0614011;44504
+    gm.w. Baranów;0614022;3641
+    gm.w. Janowiec;0614032;3614
+    gm.m-w. Kazimierz Dolny;0614043;6300
+    gm.w. Końskowola;0614052;8489
+    gm.w. Kurów;0614062;7409
+    gm.w. Markuszów;0614072;2904
+    gm.m-w. Nałęczów;0614083;8662
+    gm.w. Puławy;0614092;12232
+    gm.w. Wąwolnica;0614102;4344
+    gm.w. Żyrzyn;0614112;6164
+  Powiat radzyński;0615000;55687
+    m. Radzyń Podlaski;0615011;14571
+    gm.w. Borki;0615022;5782
+    gm.w. Czemierniki;0615032;4072
+    gm.w. Kąkolewnica;0615042;7637
+    gm.w. Komarówka Podlaska;0615052;3879
+    gm.w. Radzyń Podlaski;0615062;7891
+    gm.w. Ulan-Majorat;0615072;5590
+    gm.w. Wohyń;0615082;6265
+  Powiat rycki;0616000;52182
+    m. Dęblin;0616011;14385
+    gm.w. Kłoczew;0616022;6862
+    gm.w. Nowodwór;0616032;3916
+    gm.m-w. Ryki;0616043;19345
+    gm.w. Stężyca;0616052;4803
+    gm.w. Ułęż;0616062;2871
+  Powiat świdnicki;0617000;69805
+    m. Świdnik;0617011;37129
+    gm.w. Mełgiew;0617022;10649
+    gm.m-w. Piaski;0617033;10291
+    gm.w. Rybczewice;0617042;3221
+    gm.w. Trawniki;0617052;8515
+  Powiat tomaszowski;0618000;78265
+    m. Tomaszów Lubelski;0618011;18165
+    gm.w. Bełżec;0618022;3163
+    gm.w. Jarczów;0618032;3208
+    gm.w. Krynice;0618042;3040
+    gm.m-w. Lubycza Królewska;0618053;5655
+    gm.m-w. Łaszczów;0618063;5588
+    gm.w. Rachanie;0618072;4682
+    gm.w. Susiec;0618082;7049
+    gm.w. Tarnawatka;0618092;3788
+    gm.w. Telatyn;0618102;3608
+    gm.w. Tomaszów Lubelski;0618112;11041
+    gm.m-w. Tyszowce;0618123;5194
+    gm.w. Ulhówek;0618132;4084
+  Powiat włodawski;0619000;35954
+    m. Włodawa;0619011;12323
+    gm.w. Hanna;0619022;2551
+    gm.w. Hańsk;0619032;3467
+    gm.w. Stary Brus;0619042;1859
+    gm.w. Urszulin;0619052;4086
+    gm.w. Włodawa;0619062;5727
+    gm.w. Wola Uhruska;0619072;3631
+    gm.w. Wyryki;0619082;2310
+  Powiat zamojski;0620000;101819
+    gm.w. Adamów;0620012;4462
+    gm.w. Grabowiec;0620022;3629
+    gm.w. Komarów-Osada;0620032;4544
+    gm.m-w. Krasnobród;0620043;6768
+    gm.w. Łabunie;0620052;5974
+    gm.w. Miączyn;0620062;5168
+    gm.w. Nielisz;0620072;5111
+    gm.w. Radecznica;0620082;5160
+    gm.w. Sitno;0620092;6571
+    gm.w. Skierbieszów;0620102;4759
+    gm.w. Stary Zamość;0620112;4897
+    gm.w. Sułów;0620122;4116
+    gm.m-w. Szczebrzeszyn;0620133;10677
+    gm.w. Zamość;0620142;23793
+    gm.m-w. Zwierzyniec;0620153;6190
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Biała Podlaska;0661000;54926
+Chełm;0662000;58357
+Lublin;0663000;331991
+Zamość;0664000;59274

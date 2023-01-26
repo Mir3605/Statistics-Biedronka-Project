@@ -1,0 +1,166 @@
+﻿WOJ. KUJAWSKO-POMORSKIE;;2011652
+  Powiat aleksandrowski;0401000;53902
+    m. Aleksandrów Kujawski;0401011;11586
+    m. Ciechocinek;0401021;10296
+    m. Nieszawa;0401031;1763
+    gm.w. Aleksandrów Kujawski;0401042;11970
+    gm.w. Bądkowo;0401052;4106
+    gm.w. Koneck;0401062;3141
+    gm.w. Raciążek;0401072;3203
+    gm.w. Waganiec;0401082;4444
+    gm.w. Zakrzewo;0401092;3393
+  Powiat brodnicki;0402000;78119
+    m. Brodnica;0402011;28617
+    gm.w. Bobrowo;0402022;6079
+    gm.w. Brodnica;0402032;9262
+    gm.w. Brzozie;0402042;3701
+    gm.m-w. Górzno;0402053;3766
+    gm.w. Bartniczka;0402062;4616
+    gm.m-w. Jabłonowo Pomorski;0402073;8457
+    gm.w. Osiek;0402082;3832
+    gm.w. Świedziebnia;0402092;4923
+    gm.w. Zbiczno;0402102;4866
+  Powiat bydgoski;0403000;124744
+    gm.w. Białe Błota;0403012;25377
+    gm.w. Dąbrowa Chełmińska;0403022;8516
+    gm.w. Dobrcz;0403032;12473
+    gm.m-w. Koronowo;0403043;23440
+    gm.w. Nowa Wieś Wielka;0403052;10233
+    gm.w. Osielsko;0403062;17502
+    gm.w. Sicienko;0403072;10691
+    gm.m-w. Solec Kujawski;0403083;16512
+  Powiat chełmiński;0404000;49710
+    m. Chełmno;0404011;18467
+    gm.w. Chełmno;0404022;6024
+    gm.w. Kijewo Królewskie;0404032;4319
+    gm.w. Lisewo;0404042;4959
+    gm.w. Papowo Biskupie;0404052;4039
+    gm.w. Stolno;0404062;5178
+    gm.w. Unisław;0404072;6724
+  Powiat golubsko-dobrzyński;0405000;43643
+    m. Golub-Dobrzyń;0405011;11502
+    gm.w. Ciechocin;0405022;3863
+    gm.w. Golub-Dobrzyń;0405032;8856
+    gm.m-w. Kowalewo Pomorskie;0405043;11195
+    gm.w. Radomin;0405052;3985
+    gm.w. Zbójno;0405062;4242
+  Powiat grudziądzki;0406000;39204
+    gm.w. Grudziądz;0406012;13458
+    gm.w. Gruta;0406022;6071
+    gm.m-w. Łasin;0406033;7451
+    gm.m-w. Radzyń Chełmiński;0406043;4458
+    gm.w. Rogóźno;0406052;3999
+    gm.w. Świecie nad Osą;0406062;3767
+  Powiat inowrocławski;0407000;152333
+    m. Inowrocław;0407011;68460
+    gm.w. Dąbrowa Biskupia;0407022;4926
+    gm.m-w. Gniewkowo;0407033;13742
+    gm.w. Inowrocław;0407042;12017
+    gm.m-w. Janikowo;0407053;12551
+    gm.m-w. Kruszwica;0407063;18067
+    gm.m-w. Pakość;0407073;9243
+    gm.w. Rojewo;0407082;4482
+    gm.w. Złotniki Kujawskie;0407092;8845
+  Powiat lipnowski;0408000;63215
+    m. Lipno;0408011;13563
+    gm.w. Bobrowniki;0408022;3010
+    gm.w. Chrostkowo;0408032;2825
+    gm.m-w. Dobrzyń nad Wisłą;0408043;7200
+    gm.w. Kikół;0408052;6708
+    gm.w. Lipno;0408062;11586
+    gm.m-w. Skępe;0408073;7123
+    gm.w. Tłuchowo;0408082;4447
+    gm.w. Wielgie;0408092;6753
+  Powiat mogileński;0409000;43923
+    gm.w. Dąbrowa;0409012;4368
+    gm.w. Jeziora Wielkie;0409022;4585
+    gm.m-w. Mogilno;0409033;24007
+    gm.m-w. Strzelno;0409043;10963
+  Powiat nakielski;0410000;83165
+    gm.m-w. Kcynia;0410013;12331
+    gm.m-w. Mrocza;0410023;8905
+    gm.m-w. Nakło nad Notecią;0410033;30079
+    gm.w. Sadki;0410042;6904
+    gm.m-w. Szubin;0410053;24946
+  Powiat radziejowski;0411000;38382
+    m. Radziejów;0411011;5166
+    gm.w. Bytoń;0411022;3363
+    gm.w. Dobre;0411032;4976
+    gm.w. Osięciny;0411042;7320
+    gm.m-w. Piotrków Kujawski;0411053;8756
+    gm.w. Radziejów;0411062;4271
+    gm.w. Topólka;0411072;4530
+  Powiat rypiński;0412000;41495
+    m. Rypin;0412011;15599
+    gm.w. Brzuze;0412022;4903
+    gm.w. Rogowo;0412032;4605
+    gm.w. Rypin;0412042;7253
+    gm.w. Skrwilno;0412052;5425
+    gm.w. Wąpielsk;0412062;3710
+  Powiat sępoleński;0413000;39319
+    gm.m-w. Kamień Krajeński;0413013;6603
+    gm.m-w. Sępólno Krajeńskie;0413023;15151
+    gm.w. Sośno;0413032;4605
+    gm.m-w. Więcbork;0413043;12960
+  Powiat świecki;0414000;95538
+    gm.w. Bukowiec;0414012;4924
+    gm.w. Dragacz;0414022;6893
+    gm.w. Drzycim;0414032;4801
+    gm.w. Jeżewo;0414042;7761
+    gm.w. Lniano;0414052;4108
+    gm.m-w. Nowe;0414063;9716
+    gm.w. Osie;0414072;5442
+    gm.m-w. Pruszcz;0414083;9216
+    gm.m-w. Świecie;0414093;33032
+    gm.w. Świekatowo;0414102;3498
+    gm.w. Warlubie;0414112;6147
+  Powiat toruński;0415000;113168
+    m. Chełmża;0415011;13853
+    gm.w. Chełmża;0415022;9587
+    gm.w. Czernikowo;0415032;8953
+    gm.w. Lubicz;0415042;21183
+    gm.w. Łubianka;0415052;7863
+    gm.w. Łysomice;0415062;10811
+    gm.w. Obrowo;0415072;19916
+    gm.w. Wielka Nieszawka;0415082;5173
+    gm.w. Zławieś Wielka;0415092;15829
+  Powiat tucholski;0416000;47165
+    gm.w. Cekcyn;0416012;6763
+    gm.w. Gostycyn;0416022;4949
+    gm.w. Kęsowo;0416032;4205
+    gm.w. Lubiewo;0416042;5804
+    gm.w. Śliwice;0416052;5572
+    gm.m-w. Tuchola;0416063;19872
+  Powiat wąbrzeski;0417000;32876
+    m. Wąbrzeźno;0417011;13154
+    gm.w. Dębowa Łąka;0417022;2965
+    gm.w. Książki;0417032;3858
+    gm.w. Płużnica;0417042;4540
+    gm.w. Ryńsk;0417052;8359
+  Powiat włocławski;0418000;82840
+    m. Kowal;0418011;3344
+    gm.w. Baruchowo;0418022;3318
+    gm.w. Boniewo;0418032;3206
+    gm.m-w. Brześć Kujawski;0418043;11018
+    gm.w. Choceń;0418052;7731
+    gm.m-w. Chodecz;0418063;5561
+    gm.w. Fabianki;0418072;10169
+    gm.m-w. Izbica Kujawska;0418083;7275
+    gm.w. Kowal;0418092;3853
+    gm.w. Lubanie;0418102;4346
+    gm.m-w. Lubień Kujawski;0418113;6861
+    gm.m-w. Lubraniec;0418123;8803
+    gm.w. Włocławek;0418132;7355
+  Powiat żniński;0419000;68153
+    gm.m-w. Barcin;0419013;14321
+    gm.w. Gąsawa;0419022;4995
+    gm.m-w. Janowiec Wielkopol;0419033;8532
+    gm.m-w. Łabiszyn;0419043;10548
+    gm.w. Rogowo;0419052;6653
+    gm.m-w. Żnin;0419063;23104
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Bydgoszcz;0461000;331898
+Grudziądz;0462000;89832
+Toruń;0463000;196298
+Włocławek;0464000;102730

@@ -1,0 +1,198 @@
+﻿WOJ. DOLNOŚLĄSKIE;;2892067
+  Powiat bolesławiecki;0201000;88022
+    m. Bolesławiec;0201011;37355
+    gm.w. Bolesławiec;0201022;15181
+    gm.w. Gromadka;0201032;5052
+    gm.m-w. Nowogrodziec;0201043;14730
+    gm.w. Osiecznica;0201052;7297
+    gm.w. Warta Bolesławiecka;0201062;8407
+  Powiat dzierżoniowski;0202000;96316
+    m. Bielawa;0202011;28475
+    m. Dzierżoniów;0202021;31256
+    gm.m-w. Pieszyce;0202033;9026
+    m. Piława Górna;0202041;6016
+    gm.w. Dzierżoniów;0202052;9193
+    gm.w. Łagiewniki;0202062;7214
+    gm.m-w. Niemcza;0202073;5136
+  Powiat głogowski;0203000;85966
+    m. Głogów;0203011;63240
+    gm.w. Głogów;0203022;7101
+    gm.w. Jerzmanowa;0203032;5697
+    gm.w. Kotla;0203042;4355
+    gm.w. Pęcław;0203052;2121
+    gm.w. Żukowice;0203062;3452
+  Powiat górowski;0204000;32842
+    gm.m-w. Góra;0204013;18704
+    gm.w. Jemielno;0204022;2757
+    gm.w. Niechlów;0204032;4566
+    gm.m-w. Wąsosz;0204043;6815
+  Powiat jaworski;0205000;47844
+    m. Jawor;0205011;21077
+    gm.m-w. Bolków;0205023;9705
+    gm.w. Męcinka;0205032;5126
+    gm.w. Mściwojów;0205042;4009
+    gm.w. Paszowice;0205052;4139
+    gm.w. Wądroże Wielkie;0205062;3788
+  Powiat karkonoski;0206000;61145
+    m. Karpacz;0206011;4333
+    m. Kowary;0206021;10003
+    m. Piechowice;0206031;5834
+    m. Szklarska Poręba;0206041;5817
+    gm.w. Janowice Wielkie;0206052;4102
+    gm.w. Jeżów Sudecki;0206062;7813
+    gm.w. Mysłakowice;0206072;9801
+    gm.w. Podgórzyn;0206082;8145
+    gm.w. Stara Kamienica;0206092;5297
+  Powiat kamiennogórski;0207000;40985
+    m. Kamienna Góra;0207011;17555
+    gm.w. Kamienna Góra;0207022;8857
+    gm.m-w. Lubawka;0207033;10265
+    gm.w. Marciszów;0207042;4308
+  Powiat kłodzki;0208000;149505
+    m. Duszniki-Zdrój;0208011;4124
+    m. Kłodzko;0208021;25239
+    m. Kudowa-Zdrój;0208031;9449
+    m. Nowa Ruda;0208041;20831
+    m. Polanica-Zdrój;0208051;6064
+    gm.m-w. Bystrzyca Kłodzka;0208063;17582
+    gm.w. Kłodzko;0208072;16587
+    gm.m-w. Lądek-Zdrój;0208083;7622
+    gm.w. Lewin Kłodzki;0208092;1960
+    gm.m-w. Międzylesie;0208103;6853
+    gm.w. Nowa Ruda;0208112;10796
+    gm.m-w. Radków;0208123;8549
+    gm.m-w. Stronie Śląskie;0208133;6873
+    gm.m-w. Szczytna;0208143;6976
+  Powiat legnicki;0209000;55023
+    m. Chojnów;0209011;12532
+    gm.w. Chojnów;0209022;9525
+    gm.w. Krotoszyce;0209032;3338
+    gm.w. Kunice;0209042;7554
+    gm.w. Legnickie Pole;0209052;5275
+    gm.w. Miłkowice;0209062;7128
+    gm.m-w. Prochowice;0209073;7231
+    gm.w. Ruja;0209082;2440
+  Powiat lubański;0210000;52117
+    m. Lubań;0210011;19851
+    m. Świeradów-Zdrój;0210021;4038
+    gm.m-w. Leśna;0210033;9392
+    gm.w. Lubań;0210042;6519
+    gm.m-w. Olszyna;0210053;6337
+    gm.w. Platerówka;0210062;1530
+    gm.w. Siekierczyn;0210072;4450
+  Powiat lubiński;0211000;103578
+    m. Lubin;0211011;68775
+    gm.w. Lubin;0211022;17883
+    gm.w. Rudna;0211032;7430
+    gm.m-w. Ścinawa;0211043;9490
+  Powiat lwówecki;0212000;43258
+    gm.m-w. Gryfów Śląski;0212013;9251
+    gm.m-w. Lubomierz;0212023;5646
+    gm.m-w. Lwówek Śląski;0212033;16267
+    gm.m-w. Mirsk;0212043;8157
+    gm.m-w. Wleń;0212053;3937
+  Powiat milicki;0213000;35902
+    gm.w. Cieszków;0213012;4566
+    gm.w. Krośnice;0213022;7980
+    gm.m-w. Milicz;0213033;23356
+  Powiat oleśnicki;0214000;106397
+    m. Oleśnica;0214011;35503
+    gm.m-w. Bierutów;0214023;9415
+    gm.w. Dobroszyce;0214032;7136
+    gm.w. Dziadowa Kłoda;0214042;4556
+    gm.m-w. Międzybórz;0214053;5048
+    gm.w. Oleśnica;0214062;15661
+    gm.m-w. Syców;0214073;16493
+    gm.m-w. Twardogóra;0214083;12585
+  Powiat oławski;0215000;77365
+    m. Oława;0215011;33158
+    gm.w. Domaniów;0215022;4934
+    gm.m-w. Jelcz-Laskowice;0215033;23682
+    gm.w. Oława;0215042;15591
+  Powiat polkowicki;0216000;61349
+    gm.m-w. Chocianów;0216013;12483
+    gm.w. Gaworzyce;0216022;3776
+    gm.w. Grębocice;0216032;5290
+    gm.m-w. Polkowice;0216043;26956
+    gm.m-w. Przemków;0216053;7892
+    gm.w. Radwanice;0216062;4952
+  Powiat strzeliński;0217000;42125
+    gm.w. Borów;0217012;5075
+    gm.w. Kondratowice;0217022;4013
+    gm.w. Przeworno;0217032;4549
+    gm.m-w. Strzelin;0217043;21503
+    gm.m-w. Wiązów;0217053;6985
+  Powiat średzki;0218000;58305
+    gm.w. Kostomłoty;0218012;7205
+    gm.w. Malczyce;0218022;5704
+    gm.w. Miękinia;0218032;20717
+    gm.m-w. Środa Śląska;0218043;19811
+    gm.w. Udanin;0218052;4868
+  Powiat świdnicki;0219000;151767
+    m. Świdnica;0219011;53797
+    m. Świebodzice;0219021;22002
+    gm.w. Dobromierz;0219032;4956
+    gm.m-w. Jaworzyna Śląska;0219043;10242
+    gm.w. Marcinowice;0219052;6314
+    gm.m-w. Strzegom;0219063;24455
+    gm.w. Świdnica;0219072;17816
+    gm.m-w. Żarów;0219083;12185
+  Powiat trzebnicki;0220000;87138
+    gm.m-w. Oborniki Śląskie;0220013;20931
+    gm.m-w. Prusice;0220023;9308
+    gm.m-w. Trzebnica;0220033;25031
+    gm.w. Wisznia Mała;0220042;11798
+    gm.w. Zawonia;0220052;5853
+    gm.m-w. Żmigród;0220063;14217
+  Powiat wałbrzyski;0221000;53334
+    m. Boguszów-Gorce;0221011;14455
+    m. Jedlina-Zdrój;0221021;4723
+    m. Szczawno-Zdrój;0221031;5266
+    gm.w. Czarny Bór;0221042;4791
+    gm.m-w. Głuszyca;0221053;8169
+    gm.m-w. Mieroszów;0221063;6321
+    gm.w. Stare Bogaczowice;0221072;4277
+    gm.w. Walim;0221082;5332
+  Powiat wołowski;0222000;45867
+    gm.m-w. Brzeg Dolny;0222013;16233
+    gm.w. Wińsko;0222022;7967
+    gm.m-w. Wołów;0222033;21667
+  Powiat wrocławski;0223000;181078
+    gm.w. Czernica;0223012;22538
+    gm.w. Długołęka;0223022;42458
+    gm.w. Jordanów Śląski;0223032;3270
+    gm.m-w. Kąty Wrocławskie;0223043;29471
+    gm.w. Kobierzyce;0223052;24262
+    gm.w. Mietków;0223062;3839
+    gm.m-w. Sobótka;0223073;12970
+    gm.m-w. Siechnice;0223083;29038
+    gm.w. Żórawina;0223092;13232
+  Powiat ząbkowicki;0224000;61439
+    gm.m-w. Bardo;0224013;5086
+    gm.w. Ciepłowody;0224022;2924
+    gm.m-w. Kamieniec Ząbkowic;0224033;7534
+    gm.w. Stoszowice;0224042;5190
+    gm.m-w. Ząbkowice Śląskie;0224053;20826
+    gm.m-w. Ziębice;0224063;15768
+    gm.m-w. Złoty Stok;0224073;4111
+  Powiat zgorzelecki;0225000;86226
+    m. Zawidów;0225011;3855
+    m. Zgorzelec;0225021;29371
+    gm.m-w. Bogatynia;0225033;21669
+    gm.m-w. Pieńsk;0225043;8777
+    gm.w. Sulików;0225052;5876
+    gm.m-w. Węgliniec;0225063;7914
+    gm.w. Zgorzelec;0225072;8764
+  Powiat złotoryjski;0226000;41104
+    m. Wojcieszów;0226011;3493
+    m. Złotoryja;0226021;14437
+    gm.w. Pielgrzymka;0226032;4272
+    gm.m-w. Świerzawa;0226043;7098
+    gm.w. Zagrodno;0226052;4871
+    gm.w. Złotoryja;0226062;6933
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Jelenia Góra;0261000;76184
+Legnica;0262000;93473
+Wrocław;0264000;673923
+Wałbrzych;0265000;102490

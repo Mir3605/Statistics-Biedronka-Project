@@ -1,0 +1,138 @@
+﻿WOJ. WARMIŃSKO-MAZURSKIE;;
+  Powiat bartoszycki;2801000;53466
+    m. Bartoszyce;2801011;21843
+    m. Górowo Iławeckie;2801021;3702
+    gm.w. Bartoszyce;2801032;10215
+    gm.m-w. Bisztynek;2801043;5744
+    gm.w. Górowo Iławeckie;2801052;6202
+    gm.m-w. Sępopol;2801063;5760
+  Powiat braniewski;2802000;38021
+    m. Braniewo;2802011;16331
+    gm.w. Braniewo;2802022;5454
+    gm.m-w. Frombork;2802033;3174
+    gm.w. Lelkowo;2802042;2440
+    gm.m-w. Pieniężno;2802053;5616
+    gm.w. Płoskinia;2802062;2371
+    gm.w. Wilczęta;2802072;2635
+  Powiat działdowski;2803000;62084
+    m. Działdowo;2803011;20452
+    gm.w. Działdowo;2803022;9506
+    gm.w. Iłowo-Osada;2803032;6812
+    gm.m-w. Lidzbark;2803043;13343
+    gm.w. Płośnica;2803052;5176
+    gm.w. Rybno;2803062;6795
+  Powiat elbląski;2804000;54757
+    gm.w. Elbląg;2804012;7622
+    gm.w. Godkowo;2804022;2747
+    gm.w. Gronowo Elbląskie;2804032;4852
+    gm.w. Markusy;2804042;3891
+    gm.w. Milejewo;2804052;3280
+    gm.m-w. Młynary;2804063;4209
+    gm.m-w. Pasłęk;2804073;18555
+    gm.w. Rychliki;2804082;3552
+    gm.m-w. Tolkmicko;2804093;6049
+  Powiat ełcki;2805000;88697
+    m. Ełk;2805011;60174
+    gm.w. Ełk;2805022;12171
+    gm.w. Kalinowo;2805032;6228
+    gm.w. Prostki;2805042;6759
+    gm.w. Stare Juchy;2805052;3365
+  Powiat giżycki;2806000;54165
+    m. Giżycko;2806011;27813
+    gm.w. Giżycko;2806042;8564
+    gm.w. Kruklanki;2806052;2976
+    gm.w. Miłki;2806062;3507
+    gm.m-w. Ryn;2806083;5424
+    gm.w. Wydminy;2806102;5881
+  Powiat iławski;2807000;90318
+    m. Iława;2807011;32409
+    m. Lubawa;2807021;10621
+    gm.w. Iława;2807032;13188
+    gm.m-w. Kisielice;2807043;5585
+    gm.w. Lubawa;2807052;10378
+    gm.m-w. Susz;2807063;11886
+    gm.m-w. Zalewo;2807073;6251
+  Powiat kętrzyński;2808000;58153
+    m. Kętrzyn;2808011;25693
+    gm.w. Barciany;2808022;5668
+    gm.w. Kętrzyn;2808032;7674
+    gm.m-w. Korsze;2808043;8918
+    gm.m-w. Reszel;2808053;6736
+    gm.w. Srokowo;2808062;3464
+  Powiat lidzbarski;2809000;38727
+    m. Lidzbark Warmiński;2809011;14708
+    gm.w. Kiwity;2809022;3117
+    gm.w. Lidzbark Warmiński;2809032;6441
+    gm.w. Lubomino;2809042;3371
+    gm.m-w. Orneta;2809053;11090
+  Powiat mrągowski;2810000;48055
+    m. Mrągowo;2810011;20904
+    gm.m-w. Mikołajki;2810023;7457
+    gm.w. Mrągowo;2810032;8039
+    gm.w. Piecki;2810042;7228
+    gm.w. Sorkwity;2810052;4427
+  Powiat nidzicki;2811000;30783
+    gm.w. Janowiec Kościelny;2811012;2960
+    gm.w. Janowo;2811022;2498
+    gm.w. Kozłowo;2811032;5440
+    gm.m-w. Nidzica;2811043;19885
+  Powiat nowomiejski;2812000;42274
+    m. Nowe Miasto Lubawskie;2812011;10278
+    gm.w. Biskupiec;2812022;8704
+    gm.w. Grodziczno;2812032;5940
+    gm.w. Kurzętnik;2812042;8944
+    gm.w. Nowe Miasto Lubawski;2812052;8408
+  Powiat olecki;2813000;32374
+    gm.w. Kowale Oleckie;2813032;4591
+    gm.m-w. Olecko;2813043;21208
+    gm.w. Świętajno;2813052;3387
+    gm.w. Wieliczki;2813062;3188
+  Powiat olsztyński;2814000;129088
+    gm.m-w. Barczewo;2814013;18174
+    gm.m-w. Biskupiec;2814023;17915
+    gm.m-w. Dobre Miasto;2814033;15173
+    gm.w. Dywity;2814042;13331
+    gm.w. Gietrzwałd;2814052;6843
+    gm.m-w. Jeziorany;2814063;7066
+    gm.w. Jonkowo;2814072;7720
+    gm.w. Kolno;2814082;2807
+    gm.m-w. Olsztynek;2814093;13180
+    gm.w. Purda;2814102;8903
+    gm.w. Stawiguda;2814112;14249
+    gm.w. Świątki;2814122;3727
+  Powiat ostródzki;2815000;100146
+    m. Ostróda;2815011;31704
+    gm.w. Dąbrówno;2815022;3930
+    gm.w. Grunwald;2815032;5135
+    gm.w. Łukta;2815042;4422
+    gm.w. Małdyty;2815052;5764
+    gm.m-w. Miłakowo;2815063;5056
+    gm.m-w. Miłomłyn;2815073;4804
+    gm.m-w. Morąg;2815083;23322
+    gm.w. Ostróda;2815092;16009
+  Powiat piski;2816000;52696
+    gm.m-w. Biała Piska;2816013;10610
+    gm.m-w. Orzysz;2816023;8431
+    gm.m-w. Pisz;2816033;26244
+    gm.m-w. Ruciane-Nida;2816043;7411
+  Powiat szczycieński;2817000;67001
+    m. Szczytno;2817011;22215
+    gm.w. Dźwierzuty;2817022;5926
+    gm.w. Jedwabno;2817032;3441
+    gm.m-w. Pasym;2817043;5049
+    gm.w. Rozogi;2817052;5251
+    gm.w. Szczytno;2817062;13446
+    gm.w. Świętajno;2817072;5388
+    gm.m-w. Wielbark;2817083;6285
+  Powiat gołdapski;2818000;25274
+    gm.w. Banie Mazurskie;2818012;3295
+    gm.w. Dubeninki;2818022;2664
+    gm.m-w. Gołdap;2818033;19315
+  Powiat węgorzewski;2819000;21101
+    gm.w. Budry;2819012;2590
+    gm.w. Pozezdrze;2819022;2968
+    gm.m-w. Węgorzewo;2819033;15543
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Elbląg;2861000;113912
+Olsztyn;2862000;168803

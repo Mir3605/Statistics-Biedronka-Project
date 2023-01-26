@@ -1,0 +1,204 @@
+﻿WOJ. MAŁOPOLSKIE;;3428929
+  Powiat bocheński;1201000;106746
+    m. Bochnia;1201011;28698
+    gm.w. Bochnia;1201022;20545
+    gm.w. Drwinia;1201032;6469
+    gm.w. Lipnica Murowana;1201042;5547
+    gm.w. Łapanów;1201052;8517
+    gm.m-w. Nowy Wiśnicz;1201063;14369
+    gm.w. Rzezawa;1201072;11401
+    gm.w. Trzciana;1201082;5669
+    gm.w. Żegocina;1201092;5531
+  Powiat brzeski;1202000;91996
+    gm.w. Borzęcin;1202012;8155
+    gm.m-w. Brzesko;1202023;35607
+    gm.m-w. Czchów;1202033;9792
+    gm.w. Dębno;1202042;14481
+    gm.w. Gnojnik;1202052;8116
+    gm.w. Iwkowa;1202062;6607
+    gm.w. Szczurowa;1202072;9238
+  Powiat chrzanowski;1203000;120182
+    gm.m-w. Alwernia;1203013;12397
+    gm.w. Babice;1203022;9012
+    gm.m-w. Chrzanów;1203033;44653
+    gm.m-w. Libiąż;1203043;21425
+    gm.m-w. Trzebinia;1203053;32695
+  Powiat dąbrowski;1204000;57819
+    gm.w. Bolesław;1204012;2659
+    gm.m-w. Dąbrowa Tarnowska;1204023;20885
+    gm.w. Gręboszów;1204032;3221
+    gm.w. Mędrzechów;1204042;3350
+    gm.w. Olesno;1204052;7669
+    gm.w. Radgoszcz;1204062;7448
+    gm.m-w. Szczucin;1204073;12587
+  Powiat gorlicki;1205000;105984
+    m. Gorlice;1205011;25944
+    gm.m-w. Biecz;1205023;16254
+    gm.m-w. Bobowa;1205033;9556
+    gm.w. Gorlice;1205042;16995
+    gm.w. Lipinki;1205052;6718
+    gm.w. Łużna;1205062;8390
+    gm.w. Moszczenica;1205072;4878
+    gm.w. Ropa;1205082;5525
+    gm.w. Sękowa;1205092;4888
+    gm.w. Uście Gorlickie;1205102;6836
+  Powiat krakowski;1206000;299518
+    gm.w. Czernichów;1206012;15293
+    gm.w. Igołomia-Wawrzeńczyc;1206022;7872
+    gm.w. Iwanowice;1206032;9783
+    gm.w. Jerzmanowice-Przegin;1206042;11189
+    gm.w. Kocmyrzów-Luborzyca;1206052;17890
+    gm.m-w. Krzeszowice;1206063;31984
+    gm.w. Liszki;1206072;18260
+    gm.w. Michałowice;1206082;13038
+    gm.w. Mogilany;1206092;16150
+    gm.m-w. Skała;1206103;10958
+    gm.m-w. Skawina;1206113;44032
+    gm.m-w. Słomniki;1206123;13815
+    gm.w. Sułoszowa;1206132;5710
+    gm.m-w. Świątniki Górne;1206143;11053
+    gm.w. Wielka Wieś;1206152;16216
+    gm.w. Zabierzów;1206162;29252
+    gm.w. Zielonki;1206172;27023
+  Powiat limanowski;1207000;131332
+    m. Limanowa;1207011;14565
+    m. Mszana Dolna;1207021;7840
+    gm.w. Dobra;1207032;10048
+    gm.w. Jodłownik;1207042;8749
+    gm.w. Kamienica;1207052;7801
+    gm.w. Laskowa;1207062;8164
+    gm.w. Limanowa;1207072;25863
+    gm.w. Łukowica;1207082;10153
+    gm.w. Mszana Dolna;1207092;17591
+    gm.w. Niedźwiedź;1207102;7291
+    gm.w. Słopnice;1207112;6857
+    gm.w. Tymbark;1207122;6410
+  Powiat miechowski;1208000;47177
+    gm.w. Charsznica;1208012;7174
+    gm.w. Gołcza;1208022;5992
+    gm.w. Kozłów;1208032;4429
+    gm.w. Książ Wielki;1208042;4921
+    gm.m-w. Miechów;1208053;18849
+    gm.w. Racławice;1208062;2436
+    gm.w. Słaboszów;1208072;3376
+  Powiat myślenicki;1209000;129443
+    gm.m-w. Dobczyce;1209013;15510
+    gm.w. Lubień;1209022;10096
+    gm.m-w. Myślenice;1209033;45349
+    gm.w. Pcim;1209042;11107
+    gm.w. Raciechowice;1209052;6420
+    gm.w. Siepraw;1209062;9530
+    gm.m-w. Sułkowice;1209073;15132
+    gm.w. Tokarnia;1209082;8809
+    gm.w. Wiśniowa;1209092;7490
+  Powiat nowosądecki;1210000;214675
+    m. Grybów;1210011;5968
+    gm.w. Chełmiec;1210022;29396
+    gm.w. Gródek nad Dunajcem;1210032;8934
+    gm.w. Grybów;1210042;25286
+    gm.w. Kamionka Wielka;1210052;10476
+    gm.w. Korzenna;1210062;14346
+    gm.m-w. Krynica-Zdrój;1210073;15860
+    gm.w. Łabowa;1210082;5959
+    gm.w. Łącko;1210092;16650
+    gm.w. Łososina Dolna;1210102;11138
+    gm.m-w. Muszyna;1210113;11183
+    gm.w. Nawojowa;1210122;8767
+    gm.m-w. Piwniczna-Zdrój;1210133;10058
+    gm.w. Podegrodzie;1210142;13461
+    gm.w. Rytro;1210152;3683
+    gm.m-w. Stary Sącz;1210163;23510
+  Powiat nowotarski;1211000;190090
+    m. Nowy Targ;1211011;33088
+    gm.m-w. Szczawnica;1211023;6813
+    gm.w. Czarny Dunajec;1211032;22085
+    gm.w. Czorsztyn;1211042;7618
+    gm.w. Jabłonka;1211052;18989
+    gm.w. Krościenko nad Dunaj;1211062;6677
+    gm.w. Lipnica Wielka;1211072;6056
+    gm.w. Łapsze Niżne;1211082;9238
+    gm.w. Nowy Targ;1211092;24031
+    gm.w. Ochotnica Dolna;1211102;8416
+    gm.w. Raba Wyżna;1211112;14482
+    gm.m-w. Rabka-Zdrój;1211123;16705
+    gm.w. Spytkowice;1211132;4676
+    gm.w. Szaflary;1211142;11216
+  Powiat olkuski;1212000;107297
+    m. Bukowno;1212011;9651
+    gm.w. Bolesław;1212032;7619
+    gm.w. Klucze;1212042;14638
+    gm.m-w. Olkusz;1212053;46351
+    gm.w. Trzyciąż;1212062;6927
+    gm.m-w. Wolbrom;1212073;22111
+  Powiat oświęcimski;1213000;149639
+    m. Oświęcim;1213011;36279
+    gm.m-w. Brzeszcze;1213023;20628
+    gm.m-w. Chełmek;1213033;12421
+    gm.m-w. Kęty;1213043;33387
+    gm.w. Osiek;1213052;8159
+    gm.w. Oświęcim;1213062;18888
+    gm.w. Polanka Wielka;1213072;4311
+    gm.w. Przeciszów;1213082;6445
+    gm.m-w. Zator;1213093;9121
+  Powiat proszowicki;1214000;42383
+    gm.w. Koniusza;1214012;9084
+    gm.m-w. Koszyce;1214023;5260
+    gm.m-w. Nowe Brzesko;1214033;5665
+    gm.w. Pałecznica;1214042;3492
+    gm.m-w. Proszowice;1214053;15657
+    gm.w. Radziemice;1214062;3225
+  Powiat suski;1215000;83097
+    m. Jordanów;1215011;5395
+    m. Sucha Beskidzka;1215021;8876
+    gm.w. Budzów;1215032;8817
+    gm.w. Bystra-Sidzina;1215042;6836
+    gm.w. Jordanów;1215052;11189
+    gm.m-w. Maków Podhalański;1215063;15808
+    gm.w. Stryszawa;1215072;11924
+    gm.w. Zawoja;1215082;8813
+    gm.w. Zembrzyce;1215092;5439
+  Powiat tarnowski;1216000;197751
+    gm.m-w. Ciężkowice;1216013;11037
+    gm.w. Gromnik;1216022;8705
+    gm.w. Lisia Góra;1216032;15565
+    gm.w. Pleśna;1216042;11794
+    gm.m-w. Radłów;1216053;9414
+    gm.m-w. Ryglice;1216063;11268
+    gm.w. Rzepiennik Strzyżews;1216072;6575
+    gm.w. Skrzyszów;1216082;14109
+    gm.w. Tarnów;1216092;26279
+    gm.m-w. Tuchów;1216103;17165
+    gm.w. Wierzchosławice;1216112;10588
+    gm.w. Wietrzychowice;1216122;3779
+    gm.m-w. Wojnicz;1216133;13049
+    gm.m-w. Zakliczyn;1216143;12381
+    gm.m-w. Żabno;1216153;18509
+    gm.w. Szerzyny;1216162;7534
+  Powiat tatrzański;1217000;66619
+    m. Zakopane;1217011;25456
+    gm.w. Biały Dunajec;1217022;6847
+    gm.w. Bukowina Tatrzańska;1217032;13504
+    gm.w. Kościelisko;1217042;9039
+    gm.w. Poronin;1217052;11773
+  Powiat wadowicki;1218000;157978
+    gm.m-w. Andrychów;1218013;42283
+    gm.w. Brzeźnica;1218022;10749
+    gm.m-w. Kalwaria Zebrzydow;1218033;19932
+    gm.w. Lanckorona;1218042;6267
+    gm.w. Mucharz;1218052;4141
+    gm.w. Spytkowice;1218062;10135
+    gm.w. Stryszów;1218072;6829
+    gm.w. Tomice;1218082;8181
+    gm.m-w. Wadowice;1218093;36830
+    gm.w. Wieprz;1218102;12631
+  Powiat wielicki;1219000;141212
+    gm.w. Biskupice;1219012;11480
+    gm.w. Gdów;1219022;18577
+    gm.w. Kłaj;1219032;11091
+    gm.m-w. Niepołomice;1219043;32552
+    gm.m-w. Wieliczka;1219053;67512
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Kraków;1261000;802781
+Nowy Sącz;1262000;80756
+Tarnów;1263000;104454

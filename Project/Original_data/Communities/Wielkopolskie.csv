@@ -1,0 +1,260 @@
+﻿WOJ. WIELKOPOLSKIE;;3496307
+  Powiat chodzieski;3001000;45636
+    m. Chodzież;3001011;17722
+    gm.m-w. Budzyń;3001023;8326
+    gm.w. Chodzież;3001032;6051
+    gm.m-w. Margonin;3001043;6342
+    gm.m-w. Szamocin;3001053;7195
+  Powiat czarnkowsko-trzcianec;3002000;84302
+    m. Czarnków;3002011;10146
+    gm.w. Czarnków;3002022;11155
+    gm.w. Drawsko;3002032;5615
+    gm.m-w. Krzyż Wielkopolski;3002043;8359
+    gm.w. Lubasz;3002052;7540
+    gm.w. Połajewo;3002062;6039
+    gm.m-w. Trzcianka;3002073;23586
+    gm.m-w. Wieleń;3002083;11862
+  Powiat gnieźnieński;3003000;141941
+    m. Gniezno;3003011;64535
+    gm.m-w. Czerniejewo;3003023;7225
+    gm.w. Gniezno;3003032;14027
+    gm.w. Kiszkowo;3003042;5207
+    gm.m-w. Kłecko;3003053;7211
+    gm.w. Łubowo;3003062;7112
+    gm.w. Mieleszyn;3003072;3713
+    gm.w. Niechanowo;3003082;5989
+    gm.m-w. Trzemeszno;3003093;13855
+    gm.m-w. Witkowo;3003103;13067
+  Powiat gostyński;3004000;73963
+    gm.m-w. Borek Wielkopolski;3004013;7095
+    gm.m-w. Gostyń;3004023;27866
+    gm.m-w. Krobia;3004033;12694
+    gm.w. Pępowo;3004042;5770
+    gm.w. Piaski;3004052;8316
+    gm.m-w. Pogorzela;3004063;4682
+    gm.m-w. Poniec;3004073;7540
+  Powiat grodziski;3005000;51528
+    gm.w. Granowo;3005012;5025
+    gm.m-w. Grodzisk Wielkopol;3005023;20364
+    gm.w. Kamieniec;3005032;6225
+    gm.m-w. Rakoniewice;3005043;13221
+    gm.m-w. Wielichowo;3005053;6693
+  Powiat jarociński;3006000;70111
+    gm.m-w. Jaraczewo;3006013;7682
+    gm.m-w. Jarocin;3006023;45608
+    gm.w. Kotlin;3006032;7025
+    gm.m-w. Żerków;3006043;9796
+  Powiat kaliski;3007000;82634
+    gm.w. Blizanów;3007012;10145
+    gm.w. Brzeziny;3007022;5730
+    gm.w. Ceków-Kolonia;3007032;4778
+    gm.w. Godziesze Wielkie;3007042;10071
+    gm.m-w. Koźminek;3007053;7366
+    gm.w. Lisków;3007062;5176
+    gm.w. Mycielin;3007072;4689
+    gm.m-w. Opatówek;3007083;10668
+    gm.m-w. Stawiszyn;3007093;6780
+    gm.w. Szczytniki;3007102;7611
+    gm.w. Żelazków;3007112;9620
+  Powiat kępiński;3008000;56183
+    gm.w. Baranów;3008012;8272
+    gm.w. Bralin;3008022;6085
+    gm.m-w. Kępno;3008033;24328
+    gm.w. Łęka Opatowska;3008042;5167
+    gm.w. Perzów;3008052;3785
+    gm.w. Rychtal;3008062;3630
+    gm.w. Trzcinica;3008072;4916
+  Powiat kolski;3009000;82314
+    m. Koło;3009011;19862
+    gm.w. Babiak;3009022;7428
+    gm.w. Chodów;3009032;2826
+    gm.m-w. Dąbie;3009043;5814
+    gm.w. Grzegorzew;3009052;5395
+    gm.m-w. Kłodawa;3009063;11950
+    gm.w. Koło;3009072;7930
+    gm.w. Kościelec;3009082;6761
+    gm.w. Olszówka;3009092;4190
+    gm.w. Osiek Mały;3009102;6222
+    gm.m-w. Przedecz;3009113;3936
+  Powiat koniński;3010000;128948
+    gm.m-w. Golina;3010013;12214
+    gm.w. Grodziec;3010022;5035
+    gm.w. Kazimierz Biskupi;3010032;11497
+    gm.m-w. Kleczew;3010043;9664
+    gm.w. Kramsk;3010052;11558
+    gm.w. Krzymów;3010062;8273
+    gm.m-w. Rychwał;3010073;8010
+    gm.w. Rzgów;3010082;7135
+    gm.w. Skulsk;3010092;5787
+    gm.m-w. Sompolno;3010103;10168
+    gm.w. Stare Miasto;3010112;12807
+    gm.m-w. Ślesin;3010123;13972
+    gm.w. Wierzbinek;3010132;6975
+    gm.w. Wilczyn;3010142;5853
+  Powiat kościański;3011000;77604
+    m. Kościan;3011011;23713
+    gm.m-w. Czempiń;3011023;11439
+    gm.w. Kościan;3011032;15830
+    gm.m-w. Krzywiń;3011043;9551
+    gm.m-w. Śmigiel;3011053;17071
+  Powiat krotoszyński;3012000;75481
+    m. Sulmierzyce;3012011;2726
+    gm.m-w. Kobylin;3012023;7725
+    gm.m-w. Koźmin Wielkopolsk;3012033;12743
+    gm.m-w. Krotoszyn;3012043;39652
+    gm.w. Rozdrażew;3012052;5009
+    gm.m-w. Zduny;3012063;7626
+  Powiat leszczyński;3013000;59261
+    gm.w. Krzemieniewo;3013012;7883
+    gm.w. Lipno;3013022;9569
+    gm.m-w. Osieczna;3013033;9283
+    gm.m-w. Rydzyna;3013043;10323
+    gm.w. Święciechowa;3013052;8620
+    gm.w. Wijewo;3013062;3750
+    gm.w. Włoszakowice;3013072;9833
+  Powiat międzychodzki;3014000;35802
+    gm.w. Chrzypsko Wielkie;3014012;3210
+    gm.w. Kwilcz;3014022;6125
+    gm.m-w. Międzychód;3014033;17951
+    gm.m-w. Sieraków;3014043;8516
+  Powiat nowotomyski;3015000;75157
+    gm.w. Kuślin;3015012;5165
+    gm.m-w. Lwówek;3015023;8797
+    gm.w. Miedzichowo;3015032;3850
+    gm.m-w. Nowy Tomyśl;3015043;27575
+    gm.m-w. Opalenica;3015053;16053
+    gm.m-w. Zbąszyń;3015063;13717
+  Powiat obornicki;3016000;59110
+    gm.m-w. Oborniki;3016013;34160
+    gm.m-w. Rogoźno;3016023;18061
+    gm.w. Ryczywół;3016032;6889
+  Powiat ostrowski;3017000;159095
+    m. Ostrów Wielkopolski;3017011;70062
+    gm.m-w. Nowe Skalmierzyce;3017023;15924
+    gm.m-w. Odolanów;3017033;14453
+    gm.w. Ostrów Wielkopolski;3017042;19188
+    gm.w. Przygodzice;3017052;12334
+    gm.m-w. Raszków;3017063;11485
+    gm.w. Sieroszewice;3017072;9340
+    gm.w. Sośnie;3017082;6309
+  Powiat ostrzeszowski;3018000;54765
+    gm.w. Czajków;3018012;2477
+    gm.w. Doruchów;3018022;5098
+    gm.m-w. Grabów nad Prosną;3018033;7727
+    gm.w. Kobyla Góra;3018042;6200
+    gm.w. Kraszewice;3018052;3521
+    gm.m-w. Mikstat;3018063;5838
+    gm.m-w. Ostrzeszów;3018073;23904
+  Powiat pilski;3019000;131533
+    m. Piła;3019011;70861
+    gm.w. Białośliwie;3019022;4555
+    gm.m-w. Kaczory;3019033;7475
+    gm.m-w. Łobżenica;3019043;9108
+    gm.w. Miasteczko Krajeński;3019052;3003
+    gm.w. Szydłowo;3019062;9503
+    gm.m-w. Ujście;3019073;7644
+    gm.m-w. Wyrzysk;3019083;13221
+    gm.m-w. Wysoka;3019093;6163
+  Powiat pleszewski;3020000;61547
+    gm.m-w. Chocz;3020013;4451
+    gm.w. Czermin;3020022;4835
+    gm.m-w. Dobrzyca;3020033;7697
+    gm.w. Gizałki;3020042;4475
+    gm.w. Gołuchów;3020052;11096
+    gm.m-w. Pleszew;3020063;28993
+  Powiat poznański;3021000;439834
+    m. Luboń;3021011;32900
+    m. Puszczykowo;3021021;9384
+    gm.m-w. Buk;3021033;12770
+    gm.w. Czerwonak;3021042;27867
+    gm.w. Dopiewo;3021052;34406
+    gm.w. Kleszczewo;3021062;11102
+    gm.w. Komorniki;3021072;36159
+    gm.m-w. Kostrzyn;3021083;19771
+    gm.m-w. Kórnik;3021093;35228
+    gm.m-w. Mosina;3021103;35093
+    gm.m-w. Murowana Goślina;3021113;16927
+    gm.m-w. Pobiedziska;3021123;21136
+    gm.w. Rokietnica;3021132;23232
+    gm.m-w. Stęszew;3021143;15431
+    gm.w. Suchy Las;3021152;20256
+    gm.m-w. Swarzędz;3021163;55926
+    gm.w. Tarnowo Podgórne;3021172;32246
+  Powiat rawicki;3022000;58964
+    gm.m-w. Bojanowo;3022013;8302
+    gm.m-w. Jutrosin;3022023;6938
+    gm.m-w. Miejska Górka;3022033;8881
+    gm.w. Pakosław;3022042;4786
+    gm.m-w. Rawicz;3022053;30057
+  Powiat słupecki;3023000;57675
+    m. Słupca;3023011;13176
+    gm.w. Lądek;3023022;5500
+    gm.w. Orchowo;3023032;3588
+    gm.w. Ostrowite;3023042;4829
+    gm.w. Powidz;3023052;2226
+    gm.w. Słupca;3023062;9827
+    gm.w. Strzałkowo;3023072;9996
+    gm.m-w. Zagórów;3023083;8533
+  Powiat szamotulski;3024000;91607
+    m. Obrzycko;3024011;2381
+    gm.w. Duszniki;3024022;9505
+    gm.w. Kaźmierz;3024032;9205
+    gm.w. Obrzycko;3024042;4422
+    gm.m-w. Ostroróg;3024053;4743
+    gm.m-w. Pniewy;3024063;12470
+    gm.m-w. Szamotuły;3024073;30073
+    gm.m-w. Wronki;3024083;18808
+  Powiat średzki;3025000;59721
+    gm.w. Dominowo;3025012;3326
+    gm.w. Krzykosy;3025022;7306
+    gm.w. Nowe Miasto nad Wart;3025032;8633
+    gm.m-w. Środa Wielkopolska;3025043;33573
+    gm.w. Zaniemyśl;3025052;6883
+  Powiat śremski;3026000;61122
+    gm.w. Brodnica;3026012;4766
+    gm.m-w. Dolsk;3026023;5752
+    gm.m-w. Książ Wielkopolski;3026033;8116
+    gm.m-w. Śrem;3026043;42488
+  Powiat turecki;3027000;81517
+    m. Turek;3027011;24977
+    gm.w. Brudzew;3027022;5930
+    gm.m-w. Dobra;3027033;5848
+    gm.w. Kawęczyn;3027042;4965
+    gm.w. Malanów;3027052;6498
+    gm.w. Przykona;3027062;4612
+    gm.m-w. Tuliszków;3027073;10203
+    gm.w. Turek;3027082;10524
+    gm.w. Władysławów;3027092;7960
+  Powiat wągrowiecki;3028000;69067
+    m. Wągrowiec;3028011;25539
+    gm.w. Damasławek;3028022;5054
+    gm.m-w. Gołańcz;3028033;7820
+    gm.w. Mieścisko;3028042;5732
+    gm.m-w. Skoki;3028053;10053
+    gm.w. Wapno;3028062;2711
+    gm.w. Wągrowiec;3028072;12158
+  Powiat wolsztyński;3029000;56770
+    gm.w. Przemęt;3029012;14035
+    gm.w. Siedlec;3029022;12405
+    gm.m-w. Wolsztyn;3029033;30330
+  Powiat wrzesiński;3030000;78088
+    gm.w. Kołaczkowo;3030012;5643
+    gm.m-w. Miłosław;3030023;9934
+    gm.m-w. Nekla;3030033;7798
+    gm.m-w. Pyzdry;3030043;6536
+    gm.m-w. Września;3030053;48177
+  Powiat złotowski;3031000;67725
+    m. Złotów;3031011;18411
+    gm.m-w. Jastrowie;3031023;10979
+    gm.m-w. Krajenka;3031033;7381
+    gm.w. Lipka;3031042;5295
+    gm.m-w. Okonek;3031053;7967
+    gm.w. Tarnówka;3031062;2955
+    gm.w. Zakrzewo;3031072;4860
+    gm.w. Złotów;3031082;9877
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Kalisz;3061000;94489
+Konin;3062000;68483
+Leszno;3063000;60983
+Poznań;3064000;543347

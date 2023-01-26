@@ -1,0 +1,201 @@
+﻿WOJ. ŁÓDZKIE;;2385620
+  Powiat bełchatowski;1001000;109242
+    m. Bełchatów;1001011;53309
+    gm.w. Bełchatów;1001022;12734
+    gm.w. Drużbice;1001032;5251
+    gm.w. Kleszczów;1001042;6166
+    gm.w. Kluki;1001052;4340
+    gm.w. Rusiec;1001062;4845
+    gm.w. Szczerców;1001072;8155
+    gm.m-w. Zelów;1001083;14442
+  Powiat kutnowski;1002000;91922
+    m. Kutno;1002011;41461
+    gm.w. Bedlno;1002022;5149
+    gm.w. Dąbrowice;1002032;1790
+    gm.m-w. Krośniewice;1002043;7878
+    gm.w. Krzyżanów;1002052;4006
+    gm.w. Kutno;1002062;8872
+    gm.w. Łanięta;1002072;2200
+    gm.w. Nowe Ostrowy;1002082;3261
+    gm.w. Oporów;1002092;2401
+    gm.w. Strzelce;1002102;3760
+    gm.m-w. Żychlin;1002113;11144
+  Powiat łaski;1003000;49052
+    gm.w. Buczek;1003012;5069
+    gm.m-w. Łask;1003023;27080
+    gm.w. Sędziejowice;1003032;6240
+    gm.w. Widawa;1003042;6963
+    gm.w. Wodzierady;1003052;3700
+  Powiat łęczycki;1004000;47195
+    m. Łęczyca;1004011;13261
+    gm.w. Daszyna;1004022;3681
+    gm.w. Góra Świętej Małgorz;1004032;4253
+    gm.w. Grabów;1004042;5384
+    gm.w. Łęczyca;1004052;8235
+    gm.m-w. Piątek;1004063;5654
+    gm.w. Świnice Warckie;1004072;3673
+    gm.w. Witonia;1004082;3054
+  Powiat łowicki;1005000;74815
+    m. Łowicz;1005011;26393
+    gm.w. Bielawy;1005022;5116
+    gm.w. Chąśno;1005032;2885
+    gm.w. Domaniewice;1005042;4532
+    gm.w. Kiernozia;1005052;3140
+    gm.w. Kocierzew Południowy;1005062;4056
+    gm.w. Łowicz;1005072;7674
+    gm.w. Łyszkowice;1005082;6476
+    gm.w. Nieborów;1005092;9268
+    gm.w. Zduny;1005102;5275
+  Powiat łódzki wschodni;1006000;74203
+    gm.w. Andrespol;1006022;14581
+    gm.w. Brójce;1006032;7209
+    gm.m-w. Koluszki;1006073;22984
+    gm.w. Nowosolna;1006082;5593
+    gm.m-w. Rzgów;1006103;11154
+    gm.m-w. Tuszyn;1006113;12682
+  Powiat opoczyński;1007000;72560
+    gm.w. Białaczów;1007012;5544
+    gm.m-w. Drzewica;1007023;9886
+    gm.w. Mniszków;1007032;4717
+    gm.m-w. Opoczno;1007043;32197
+    gm.w. Paradyż;1007052;4210
+    gm.w. Poświętne;1007062;2950
+    gm.w. Sławno;1007072;7500
+    gm.w. Żarnów;1007082;5556
+  Powiat pabianicki;1008000;119512
+    m. Konstantynów Łódzki;1008011;19139
+    m. Pabianice;1008021;61754
+    gm.w. Dłutów;1008032;4917
+    gm.w. Dobroń;1008042;8067
+    gm.w. Ksawerów;1008052;7607
+    gm.m-w. Lutomiersk;1008063;9375
+    gm.w. Pabianice;1008072;8653
+  Powiat pajęczański;1009000;49158
+    gm.m-w. Działoszyn;1009013;11689
+    gm.w. Kiełczygłów;1009022;3803
+    gm.w. Nowa Brzeźnica;1009032;4398
+    gm.m-w. Pajęczno;1009043;11236
+    gm.w. Rząśnia;1009052;4897
+    gm.w. Siemkowice;1009062;4494
+    gm.w. Strzelce Wielkie;1009072;4224
+    gm.w. Sulmierzyce;1009082;4417
+  Powiat piotrkowski;1010000;90408
+    gm.w. Aleksandrów;1010012;4280
+    gm.w. Czarnocin;1010022;4082
+    gm.w. Gorzkowice;1010032;8255
+    gm.w. Grabica;1010042;6041
+    gm.w. Łęki Szlacheckie;1010052;3225
+    gm.w. Moszczenica;1010062;12613
+    gm.w. Ręczno;1010072;3360
+    gm.w. Rozprza;1010082;12227
+    gm.m-w. Sulejów;1010093;16538
+    gm.w. Wola Krzysztoporska;1010102;11949
+    gm.m-w. Wolbórz;1010113;7838
+  Powiat poddębicki;1011000;39629
+    gm.w. Dalików;1011012;3977
+    gm.w. Pęczniew;1011022;3395
+    gm.m-w. Poddębice;1011033;14672
+    gm.m-w. Uniejów;1011043;6772
+    gm.w. Wartkowice;1011052;6091
+    gm.w. Zadzim;1011062;4722
+  Powiat radomszczański;1012000;108000
+    m. Radomsko;1012011;43698
+    gm.w. Dobryszyce;1012022;4576
+    gm.w. Gidle;1012032;5773
+    gm.w. Gomunice;1012042;5681
+    gm.m-w. Kamieńsk;1012053;5645
+    gm.w. Kobiele Wielkie;1012062;4274
+    gm.w. Kodrąb;1012072;4306
+    gm.w. Lgota Wielka;1012082;4210
+    gm.w. Ładzice;1012092;4650
+    gm.w. Masłowice;1012102;3940
+    gm.m-w. Przedbórz;1012113;6660
+    gm.w. Radomsko;1012122;5421
+    gm.w. Wielgomłyny;1012132;4356
+    gm.w. Żytno;1012142;4810
+  Powiat rawski;1013000;46584
+    m. Rawa Mazowiecka;1013011;16168
+    gm.m-w. Biała Rawska;1013023;10922
+    gm.w. Cielądz;1013032;3945
+    gm.w. Rawa Mazowiecka;1013042;8668
+    gm.w. Regnów;1013052;1709
+    gm.w. Sadkowice;1013062;5172
+  Powiat sieradzki;1014000;112694
+    m. Sieradz;1014011;39351
+    gm.m-w. Błaszki;1014023;14051
+    gm.w. Brąszewice;1014032;4355
+    gm.w. Brzeźnio;1014042;6176
+    gm.w. Burzenin;1014052;5290
+    gm.w. Goszczanów;1014062;5163
+    gm.w. Klonowa;1014072;2785
+    gm.w. Sieradz;1014082;10766
+    gm.m-w. Warta;1014093;11960
+    gm.w. Wróblew;1014102;5929
+    gm.m-w. Złoczew;1014113;6868
+  Powiat skierniewicki;1015000;37815
+    gm.m-w. Bolimów;1015013;3886
+    gm.w. Głuchów;1015022;5540
+    gm.w. Godzianów;1015032;2580
+    gm.w. Kowiesy;1015042;2810
+    gm.w. Lipce Reymontowskie;1015052;3142
+    gm.w. Maków;1015062;5970
+    gm.w. Nowy Kawęczyn;1015072;3377
+    gm.w. Skierniewice;1015082;8013
+    gm.w. Słupia;1015092;2497
+  Powiat tomaszowski;1016000;111828
+    m. Tomaszów Mazowiecki;1016011;58421
+    gm.w. Będków;1016022;3153
+    gm.w. Budziszewice;1016032;2097
+    gm.w. Czerniewice;1016042;4871
+    gm.w. Inowłódz;1016052;3662
+    gm.w. Lubochnia;1016062;7289
+    gm.w. Rokiciny;1016072;6147
+    gm.w. Rzeczyca;1016082;4429
+    gm.w. Tomaszów Mazowiecki;1016092;11243
+    gm.w. Ujazd;1016102;7368
+    gm.w. Żelechlinek;1016112;3148
+  Powiat wieluński;1017000;73372
+    gm.w. Biała;1017012;5328
+    gm.w. Czarnożyły;1017022;4408
+    gm.w. Konopnica;1017032;3569
+    gm.w. Mokrsko;1017042;5133
+    gm.w. Osjaków;1017052;4627
+    gm.w. Ostrówek;1017062;4419
+    gm.w. Pątnów;1017072;6223
+    gm.w. Skomlin;1017082;3208
+    gm.m-w. Wieluń;1017093;30010
+    gm.w. Wierzchlas;1017102;6447
+  Powiat wieruszowski;1018000;41602
+    gm.w. Bolesławiec;1018012;3953
+    gm.w. Czastary;1018022;3873
+    gm.w. Galewice;1018032;6118
+    gm.m-w. Lututów;1018043;4604
+    gm.w. Łubnice;1018052;3884
+    gm.w. Sokolniki;1018062;5011
+    gm.m-w. Wieruszów;1018073;14159
+  Powiat zduńskowolski;1019000;64016
+    m. Zduńska Wola;1019011;39172
+    gm.m-w. Szadek;1019023;7116
+    gm.w. Zapolice;1019032;5478
+    gm.w. Zduńska Wola;1019042;12250
+  Powiat zgierski;1020000;166869
+    m. Głowno;1020011;13293
+    m. Ozorków;1020021;18369
+    m. Zgierz;1020031;54254
+    gm.m-w. Aleksandrów Łódzki;1020043;34753
+    gm.w. Głowno;1020052;4668
+    gm.w. Ozorków;1020062;7189
+    gm.w. Parzęczew;1020072;5261
+    gm.m-w. Stryków;1020083;13005
+    gm.w. Zgierz;1020092;16077
+  Powiat brzeziński;1021000;30308
+    m. Brzeziny;1021011;12044
+    gm.w. Brzeziny;1021022;6094
+    gm.w. Dmosin;1021032;4372
+    gm.w. Jeżów;1021042;3187
+    gm.w. Rogów;1021052;4611
+Miasta na prawach powiatu:;;
+Cities with powiat status:;;
+Łódź;1061000;661329
+Piotrków Trybunalski;1062000;67734
+Skierniewice;1063000;45773

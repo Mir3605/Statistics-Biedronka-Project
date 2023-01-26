@@ -1,0 +1,2478 @@
+id;nazwa;typ;liczba_mieszkancow;wojewodztwo;powiat
+201011;Bolesławiec;miasto;37355;Dolnośląskie;bolesławiecki
+201022;Bolesławiec;wies;15181;Dolnośląskie;bolesławiecki
+201032;Gromadka;wies;5052;Dolnośląskie;bolesławiecki
+201043;Nowogrodziec;gmina miejsko-wiejska;14730;Dolnośląskie;bolesławiecki
+201052;Osiecznica;wies;7297;Dolnośląskie;bolesławiecki
+201062;Warta Bolesławiecka;wies;8407;Dolnośląskie;bolesławiecki
+202011;Bielawa;miasto;28475;Dolnośląskie;dzierżoniowski
+202021;Dzierżoniów;miasto;31256;Dolnośląskie;dzierżoniowski
+202033;Pieszyce;gmina miejsko-wiejska;9026;Dolnośląskie;dzierżoniowski
+202041;Piława Górna;miasto;6016;Dolnośląskie;dzierżoniowski
+202052;Dzierżoniów;wies;9193;Dolnośląskie;dzierżoniowski
+202062;Łagiewniki;wies;7214;Dolnośląskie;dzierżoniowski
+202073;Niemcza;gmina miejsko-wiejska;5136;Dolnośląskie;dzierżoniowski
+203011;Głogów;miasto;63240;Dolnośląskie;głogowski
+203022;Głogów;wies;7101;Dolnośląskie;głogowski
+203032;Jerzmanowa;wies;5697;Dolnośląskie;głogowski
+203042;Kotla;wies;4355;Dolnośląskie;głogowski
+203052;Pęcław;wies;2121;Dolnośląskie;głogowski
+203062;Żukowice;wies;3452;Dolnośląskie;głogowski
+204013;Góra;gmina miejsko-wiejska;18704;Dolnośląskie;górowski
+204022;Jemielno;wies;2757;Dolnośląskie;górowski
+204032;Niechlów;wies;4566;Dolnośląskie;górowski
+204043;Wąsosz;gmina miejsko-wiejska;6815;Dolnośląskie;górowski
+205011;Jawor;miasto;21077;Dolnośląskie;jaworski
+205023;Bolków;gmina miejsko-wiejska;9705;Dolnośląskie;jaworski
+205032;Męcinka;wies;5126;Dolnośląskie;jaworski
+205042;Mściwojów;wies;4009;Dolnośląskie;jaworski
+205052;Paszowice;wies;4139;Dolnośląskie;jaworski
+205062;Wądroże Wielkie;wies;3788;Dolnośląskie;jaworski
+206011;Karpacz;miasto;4333;Dolnośląskie;karkonoski
+206021;Kowary;miasto;10003;Dolnośląskie;karkonoski
+206031;Piechowice;miasto;5834;Dolnośląskie;karkonoski
+206041;Szklarska Poręba;miasto;5817;Dolnośląskie;karkonoski
+206052;Janowice Wielkie;wies;4102;Dolnośląskie;karkonoski
+206062;Jeżów Sudecki;wies;7813;Dolnośląskie;karkonoski
+206072;Mysłakowice;wies;9801;Dolnośląskie;karkonoski
+206082;Podgórzyn;wies;8145;Dolnośląskie;karkonoski
+206092;Stara Kamienica;wies;5297;Dolnośląskie;karkonoski
+207011;Kamienna Góra;miasto;17555;Dolnośląskie;kamiennogórski
+207022;Kamienna Góra;wies;8857;Dolnośląskie;kamiennogórski
+207033;Lubawka;gmina miejsko-wiejska;10265;Dolnośląskie;kamiennogórski
+207042;Marciszów;wies;4308;Dolnośląskie;kamiennogórski
+208011;Duszniki-Zdrój;miasto;4124;Dolnośląskie;kłodzki
+208021;Kłodzko;miasto;25239;Dolnośląskie;kłodzki
+208031;Kudowa-Zdrój;miasto;9449;Dolnośląskie;kłodzki
+208041;Nowa Ruda;miasto;20831;Dolnośląskie;kłodzki
+208051;Polanica-Zdrój;miasto;6064;Dolnośląskie;kłodzki
+208063;Bystrzyca Kłodzka;gmina miejsko-wiejska;17582;Dolnośląskie;kłodzki
+208072;Kłodzko;wies;16587;Dolnośląskie;kłodzki
+208083;Lądek-Zdrój;gmina miejsko-wiejska;7622;Dolnośląskie;kłodzki
+208092;Lewin Kłodzki;wies;1960;Dolnośląskie;kłodzki
+208103;Międzylesie;gmina miejsko-wiejska;6853;Dolnośląskie;kłodzki
+208112;Nowa Ruda;wies;10796;Dolnośląskie;kłodzki
+208123;Radków;gmina miejsko-wiejska;8549;Dolnośląskie;kłodzki
+208133;Stronie Śląskie;gmina miejsko-wiejska;6873;Dolnośląskie;kłodzki
+208143;Szczytna;gmina miejsko-wiejska;6976;Dolnośląskie;kłodzki
+209011;Chojnów;miasto;12532;Dolnośląskie;legnicki
+209022;Chojnów;wies;9525;Dolnośląskie;legnicki
+209032;Krotoszyce;wies;3338;Dolnośląskie;legnicki
+209042;Kunice;wies;7554;Dolnośląskie;legnicki
+209052;Legnickie Pole;wies;5275;Dolnośląskie;legnicki
+209062;Miłkowice;wies;7128;Dolnośląskie;legnicki
+209073;Prochowice;gmina miejsko-wiejska;7231;Dolnośląskie;legnicki
+209082;Ruja;wies;2440;Dolnośląskie;legnicki
+210011;Lubań;miasto;19851;Dolnośląskie;lubański
+210021;Świeradów-Zdrój;miasto;4038;Dolnośląskie;lubański
+210033;Leśna;gmina miejsko-wiejska;9392;Dolnośląskie;lubański
+210042;Lubań;wies;6519;Dolnośląskie;lubański
+210053;Olszyna;gmina miejsko-wiejska;6337;Dolnośląskie;lubański
+210062;Platerówka;wies;1530;Dolnośląskie;lubański
+210072;Siekierczyn;wies;4450;Dolnośląskie;lubański
+211011;Lubin;miasto;68775;Dolnośląskie;lubiński
+211022;Lubin;wies;17883;Dolnośląskie;lubiński
+211032;Rudna;wies;7430;Dolnośląskie;lubiński
+211043;Ścinawa;gmina miejsko-wiejska;9490;Dolnośląskie;lubiński
+212013;Gryfów Śląski;gmina miejsko-wiejska;9251;Dolnośląskie;lwówecki
+212023;Lubomierz;gmina miejsko-wiejska;5646;Dolnośląskie;lwówecki
+212033;Lwówek Śląski;gmina miejsko-wiejska;16267;Dolnośląskie;lwówecki
+212043;Mirsk;gmina miejsko-wiejska;8157;Dolnośląskie;lwówecki
+212053;Wleń;gmina miejsko-wiejska;3937;Dolnośląskie;lwówecki
+213012;Cieszków;wies;4566;Dolnośląskie;milicki
+213022;Krośnice;wies;7980;Dolnośląskie;milicki
+213033;Milicz;gmina miejsko-wiejska;23356;Dolnośląskie;milicki
+214011;Oleśnica;miasto;35503;Dolnośląskie;oleśnicki
+214023;Bierutów;gmina miejsko-wiejska;9415;Dolnośląskie;oleśnicki
+214032;Dobroszyce;wies;7136;Dolnośląskie;oleśnicki
+214042;Dziadowa Kłoda;wies;4556;Dolnośląskie;oleśnicki
+214053;Międzybórz;gmina miejsko-wiejska;5048;Dolnośląskie;oleśnicki
+214062;Oleśnica;wies;15661;Dolnośląskie;oleśnicki
+214073;Syców;gmina miejsko-wiejska;16493;Dolnośląskie;oleśnicki
+214083;Twardogóra;gmina miejsko-wiejska;12585;Dolnośląskie;oleśnicki
+215011;Oława;miasto;33158;Dolnośląskie;oławski
+215022;Domaniów;wies;4934;Dolnośląskie;oławski
+215033;Jelcz-Laskowice;gmina miejsko-wiejska;23682;Dolnośląskie;oławski
+215042;Oława;wies;15591;Dolnośląskie;oławski
+216013;Chocianów;gmina miejsko-wiejska;12483;Dolnośląskie;polkowicki
+216022;Gaworzyce;wies;3776;Dolnośląskie;polkowicki
+216032;Grębocice;wies;5290;Dolnośląskie;polkowicki
+216043;Polkowice;gmina miejsko-wiejska;26956;Dolnośląskie;polkowicki
+216053;Przemków;gmina miejsko-wiejska;7892;Dolnośląskie;polkowicki
+216062;Radwanice;wies;4952;Dolnośląskie;polkowicki
+217012;Borów;wies;5075;Dolnośląskie;strzeliński
+217022;Kondratowice;wies;4013;Dolnośląskie;strzeliński
+217032;Przeworno;wies;4549;Dolnośląskie;strzeliński
+217043;Strzelin;gmina miejsko-wiejska;21503;Dolnośląskie;strzeliński
+217053;Wiązów;gmina miejsko-wiejska;6985;Dolnośląskie;strzeliński
+218012;Kostomłoty;wies;7205;Dolnośląskie;średzki
+218022;Malczyce;wies;5704;Dolnośląskie;średzki
+218032;Miękinia;wies;20717;Dolnośląskie;średzki
+218043;Środa Śląska;gmina miejsko-wiejska;19811;Dolnośląskie;średzki
+218052;Udanin;wies;4868;Dolnośląskie;średzki
+219011;Świdnica;miasto;53797;Dolnośląskie;świdnicki
+219021;Świebodzice;miasto;22002;Dolnośląskie;świdnicki
+219032;Dobromierz;wies;4956;Dolnośląskie;świdnicki
+219043;Jaworzyna Śląska;gmina miejsko-wiejska;10242;Dolnośląskie;świdnicki
+219052;Marcinowice;wies;6314;Dolnośląskie;świdnicki
+219063;Strzegom;gmina miejsko-wiejska;24455;Dolnośląskie;świdnicki
+219072;Świdnica;wies;17816;Dolnośląskie;świdnicki
+219083;Żarów;gmina miejsko-wiejska;12185;Dolnośląskie;świdnicki
+220013;Oborniki Śląskie;gmina miejsko-wiejska;20931;Dolnośląskie;trzebnicki
+220023;Prusice;gmina miejsko-wiejska;9308;Dolnośląskie;trzebnicki
+220033;Trzebnica;gmina miejsko-wiejska;25031;Dolnośląskie;trzebnicki
+220042;Wisznia Mała;wies;11798;Dolnośląskie;trzebnicki
+220052;Zawonia;wies;5853;Dolnośląskie;trzebnicki
+220063;Żmigród;gmina miejsko-wiejska;14217;Dolnośląskie;trzebnicki
+221011;Boguszów-Gorce;miasto;14455;Dolnośląskie;wałbrzyski
+221021;Jedlina-Zdrój;miasto;4723;Dolnośląskie;wałbrzyski
+221031;Szczawno-Zdrój;miasto;5266;Dolnośląskie;wałbrzyski
+221042;Czarny Bór;wies;4791;Dolnośląskie;wałbrzyski
+221053;Głuszyca;gmina miejsko-wiejska;8169;Dolnośląskie;wałbrzyski
+221063;Mieroszów;gmina miejsko-wiejska;6321;Dolnośląskie;wałbrzyski
+221072;Stare Bogaczowice;wies;4277;Dolnośląskie;wałbrzyski
+221082;Walim;wies;5332;Dolnośląskie;wałbrzyski
+222013;Brzeg Dolny;gmina miejsko-wiejska;16233;Dolnośląskie;wołowski
+222022;Wińsko;wies;7967;Dolnośląskie;wołowski
+222033;Wołów;gmina miejsko-wiejska;21667;Dolnośląskie;wołowski
+223012;Czernica;wies;22538;Dolnośląskie;wrocławski
+223022;Długołęka;wies;42458;Dolnośląskie;wrocławski
+223032;Jordanów Śląski;wies;3270;Dolnośląskie;wrocławski
+223043;Kąty Wrocławskie;gmina miejsko-wiejska;29471;Dolnośląskie;wrocławski
+223052;Kobierzyce;wies;24262;Dolnośląskie;wrocławski
+223062;Mietków;wies;3839;Dolnośląskie;wrocławski
+223073;Sobótka;gmina miejsko-wiejska;12970;Dolnośląskie;wrocławski
+223083;Siechnice;gmina miejsko-wiejska;29038;Dolnośląskie;wrocławski
+223092;Żórawina;wies;13232;Dolnośląskie;wrocławski
+224013;Bardo;gmina miejsko-wiejska;5086;Dolnośląskie;ząbkowicki
+224022;Ciepłowody;wies;2924;Dolnośląskie;ząbkowicki
+224033;Kamieniec Ząbkowic;gmina miejsko-wiejska;7534;Dolnośląskie;ząbkowicki
+224042;Stoszowice;wies;5190;Dolnośląskie;ząbkowicki
+224053;Ząbkowice Śląskie;gmina miejsko-wiejska;20826;Dolnośląskie;ząbkowicki
+224063;Ziębice;gmina miejsko-wiejska;15768;Dolnośląskie;ząbkowicki
+224073;Złoty Stok;gmina miejsko-wiejska;4111;Dolnośląskie;ząbkowicki
+225011;Zawidów;miasto;3855;Dolnośląskie;zgorzelecki
+225021;Zgorzelec;miasto;29371;Dolnośląskie;zgorzelecki
+225033;Bogatynia;gmina miejsko-wiejska;21669;Dolnośląskie;zgorzelecki
+225043;Pieńsk;gmina miejsko-wiejska;8777;Dolnośląskie;zgorzelecki
+225052;Sulików;wies;5876;Dolnośląskie;zgorzelecki
+225063;Węgliniec;gmina miejsko-wiejska;7914;Dolnośląskie;zgorzelecki
+225072;Zgorzelec;wies;8764;Dolnośląskie;zgorzelecki
+226011;Wojcieszów;miasto;3493;Dolnośląskie;złotoryjski
+226021;Złotoryja;miasto;14437;Dolnośląskie;złotoryjski
+226032;Pielgrzymka;wies;4272;Dolnośląskie;złotoryjski
+226043;Świerzawa;gmina miejsko-wiejska;7098;Dolnośląskie;złotoryjski
+226052;Zagrodno;wies;4871;Dolnośląskie;złotoryjski
+226062;Złotoryja;wies;6933;Dolnośląskie;złotoryjski
+261000;Jelenia Góra;miasto;76184;Dolnośląskie;Jelenia Góra
+262000;Legnica;miasto;93473;Dolnośląskie;Legnica
+264000;Wrocław;miasto;673923;Dolnośląskie;Wrocław
+265000;Wałbrzych;miasto;102490;Dolnośląskie;Wałbrzych
+401011;Aleksandrów Kujawski;miasto;11586;Kujawsko-pomorskie;aleksandrowski
+401021;Ciechocinek;miasto;10296;Kujawsko-pomorskie;aleksandrowski
+401031;Nieszawa;miasto;1763;Kujawsko-pomorskie;aleksandrowski
+401042;Aleksandrów Kujawski;wies;11970;Kujawsko-pomorskie;aleksandrowski
+401052;Bądkowo;wies;4106;Kujawsko-pomorskie;aleksandrowski
+401062;Koneck;wies;3141;Kujawsko-pomorskie;aleksandrowski
+401072;Raciążek;wies;3203;Kujawsko-pomorskie;aleksandrowski
+401082;Waganiec;wies;4444;Kujawsko-pomorskie;aleksandrowski
+401092;Zakrzewo;wies;3393;Kujawsko-pomorskie;aleksandrowski
+402011;Brodnica;miasto;28617;Kujawsko-pomorskie;brodnicki
+402022;Bobrowo;wies;6079;Kujawsko-pomorskie;brodnicki
+402032;Brodnica;wies;9262;Kujawsko-pomorskie;brodnicki
+402042;Brzozie;wies;3701;Kujawsko-pomorskie;brodnicki
+402053;Górzno;gmina miejsko-wiejska;3766;Kujawsko-pomorskie;brodnicki
+402062;Bartniczka;wies;4616;Kujawsko-pomorskie;brodnicki
+402073;Jabłonowo Pomorski;gmina miejsko-wiejska;8457;Kujawsko-pomorskie;brodnicki
+402082;Osiek;wies;3832;Kujawsko-pomorskie;brodnicki
+402092;Świedziebnia;wies;4923;Kujawsko-pomorskie;brodnicki
+402102;Zbiczno;wies;4866;Kujawsko-pomorskie;brodnicki
+403012;Białe Błota;wies;25377;Kujawsko-pomorskie;bydgoski
+403022;Dąbrowa Chełmińska;wies;8516;Kujawsko-pomorskie;bydgoski
+403032;Dobrcz;wies;12473;Kujawsko-pomorskie;bydgoski
+403043;Koronowo;gmina miejsko-wiejska;23440;Kujawsko-pomorskie;bydgoski
+403052;Nowa Wieś Wielka;wies;10233;Kujawsko-pomorskie;bydgoski
+403062;Osielsko;wies;17502;Kujawsko-pomorskie;bydgoski
+403072;Sicienko;wies;10691;Kujawsko-pomorskie;bydgoski
+403083;Solec Kujawski;gmina miejsko-wiejska;16512;Kujawsko-pomorskie;bydgoski
+404011;Chełmno;miasto;18467;Kujawsko-pomorskie;chełmiński
+404022;Chełmno;wies;6024;Kujawsko-pomorskie;chełmiński
+404032;Kijewo Królewskie;wies;4319;Kujawsko-pomorskie;chełmiński
+404042;Lisewo;wies;4959;Kujawsko-pomorskie;chełmiński
+404052;Papowo Biskupie;wies;4039;Kujawsko-pomorskie;chełmiński
+404062;Stolno;wies;5178;Kujawsko-pomorskie;chełmiński
+404072;Unisław;wies;6724;Kujawsko-pomorskie;chełmiński
+405011;Golub-Dobrzyń;miasto;11502;Kujawsko-pomorskie;golubsko-dobrzyński
+405022;Ciechocin;wies;3863;Kujawsko-pomorskie;golubsko-dobrzyński
+405032;Golub-Dobrzyń;wies;8856;Kujawsko-pomorskie;golubsko-dobrzyński
+405043;Kowalewo Pomorskie;gmina miejsko-wiejska;11195;Kujawsko-pomorskie;golubsko-dobrzyński
+405052;Radomin;wies;3985;Kujawsko-pomorskie;golubsko-dobrzyński
+405062;Zbójno;wies;4242;Kujawsko-pomorskie;golubsko-dobrzyński
+406012;Grudziądz;wies;13458;Kujawsko-pomorskie;grudziądzki
+406022;Gruta;wies;6071;Kujawsko-pomorskie;grudziądzki
+406033;Łasin;gmina miejsko-wiejska;7451;Kujawsko-pomorskie;grudziądzki
+406043;Radzyń Chełmiński;gmina miejsko-wiejska;4458;Kujawsko-pomorskie;grudziądzki
+406052;Rogóźno;wies;3999;Kujawsko-pomorskie;grudziądzki
+406062;Świecie nad Osą;wies;3767;Kujawsko-pomorskie;grudziądzki
+407011;Inowrocław;miasto;68460;Kujawsko-pomorskie;inowrocławski
+407022;Dąbrowa Biskupia;wies;4926;Kujawsko-pomorskie;inowrocławski
+407033;Gniewkowo;gmina miejsko-wiejska;13742;Kujawsko-pomorskie;inowrocławski
+407042;Inowrocław;wies;12017;Kujawsko-pomorskie;inowrocławski
+407053;Janikowo;gmina miejsko-wiejska;12551;Kujawsko-pomorskie;inowrocławski
+407063;Kruszwica;gmina miejsko-wiejska;18067;Kujawsko-pomorskie;inowrocławski
+407073;Pakość;gmina miejsko-wiejska;9243;Kujawsko-pomorskie;inowrocławski
+407082;Rojewo;wies;4482;Kujawsko-pomorskie;inowrocławski
+407092;Złotniki Kujawskie;wies;8845;Kujawsko-pomorskie;inowrocławski
+408011;Lipno;miasto;13563;Kujawsko-pomorskie;lipnowski
+408022;Bobrowniki;wies;3010;Kujawsko-pomorskie;lipnowski
+408032;Chrostkowo;wies;2825;Kujawsko-pomorskie;lipnowski
+408043;Dobrzyń nad Wisłą;gmina miejsko-wiejska;7200;Kujawsko-pomorskie;lipnowski
+408052;Kikół;wies;6708;Kujawsko-pomorskie;lipnowski
+408062;Lipno;wies;11586;Kujawsko-pomorskie;lipnowski
+408073;Skępe;gmina miejsko-wiejska;7123;Kujawsko-pomorskie;lipnowski
+408082;Tłuchowo;wies;4447;Kujawsko-pomorskie;lipnowski
+408092;Wielgie;wies;6753;Kujawsko-pomorskie;lipnowski
+409012;Dąbrowa;wies;4368;Kujawsko-pomorskie;mogileński
+409022;Jeziora Wielkie;wies;4585;Kujawsko-pomorskie;mogileński
+409033;Mogilno;gmina miejsko-wiejska;24007;Kujawsko-pomorskie;mogileński
+409043;Strzelno;gmina miejsko-wiejska;10963;Kujawsko-pomorskie;mogileński
+410013;Kcynia;gmina miejsko-wiejska;12331;Kujawsko-pomorskie;nakielski
+410023;Mrocza;gmina miejsko-wiejska;8905;Kujawsko-pomorskie;nakielski
+410033;Nakło nad Notecią;gmina miejsko-wiejska;30079;Kujawsko-pomorskie;nakielski
+410042;Sadki;wies;6904;Kujawsko-pomorskie;nakielski
+410053;Szubin;gmina miejsko-wiejska;24946;Kujawsko-pomorskie;nakielski
+411011;Radziejów;miasto;5166;Kujawsko-pomorskie;radziejowski
+411022;Bytoń;wies;3363;Kujawsko-pomorskie;radziejowski
+411032;Dobre;wies;4976;Kujawsko-pomorskie;radziejowski
+411042;Osięciny;wies;7320;Kujawsko-pomorskie;radziejowski
+411053;Piotrków Kujawski;gmina miejsko-wiejska;8756;Kujawsko-pomorskie;radziejowski
+411062;Radziejów;wies;4271;Kujawsko-pomorskie;radziejowski
+411072;Topólka;wies;4530;Kujawsko-pomorskie;radziejowski
+412011;Rypin;miasto;15599;Kujawsko-pomorskie;rypiński
+412022;Brzuze;wies;4903;Kujawsko-pomorskie;rypiński
+412032;Rogowo;wies;4605;Kujawsko-pomorskie;rypiński
+412042;Rypin;wies;7253;Kujawsko-pomorskie;rypiński
+412052;Skrwilno;wies;5425;Kujawsko-pomorskie;rypiński
+412062;Wąpielsk;wies;3710;Kujawsko-pomorskie;rypiński
+413013;Kamień Krajeński;gmina miejsko-wiejska;6603;Kujawsko-pomorskie;sępoleński
+413023;Sępólno Krajeńskie;gmina miejsko-wiejska;15151;Kujawsko-pomorskie;sępoleński
+413032;Sośno;wies;4605;Kujawsko-pomorskie;sępoleński
+413043;Więcbork;gmina miejsko-wiejska;12960;Kujawsko-pomorskie;sępoleński
+414012;Bukowiec;wies;4924;Kujawsko-pomorskie;świecki
+414022;Dragacz;wies;6893;Kujawsko-pomorskie;świecki
+414032;Drzycim;wies;4801;Kujawsko-pomorskie;świecki
+414042;Jeżewo;wies;7761;Kujawsko-pomorskie;świecki
+414052;Lniano;wies;4108;Kujawsko-pomorskie;świecki
+414063;Nowe;gmina miejsko-wiejska;9716;Kujawsko-pomorskie;świecki
+414072;Osie;wies;5442;Kujawsko-pomorskie;świecki
+414083;Pruszcz;gmina miejsko-wiejska;9216;Kujawsko-pomorskie;świecki
+414093;Świecie;gmina miejsko-wiejska;33032;Kujawsko-pomorskie;świecki
+414102;Świekatowo;wies;3498;Kujawsko-pomorskie;świecki
+414112;Warlubie;wies;6147;Kujawsko-pomorskie;świecki
+415011;Chełmża;miasto;13853;Kujawsko-pomorskie;toruński
+415022;Chełmża;wies;9587;Kujawsko-pomorskie;toruński
+415032;Czernikowo;wies;8953;Kujawsko-pomorskie;toruński
+415042;Lubicz;wies;21183;Kujawsko-pomorskie;toruński
+415052;Łubianka;wies;7863;Kujawsko-pomorskie;toruński
+415062;Łysomice;wies;10811;Kujawsko-pomorskie;toruński
+415072;Obrowo;wies;19916;Kujawsko-pomorskie;toruński
+415082;Wielka Nieszawka;wies;5173;Kujawsko-pomorskie;toruński
+415092;Zławieś Wielka;wies;15829;Kujawsko-pomorskie;toruński
+416012;Cekcyn;wies;6763;Kujawsko-pomorskie;tucholski
+416022;Gostycyn;wies;4949;Kujawsko-pomorskie;tucholski
+416032;Kęsowo;wies;4205;Kujawsko-pomorskie;tucholski
+416042;Lubiewo;wies;5804;Kujawsko-pomorskie;tucholski
+416052;Śliwice;wies;5572;Kujawsko-pomorskie;tucholski
+416063;Tuchola;gmina miejsko-wiejska;19872;Kujawsko-pomorskie;tucholski
+417011;Wąbrzeźno;miasto;13154;Kujawsko-pomorskie;wąbrzeski
+417022;Dębowa Łąka;wies;2965;Kujawsko-pomorskie;wąbrzeski
+417032;Książki;wies;3858;Kujawsko-pomorskie;wąbrzeski
+417042;Płużnica;wies;4540;Kujawsko-pomorskie;wąbrzeski
+417052;Ryńsk;wies;8359;Kujawsko-pomorskie;wąbrzeski
+418011;Kowal;miasto;3344;Kujawsko-pomorskie;włocławski
+418022;Baruchowo;wies;3318;Kujawsko-pomorskie;włocławski
+418032;Boniewo;wies;3206;Kujawsko-pomorskie;włocławski
+418043;Brześć Kujawski;gmina miejsko-wiejska;11018;Kujawsko-pomorskie;włocławski
+418052;Choceń;wies;7731;Kujawsko-pomorskie;włocławski
+418063;Chodecz;gmina miejsko-wiejska;5561;Kujawsko-pomorskie;włocławski
+418072;Fabianki;wies;10169;Kujawsko-pomorskie;włocławski
+418083;Izbica Kujawska;gmina miejsko-wiejska;7275;Kujawsko-pomorskie;włocławski
+418092;Kowal;wies;3853;Kujawsko-pomorskie;włocławski
+418102;Lubanie;wies;4346;Kujawsko-pomorskie;włocławski
+418113;Lubień Kujawski;gmina miejsko-wiejska;6861;Kujawsko-pomorskie;włocławski
+418123;Lubraniec;gmina miejsko-wiejska;8803;Kujawsko-pomorskie;włocławski
+418132;Włocławek;wies;7355;Kujawsko-pomorskie;włocławski
+419013;Barcin;gmina miejsko-wiejska;14321;Kujawsko-pomorskie;żniński
+419022;Gąsawa;wies;4995;Kujawsko-pomorskie;żniński
+419033;Janowiec Wielkopol;gmina miejsko-wiejska;8532;Kujawsko-pomorskie;żniński
+419043;Łabiszyn;gmina miejsko-wiejska;10548;Kujawsko-pomorskie;żniński
+419052;Rogowo;wies;6653;Kujawsko-pomorskie;żniński
+419063;Żnin;gmina miejsko-wiejska;23104;Kujawsko-pomorskie;żniński
+461000;Bydgoszcz;miasto;331898;Kujawsko-pomorskie;Bydgoszcz
+462000;Grudziądz;miasto;89832;Kujawsko-pomorskie;Grudziądz
+463000;Toruń;miasto;196298;Kujawsko-pomorskie;Toruń
+464000;Włocławek;miasto;102730;Kujawsko-pomorskie;Włocławek
+601011;Międzyrzec Podlaski;miasto;15611;Lubelskie;bialski
+601021;Terespol;miasto;5197;Lubelskie;bialski
+601032;Biała Podlaska;wies;15224;Lubelskie;bialski
+601042;Drelów;wies;5100;Lubelskie;bialski
+601052;Janów Podlaski;wies;4962;Lubelskie;bialski
+601062;Kodeń;wies;3327;Lubelskie;bialski
+601072;Konstantynów;wies;3837;Lubelskie;bialski
+601082;Leśna Podlaska;wies;4029;Lubelskie;bialski
+601092;Łomazy;wies;4632;Lubelskie;bialski
+601102;Międzyrzec Podlaski;wies;10215;Lubelskie;bialski
+601112;Piszczac;wies;6763;Lubelskie;bialski
+601122;Rokitno;wies;2752;Lubelskie;bialski
+601132;Rossosz;wies;2104;Lubelskie;bialski
+601142;Sławatycze;wies;2285;Lubelskie;bialski
+601152;Sosnówka;wies;2189;Lubelskie;bialski
+601162;Terespol;wies;6136;Lubelskie;bialski
+601172;Tuczna;wies;2796;Lubelskie;bialski
+601182;Wisznice;wies;4512;Lubelskie;bialski
+601192;Zalesie;wies;4081;Lubelskie;bialski
+602011;Biłgoraj;miasto;25173;Lubelskie;biłgorajski
+602022;Aleksandrów;wies;3201;Lubelskie;biłgorajski
+602032;Biłgoraj;wies;13593;Lubelskie;biłgorajski
+602042;Biszcza;wies;3734;Lubelskie;biłgorajski
+602053;Frampol;gmina miejsko-wiejska;5707;Lubelskie;biłgorajski
+602063;Goraj;gmina miejsko-wiejska;3906;Lubelskie;biłgorajski
+602073;Józefów;gmina miejsko-wiejska;6457;Lubelskie;biłgorajski
+602082;Księżpol;wies;6721;Lubelskie;biłgorajski
+602092;Łukowa;wies;3982;Lubelskie;biłgorajski
+602102;Obsza;wies;4044;Lubelskie;biłgorajski
+602112;Potok Górny;wies;5094;Lubelskie;biłgorajski
+602123;Tarnogród;gmina miejsko-wiejska;6277;Lubelskie;biłgorajski
+602132;Tereszpol;wies;3840;Lubelskie;biłgorajski
+602142;Turobin;wies;5623;Lubelskie;biłgorajski
+603011;Rejowiec Fabryczny;miasto;4038;Lubelskie;chełmski
+603022;Białopole;wies;2855;Lubelskie;chełmski
+603032;Chełm;wies;15205;Lubelskie;chełmski
+603042;Dorohusk;wies;5953;Lubelskie;chełmski
+603052;Dubienka;wies;2110;Lubelskie;chełmski
+603062;Kamień;wies;4079;Lubelskie;chełmski
+603072;Leśniowice;wies;3357;Lubelskie;chełmski
+603082;Rejowiec Fabryczny;wies;4051;Lubelskie;chełmski
+603092;Ruda-Huta;wies;4179;Lubelskie;chełmski
+603102;Sawin;wies;5180;Lubelskie;chełmski
+603113;Siedliszcze;gmina miejsko-wiejska;6465;Lubelskie;chełmski
+603122;Wierzbica;wies;4751;Lubelskie;chełmski
+603132;Wojsławice;wies;3472;Lubelskie;chełmski
+603142;Żmudź;wies;2821;Lubelskie;chełmski
+603153;Rejowiec;gmina miejsko-wiejska;6034;Lubelskie;chełmski
+604011;Hrubieszów;miasto;16390;Lubelskie;hrubieszowski
+604022;Dołhobyczów;wies;4757;Lubelskie;hrubieszowski
+604032;Horodło;wies;4875;Lubelskie;hrubieszowski
+604042;Hrubieszów;wies;9280;Lubelskie;hrubieszowski
+604052;Mircze;wies;6313;Lubelskie;hrubieszowski
+604062;Trzeszczany;wies;3799;Lubelskie;hrubieszowski
+604072;Uchanie;wies;4129;Lubelskie;hrubieszowski
+604082;Werbkowice;wies;8550;Lubelskie;hrubieszowski
+605012;Batorz;wies;3092;Lubelskie;janowski
+605022;Chrzanów;wies;2706;Lubelskie;janowski
+605032;Dzwola;wies;5983;Lubelskie;janowski
+605042;Godziszów;wies;5498;Lubelskie;janowski
+605053;Janów Lubelski;gmina miejsko-wiejska;14832;Lubelskie;janowski
+605063;Modliborzyce;gmina miejsko-wiejska;6776;Lubelskie;janowski
+605072;Potok Wielki;wies;4469;Lubelskie;janowski
+606011;Krasnystaw;miasto;17573;Lubelskie;krasnostawski
+606022;Fajsławice;wies;4506;Lubelskie;krasnostawski
+606032;Gorzków;wies;3281;Lubelskie;krasnostawski
+606043;Izbica;gmina miejsko-wiejska;7766;Lubelskie;krasnostawski
+606052;Krasnystaw;wies;8206;Lubelskie;krasnostawski
+606062;Kraśniczyn;wies;3443;Lubelskie;krasnostawski
+606072;Łopiennik Górny;wies;3602;Lubelskie;krasnostawski
+606092;Rudnik;wies;2755;Lubelskie;krasnostawski
+606102;Siennica Różana;wies;3871;Lubelskie;krasnostawski
+606112;Żółkiewka;wies;4943;Lubelskie;krasnostawski
+607011;Kraśnik;miasto;31950;Lubelskie;kraśnicki
+607023;Annopol;gmina miejsko-wiejska;8072;Lubelskie;kraśnicki
+607032;Dzierzkowice;wies;5226;Lubelskie;kraśnicki
+607042;Gościeradów;wies;6863;Lubelskie;kraśnicki
+607052;Kraśnik;wies;7034;Lubelskie;kraśnicki
+607062;Szastarka;wies;5491;Lubelskie;kraśnicki
+607072;Trzydnik Duży;wies;6055;Lubelskie;kraśnicki
+607083;Urzędów;gmina miejsko-wiejska;8253;Lubelskie;kraśnicki
+607092;Wilkołaz;wies;5362;Lubelskie;kraśnicki
+607102;Zakrzówek;wies;6179;Lubelskie;kraśnicki
+608011;Lubartów;miasto;20168;Lubelskie;lubartowski
+608022;Abramów;wies;3873;Lubelskie;lubartowski
+608032;Firlej;wies;5688;Lubelskie;lubartowski
+608042;Jeziorzany;wies;2506;Lubelskie;lubartowski
+608053;Kamionka;gmina miejsko-wiejska;6411;Lubelskie;lubartowski
+608063;Kock;gmina miejsko-wiejska;5815;Lubelskie;lubartowski
+608072;Lubartów;wies;12060;Lubelskie;lubartowski
+608082;Michów;wies;5551;Lubelskie;lubartowski
+608092;Niedźwiada;wies;6200;Lubelskie;lubartowski
+608103;Ostrów Lubelski;gmina miejsko-wiejska;5013;Lubelskie;lubartowski
+608112;Ostrówek;wies;3739;Lubelskie;lubartowski
+608122;Serniki;wies;4800;Lubelskie;lubartowski
+608132;Uścimów;wies;2998;Lubelskie;lubartowski
+609013;Bełżyce;gmina miejsko-wiejska;12788;Lubelskie;lubelski
+609022;Borzechów;wies;3751;Lubelskie;lubelski
+609033;Bychawa;gmina miejsko-wiejska;11006;Lubelskie;lubelski
+609042;Garbów;wies;8938;Lubelskie;lubelski
+609052;Głusk;wies;14326;Lubelskie;lubelski
+609062;Jabłonna;wies;8243;Lubelskie;lubelski
+609072;Jastków;wies;15243;Lubelskie;lubelski
+609082;Konopnica;wies;15702;Lubelskie;lubelski
+609092;Krzczonów;wies;4145;Lubelskie;lubelski
+609102;Niedrzwica Duża;wies;11915;Lubelskie;lubelski
+609112;Niemce;wies;21522;Lubelskie;lubelski
+609122;Strzyżewice;wies;8133;Lubelskie;lubelski
+609132;Wojciechów;wies;6016;Lubelskie;lubelski
+609142;Wólka;wies;14154;Lubelskie;lubelski
+609152;Wysokie;wies;4158;Lubelskie;lubelski
+609162;Zakrzew;wies;2694;Lubelskie;lubelski
+610012;Cyców;wies;7683;Lubelskie;łęczyński
+610022;Ludwin;wies;5609;Lubelskie;łęczyński
+610033;Łęczna;gmina miejsko-wiejska;22506;Lubelskie;łęczyński
+610042;Milejów;wies;8677;Lubelskie;łęczyński
+610052;Puchaczów;wies;5560;Lubelskie;łęczyński
+610062;Spiczyn;wies;5965;Lubelskie;łęczyński
+611011;Łuków;miasto;27569;Lubelskie;łukowski
+611021;Stoczek Łukowski;miasto;2391;Lubelskie;łukowski
+611032;Adamów;wies;5207;Lubelskie;łukowski
+611042;Krzywda;wies;9844;Lubelskie;łukowski
+611052;Łuków;wies;18434;Lubelskie;łukowski
+611062;Serokomla;wies;3732;Lubelskie;łukowski
+611072;Stanin;wies;9258;Lubelskie;łukowski
+611082;Stoczek Łukowski;wies;7267;Lubelskie;łukowski
+611092;Trzebieszów;wies;7134;Lubelskie;łukowski
+611102;Wojcieszków;wies;6525;Lubelskie;łukowski
+611112;Wola Mysłowska;wies;4399;Lubelskie;łukowski
+612012;Chodel;wies;6350;Lubelskie;opolski
+612023;Józefów nad Wisłą;gmina miejsko-wiejska;6131;Lubelskie;opolski
+612032;Karczmiska;wies;5385;Lubelskie;opolski
+612042;Łaziska;wies;4596;Lubelskie;opolski
+612053;Opole Lubelskie;gmina miejsko-wiejska;16429;Lubelskie;opolski
+612063;Poniatowa;gmina miejsko-wiejska;13321;Lubelskie;opolski
+612072;Wilków;wies;4185;Lubelskie;opolski
+613012;Dębowa Kłoda;wies;3609;Lubelskie;parczewski
+613022;Jabłoń;wies;3588;Lubelskie;parczewski
+613032;Milanów;wies;3449;Lubelskie;parczewski
+613043;Parczew;gmina miejsko-wiejska;13913;Lubelskie;parczewski
+613052;Podedwórze;wies;1528;Lubelskie;parczewski
+613062;Siemień;wies;4314;Lubelskie;parczewski
+613072;Sosnowica;wies;2338;Lubelskie;parczewski
+614011;Puławy;miasto;44504;Lubelskie;puławski
+614022;Baranów;wies;3641;Lubelskie;puławski
+614032;Janowiec;wies;3614;Lubelskie;puławski
+614043;Kazimierz Dolny;gmina miejsko-wiejska;6300;Lubelskie;puławski
+614052;Końskowola;wies;8489;Lubelskie;puławski
+614062;Kurów;wies;7409;Lubelskie;puławski
+614072;Markuszów;wies;2904;Lubelskie;puławski
+614083;Nałęczów;gmina miejsko-wiejska;8662;Lubelskie;puławski
+614092;Puławy;wies;12232;Lubelskie;puławski
+614102;Wąwolnica;wies;4344;Lubelskie;puławski
+614112;Żyrzyn;wies;6164;Lubelskie;puławski
+615011;Radzyń Podlaski;miasto;14571;Lubelskie;radzyński
+615022;Borki;wies;5782;Lubelskie;radzyński
+615032;Czemierniki;wies;4072;Lubelskie;radzyński
+615042;Kąkolewnica;wies;7637;Lubelskie;radzyński
+615052;Komarówka Podlaska;wies;3879;Lubelskie;radzyński
+615062;Radzyń Podlaski;wies;7891;Lubelskie;radzyński
+615072;Ulan-Majorat;wies;5590;Lubelskie;radzyński
+615082;Wohyń;wies;6265;Lubelskie;radzyński
+616011;Dęblin;miasto;14385;Lubelskie;rycki
+616022;Kłoczew;wies;6862;Lubelskie;rycki
+616032;Nowodwór;wies;3916;Lubelskie;rycki
+616043;Ryki;gmina miejsko-wiejska;19345;Lubelskie;rycki
+616052;Stężyca;wies;4803;Lubelskie;rycki
+616062;Ułęż;wies;2871;Lubelskie;rycki
+617011;Świdnik;miasto;37129;Lubelskie;świdnicki
+617022;Mełgiew;wies;10649;Lubelskie;świdnicki
+617033;Piaski;gmina miejsko-wiejska;10291;Lubelskie;świdnicki
+617042;Rybczewice;wies;3221;Lubelskie;świdnicki
+617052;Trawniki;wies;8515;Lubelskie;świdnicki
+618011;Tomaszów Lubelski;miasto;18165;Lubelskie;tomaszowski
+618022;Bełżec;wies;3163;Lubelskie;tomaszowski
+618032;Jarczów;wies;3208;Lubelskie;tomaszowski
+618042;Krynice;wies;3040;Lubelskie;tomaszowski
+618053;Lubycza Królewska;gmina miejsko-wiejska;5655;Lubelskie;tomaszowski
+618063;Łaszczów;gmina miejsko-wiejska;5588;Lubelskie;tomaszowski
+618072;Rachanie;wies;4682;Lubelskie;tomaszowski
+618082;Susiec;wies;7049;Lubelskie;tomaszowski
+618092;Tarnawatka;wies;3788;Lubelskie;tomaszowski
+618102;Telatyn;wies;3608;Lubelskie;tomaszowski
+618112;Tomaszów Lubelski;wies;11041;Lubelskie;tomaszowski
+618123;Tyszowce;gmina miejsko-wiejska;5194;Lubelskie;tomaszowski
+618132;Ulhówek;wies;4084;Lubelskie;tomaszowski
+619011;Włodawa;miasto;12323;Lubelskie;włodawski
+619022;Hanna;wies;2551;Lubelskie;włodawski
+619032;Hańsk;wies;3467;Lubelskie;włodawski
+619042;Stary Brus;wies;1859;Lubelskie;włodawski
+619052;Urszulin;wies;4086;Lubelskie;włodawski
+619062;Włodawa;wies;5727;Lubelskie;włodawski
+619072;Wola Uhruska;wies;3631;Lubelskie;włodawski
+619082;Wyryki;wies;2310;Lubelskie;włodawski
+620012;Adamów;wies;4462;Lubelskie;zamojski
+620022;Grabowiec;wies;3629;Lubelskie;zamojski
+620032;Komarów-Osada;wies;4544;Lubelskie;zamojski
+620043;Krasnobród;gmina miejsko-wiejska;6768;Lubelskie;zamojski
+620052;Łabunie;wies;5974;Lubelskie;zamojski
+620062;Miączyn;wies;5168;Lubelskie;zamojski
+620072;Nielisz;wies;5111;Lubelskie;zamojski
+620082;Radecznica;wies;5160;Lubelskie;zamojski
+620092;Sitno;wies;6571;Lubelskie;zamojski
+620102;Skierbieszów;wies;4759;Lubelskie;zamojski
+620112;Stary Zamość;wies;4897;Lubelskie;zamojski
+620122;Sułów;wies;4116;Lubelskie;zamojski
+620133;Szczebrzeszyn;gmina miejsko-wiejska;10677;Lubelskie;zamojski
+620142;Zamość;wies;23793;Lubelskie;zamojski
+620153;Zwierzyniec;gmina miejsko-wiejska;6190;Lubelskie;zamojski
+661000;Biała Podlaska;miasto;54926;Lubelskie;Biała Podlaska
+662000;Chełm;miasto;58357;Lubelskie;Chełm
+663000;Lublin;miasto;331991;Lubelskie;Lublin
+664000;Zamość;miasto;59274;Lubelskie;Zamość
+801011;Kostrzyn nad Odrą;miasto;17779;Lubuskie;gorzowski
+801022;Bogdaniec;wies;7138;Lubuskie;gorzowski
+801032;Deszczno;wies;10502;Lubuskie;gorzowski
+801042;Kłodawa;wies;9159;Lubuskie;gorzowski
+801052;Lubiszyn;wies;7037;Lubuskie;gorzowski
+801062;Santok;wies;9318;Lubuskie;gorzowski
+801073;Witnica;gmina miejsko-wiejska;12207;Lubuskie;gorzowski
+802011;Gubin;miasto;15857;Lubuskie;krośnieński
+802022;Bobrowice;wies;3068;Lubuskie;krośnieński
+802032;Bytnica;wies;2320;Lubuskie;krośnieński
+802042;Dąbie;wies;4927;Lubuskie;krośnieński
+802052;Gubin;wies;7179;Lubuskie;krośnieński
+802063;Krosno Odrzańskie;gmina miejsko-wiejska;17170;Lubuskie;krośnieński
+802072;Maszewo;wies;2719;Lubuskie;krośnieński
+803012;Bledzew;wies;3991;Lubuskie;międzyrzecki
+803023;Międzyrzecz;gmina miejsko-wiejska;23971;Lubuskie;międzyrzecki
+803032;Przytoczna;wies;5382;Lubuskie;międzyrzecki
+803042;Pszczew;wies;4234;Lubuskie;międzyrzecki
+803053;Skwierzyna;gmina miejsko-wiejska;11639;Lubuskie;międzyrzecki
+803063;Trzciel;gmina miejsko-wiejska;6259;Lubuskie;międzyrzecki
+804011;Nowa Sól;miasto;36479;Lubuskie;nowosolski
+804023;Bytom Odrzański;gmina miejsko-wiejska;5118;Lubuskie;nowosolski
+804032;Kolsko;wies;3250;Lubuskie;nowosolski
+804043;Kożuchów;gmina miejsko-wiejska;15328;Lubuskie;nowosolski
+804052;Nowa Sól;wies;7216;Lubuskie;nowosolski
+804063;Nowe Miasteczko;gmina miejsko-wiejska;5040;Lubuskie;nowosolski
+804073;Otyń;gmina miejsko-wiejska;6998;Lubuskie;nowosolski
+804082;Siedlisko;wies;3348;Lubuskie;nowosolski
+805013;Cybinka;gmina miejsko-wiejska;6259;Lubuskie;słubicki
+805022;Górzyca;wies;4086;Lubuskie;słubicki
+805033;Ośno Lubuskie;gmina miejsko-wiejska;6238;Lubuskie;słubicki
+805043;Rzepin;gmina miejsko-wiejska;9412;Lubuskie;słubicki
+805053;Słubice;gmina miejsko-wiejska;20051;Lubuskie;słubicki
+806013;Dobiegniew;gmina miejsko-wiejska;6217;Lubuskie;strzelecko-drezdeneck
+806023;Drezdenko;gmina miejsko-wiejska;16534;Lubuskie;strzelecko-drezdeneck
+806032;Stare Kurowo;wies;3940;Lubuskie;strzelecko-drezdeneck
+806043;Strzelce Krajeński;gmina miejsko-wiejska;16353;Lubuskie;strzelecko-drezdeneck
+806052;Zwierzyn;wies;4172;Lubuskie;strzelecko-drezdeneck
+807012;Krzeszyce;wies;4551;Lubuskie;sulęciński
+807023;Lubniewice;gmina miejsko-wiejska;3032;Lubuskie;sulęciński
+807032;Słońsk;wies;4681;Lubuskie;sulęciński
+807043;Sulęcin;gmina miejsko-wiejska;15217;Lubuskie;sulęciński
+807053;Torzym;gmina miejsko-wiejska;6395;Lubuskie;sulęciński
+808012;Lubrza;wies;3594;Lubuskie;świebodziński
+808022;Łagów;wies;4785;Lubuskie;świebodziński
+808032;Skąpe;wies;5152;Lubuskie;świebodziński
+808042;Szczaniec;wies;3691;Lubuskie;świebodziński
+808053;Świebodzin;gmina miejsko-wiejska;29143;Lubuskie;świebodziński
+808063;Zbąszynek;gmina miejsko-wiejska;8082;Lubuskie;świebodziński
+809013;Babimost;gmina miejsko-wiejska;6115;Lubuskie;zielonogórski
+809022;Bojadła;wies;3198;Lubuskie;zielonogórski
+809033;Czerwieńsk;gmina miejsko-wiejska;10021;Lubuskie;zielonogórski
+809043;Kargowa;gmina miejsko-wiejska;5902;Lubuskie;zielonogórski
+809053;Nowogród Bobrzańsk;gmina miejsko-wiejska;9044;Lubuskie;zielonogórski
+809063;Sulechów;gmina miejsko-wiejska;26037;Lubuskie;zielonogórski
+809072;Świdnica;wies;6811;Lubuskie;zielonogórski
+809082;Trzebiechów;wies;3189;Lubuskie;zielonogórski
+809092;Zabór;wies;4626;Lubuskie;zielonogórski
+810011;Gozdnica;miasto;2794;Lubuskie;żagański
+810021;Żagań;miasto;23949;Lubuskie;żagański
+810032;Brzeźnica;wies;3503;Lubuskie;żagański
+810043;Iłowa;gmina miejsko-wiejska;6448;Lubuskie;żagański
+810053;Małomice;gmina miejsko-wiejska;5149;Lubuskie;żagański
+810062;Niegosławice;wies;4267;Lubuskie;żagański
+810073;Szprotawa;gmina miejsko-wiejska;19356;Lubuskie;żagański
+810082;Wymiarki;wies;2109;Lubuskie;żagański
+810092;Żagań;wies;7167;Lubuskie;żagański
+811011;Łęknica;miasto;2280;Lubuskie;żarski
+811021;Żary;miasto;35468;Lubuskie;żarski
+811032;Brody;wies;3209;Lubuskie;żarski
+811043;Jasień;gmina miejsko-wiejska;6753;Lubuskie;żarski
+811052;Lipinki Łużyckie;wies;3292;Lubuskie;żarski
+811063;Lubsko;gmina miejsko-wiejska;17461;Lubuskie;żarski
+811072;Przewóz;wies;3033;Lubuskie;żarski
+811082;Trzebiel;wies;5516;Lubuskie;żarski
+811092;Tuplice;wies;2959;Lubuskie;żarski
+811102;Żary;wies;12369;Lubuskie;żarski
+812013;Sława;gmina miejsko-wiejska;12430;Lubuskie;wschowski
+812023;Szlichtyngowa;gmina miejsko-wiejska;4829;Lubuskie;wschowski
+812033;Wschowa;gmina miejsko-wiejska;20271;Lubuskie;wschowski
+861000;Gorzów Wielkopolski;miasto;117379;Lubuskie;Gorzów Wielkopolski
+862000;Zielona Góra;miasto;139503;Lubuskie;Zielona Góra
+1401013;Białobrzegi;gmina miejsko-wiejska;9816;Mazowieckie;białobrzeski
+1401022;Promna;wies;5488;Mazowieckie;białobrzeski
+1401032;Radzanów;wies;3789;Mazowieckie;białobrzeski
+1401042;Stara Błotnica;wies;5460;Mazowieckie;białobrzeski
+1401052;Stromiec;wies;5435;Mazowieckie;białobrzeski
+1401063;Wyśmierzyce;gmina miejsko-wiejska;2679;Mazowieckie;białobrzeski
+1402011;Ciechanów;miasto;42239;Mazowieckie;ciechanowski
+1402022;Ciechanów;wies;7435;Mazowieckie;ciechanowski
+1402033;Glinojeck;gmina miejsko-wiejska;7229;Mazowieckie;ciechanowski
+1402042;Gołymin-Ośrodek;wies;3544;Mazowieckie;ciechanowski
+1402052;Grudusk;wies;3362;Mazowieckie;ciechanowski
+1402062;Ojrzeń;wies;4135;Mazowieckie;ciechanowski
+1402072;Opinogóra Górna;wies;5797;Mazowieckie;ciechanowski
+1402082;Regimin;wies;4736;Mazowieckie;ciechanowski
+1402092;Sońsk;wies;7390;Mazowieckie;ciechanowski
+1403011;Garwolin;miasto;17322;Mazowieckie;garwoliński
+1403021;Łaskarzew;miasto;4520;Mazowieckie;garwoliński
+1403032;Borowie;wies;4952;Mazowieckie;garwoliński
+1403042;Garwolin;wies;13385;Mazowieckie;garwoliński
+1403052;Górzno;wies;6667;Mazowieckie;garwoliński
+1403062;Łaskarzew;wies;5274;Mazowieckie;garwoliński
+1403072;Maciejowice;wies;6461;Mazowieckie;garwoliński
+1403082;Miastków Kościelny;wies;4616;Mazowieckie;garwoliński
+1403092;Parysów;wies;4122;Mazowieckie;garwoliński
+1403103;Pilawa;gmina miejsko-wiejska;10555;Mazowieckie;garwoliński
+1403112;Sobolew;wies;7836;Mazowieckie;garwoliński
+1403122;Trojanów;wies;7108;Mazowieckie;garwoliński
+1403132;Wilga;wies;5114;Mazowieckie;garwoliński
+1403143;Żelechów;gmina miejsko-wiejska;7851;Mazowieckie;garwoliński
+1404011;Gostynin;miasto;17396;Mazowieckie;gostyniński
+1404022;Gostynin;wies;11774;Mazowieckie;gostyniński
+1404032;Pacyna;wies;3321;Mazowieckie;gostyniński
+1404043;Sanniki;gmina miejsko-wiejska;5678;Mazowieckie;gostyniński
+1404052;Szczawin Kościelny;wies;4677;Mazowieckie;gostyniński
+1405011;Milanówek;miasto;16467;Mazowieckie;grodziski
+1405021;Podkowa Leśna;miasto;3873;Mazowieckie;grodziski
+1405032;Baranów;wies;5547;Mazowieckie;grodziski
+1405043;Grodzisk Mazowieck;gmina miejsko-wiejska;54122;Mazowieckie;grodziski
+1405052;Jaktorów;wies;13261;Mazowieckie;grodziski
+1405062;Żabia Wola;wies;10650;Mazowieckie;grodziski
+1406012;Belsk Duży;wies;6261;Mazowieckie;grójecki
+1406022;Błędów;wies;7117;Mazowieckie;grójecki
+1406032;Chynów;wies;10152;Mazowieckie;grójecki
+1406042;Goszczyn;wies;2866;Mazowieckie;grójecki
+1406053;Grójec;gmina miejsko-wiejska;26234;Mazowieckie;grójecki
+1406062;Jasieniec;wies;5367;Mazowieckie;grójecki
+1406073;Mogielnica;gmina miejsko-wiejska;8261;Mazowieckie;grójecki
+1406083;Nowe Miasto nad Pi;gmina miejsko-wiejska;7248;Mazowieckie;grójecki
+1406092;Pniewy;wies;4808;Mazowieckie;grójecki
+1406113;Warka;gmina miejsko-wiejska;19280;Mazowieckie;grójecki
+1407012;Garbatka-Letnisko;wies;4775;Mazowieckie;kozienicki
+1407022;Głowaczów;wies;6761;Mazowieckie;kozienicki
+1407032;Gniewoszów;wies;3807;Mazowieckie;kozienicki
+1407042;Grabów nad Pilicą;wies;4018;Mazowieckie;kozienicki
+1407053;Kozienice;gmina miejsko-wiejska;28119;Mazowieckie;kozienicki
+1407062;Magnuszew;wies;6445;Mazowieckie;kozienicki
+1407072;Sieciechów;wies;3763;Mazowieckie;kozienicki
+1408011;Legionowo;miasto;52913;Mazowieckie;legionowski
+1408022;Jabłonna;wies;22817;Mazowieckie;legionowski
+1408032;Nieporęt;wies;16946;Mazowieckie;legionowski
+1408043;Serock;gmina miejsko-wiejska;17093;Mazowieckie;legionowski
+1408052;Wieliszew;wies;19964;Mazowieckie;legionowski
+1409012;Chotcza;wies;2227;Mazowieckie;lipski
+1409022;Ciepielów;wies;5259;Mazowieckie;lipski
+1409033;Lipsko;gmina miejsko-wiejska;10190;Mazowieckie;lipski
+1409042;Rzeczniów;wies;4086;Mazowieckie;lipski
+1409052;Sienno;wies;5582;Mazowieckie;lipski
+1409063;Solec nad Wisłą;gmina miejsko-wiejska;4621;Mazowieckie;lipski
+1410012;Huszlew;wies;2669;Mazowieckie;łosicki
+1410023;Łosice;gmina miejsko-wiejska;10566;Mazowieckie;łosicki
+1410032;Olszanka;wies;2770;Mazowieckie;łosicki
+1410042;Platerów;wies;4482;Mazowieckie;łosicki
+1410052;Sarnaki;wies;4238;Mazowieckie;łosicki
+1410062;Stara Kornica;wies;4438;Mazowieckie;łosicki
+1411011;Maków Mazowiecki;miasto;9028;Mazowieckie;makowski
+1411022;Czerwonka;wies;2548;Mazowieckie;makowski
+1411032;Karniewo;wies;4896;Mazowieckie;makowski
+1411042;Krasnosielc;wies;5947;Mazowieckie;makowski
+1411052;Młynarze;wies;1628;Mazowieckie;makowski
+1411062;Płoniawy-Bramura;wies;4984;Mazowieckie;makowski
+1411073;Różan;gmina miejsko-wiejska;4289;Mazowieckie;makowski
+1411082;Rzewnie;wies;2440;Mazowieckie;makowski
+1411092;Sypniewo;wies;2974;Mazowieckie;makowski
+1411102;Szelków;wies;3559;Mazowieckie;makowski
+1412011;Mińsk Mazowiecki;miasto;40297;Mazowieckie;miński
+1412043;Cegłów;gmina miejsko-wiejska;6096;Mazowieckie;miński
+1412052;Dębe Wielkie;wies;11562;Mazowieckie;miński
+1412062;Dobre;wies;5852;Mazowieckie;miński
+1412073;Halinów;gmina miejsko-wiejska;18042;Mazowieckie;miński
+1412082;Jakubów;wies;5085;Mazowieckie;miński
+1412093;Kałuszyn;gmina miejsko-wiejska;5558;Mazowieckie;miński
+1412102;Latowicz;wies;5178;Mazowieckie;miński
+1412112;Mińsk Mazowiecki;wies;16698;Mazowieckie;miński
+1412123;Mrozy;gmina miejsko-wiejska;8596;Mazowieckie;miński
+1412132;Siennica;wies;7620;Mazowieckie;miński
+1412142;Stanisławów;wies;7004;Mazowieckie;miński
+1412151;Sulejówek;miasto;21305;Mazowieckie;miński
+1413011;Mława;miasto;30860;Mazowieckie;mławski
+1413022;Dzierzgowo;wies;2812;Mazowieckie;mławski
+1413032;Lipowiec Kościelny;wies;4511;Mazowieckie;mławski
+1413042;Radzanów;wies;3001;Mazowieckie;mławski
+1413052;Strzegowo;wies;7134;Mazowieckie;mławski
+1413062;Stupsk;wies;4494;Mazowieckie;mławski
+1413072;Szreńsk;wies;3835;Mazowieckie;mławski
+1413082;Szydłowo;wies;4225;Mazowieckie;mławski
+1413092;Wieczfnia Kościelna;wies;3692;Mazowieckie;mławski
+1413102;Wiśniewo;wies;5093;Mazowieckie;mławski
+1414011;Nowy Dwór Mazowiecki;miasto;28657;Mazowieckie;nowodworski
+1414022;Czosnów;wies;10999;Mazowieckie;nowodworski
+1414032;Leoncin;wies;5586;Mazowieckie;nowodworski
+1414043;Nasielsk;gmina miejsko-wiejska;19354;Mazowieckie;nowodworski
+1414052;Pomiechówek;wies;9295;Mazowieckie;nowodworski
+1414063;Zakroczym;gmina miejsko-wiejska;5936;Mazowieckie;nowodworski
+1415012;Baranowo;wies;6037;Mazowieckie;ostrołęcki
+1415022;Czarnia;wies;2260;Mazowieckie;ostrołęcki
+1415032;Czerwin;wies;4762;Mazowieckie;ostrołęcki
+1415042;Goworowo;wies;7883;Mazowieckie;ostrołęcki
+1415052;Kadzidło;wies;11020;Mazowieckie;ostrołęcki
+1415062;Lelis;wies;9866;Mazowieckie;ostrołęcki
+1415072;Łyse;wies;8232;Mazowieckie;ostrołęcki
+1415083;Myszyniec;gmina miejsko-wiejska;10122;Mazowieckie;ostrołęcki
+1415092;Olszewo-Borki;wies;10968;Mazowieckie;ostrołęcki
+1415102;Rzekuń;wies;11761;Mazowieckie;ostrołęcki
+1415112;Troszyn;wies;4559;Mazowieckie;ostrołęcki
+1416011;Ostrów Mazowiecka;miasto;21705;Mazowieckie;ostrowski
+1416022;Andrzejewo;wies;3801;Mazowieckie;ostrowski
+1416032;Boguty-Pianki;wies;2416;Mazowieckie;ostrowski
+1416043;Brok;gmina miejsko-wiejska;2599;Mazowieckie;ostrowski
+1416052;Małkinia Górna;wies;10879;Mazowieckie;ostrowski
+1416062;Nur;wies;2537;Mazowieckie;ostrowski
+1416072;Ostrów Mazowiecka;wies;12726;Mazowieckie;ostrowski
+1416082;Stary Lubotyń;wies;3589;Mazowieckie;ostrowski
+1416092;Szulborze Wielkie;wies;1549;Mazowieckie;ostrowski
+1416102;Wąsewo;wies;3995;Mazowieckie;ostrowski
+1416112;Zaręby Kościelne;wies;3325;Mazowieckie;ostrowski
+1417011;Józefów;miasto;21084;Mazowieckie;otwocki
+1417021;Otwock;miasto;44178;Mazowieckie;otwocki
+1417032;Celestynów;wies;11637;Mazowieckie;otwocki
+1417043;Karczew;gmina miejsko-wiejska;15821;Mazowieckie;otwocki
+1417052;Kołbiel;wies;8336;Mazowieckie;otwocki
+1417062;Osieck;wies;3645;Mazowieckie;otwocki
+1417072;Sobienie-Jeziory;wies;6252;Mazowieckie;otwocki
+1417082;Wiązowna;wies;15555;Mazowieckie;otwocki
+1418013;Góra Kalwaria;gmina miejsko-wiejska;28226;Mazowieckie;piaseczyński
+1418023;Konstancin-Jeziorn;gmina miejsko-wiejska;25123;Mazowieckie;piaseczyński
+1418032;Lesznowola;wies;35964;Mazowieckie;piaseczyński
+1418043;Piaseczno;gmina miejsko-wiejska;96087;Mazowieckie;piaseczyński
+1418052;Prażmów;wies;13013;Mazowieckie;piaseczyński
+1418063;Tarczyn;gmina miejsko-wiejska;12304;Mazowieckie;piaseczyński
+1419012;Bielsk;wies;8896;Mazowieckie;płocki
+1419022;Bodzanów;wies;7867;Mazowieckie;płocki
+1419032;Brudzeń Duży;wies;8250;Mazowieckie;płocki
+1419042;Bulkowo;wies;5252;Mazowieckie;płocki
+1419053;Drobin;gmina miejsko-wiejska;7404;Mazowieckie;płocki
+1419063;Gąbin;gmina miejsko-wiejska;11075;Mazowieckie;płocki
+1419072;Łąck;wies;5363;Mazowieckie;płocki
+1419082;Mała Wieś;wies;5686;Mazowieckie;płocki
+1419092;Nowy Duninów;wies;3943;Mazowieckie;płocki
+1419102;Radzanowo;wies;8580;Mazowieckie;płocki
+1419112;Słubice;wies;4138;Mazowieckie;płocki
+1419122;Słupno;wies;8860;Mazowieckie;płocki
+1419132;Stara Biała;wies;12229;Mazowieckie;płocki
+1419142;Staroźreby;wies;6823;Mazowieckie;płocki
+1419153;Wyszogród;gmina miejsko-wiejska;5268;Mazowieckie;płocki
+1420011;Płońsk;miasto;21674;Mazowieckie;płoński
+1420021;Raciąż;miasto;4036;Mazowieckie;płoński
+1420032;Baboszewo;wies;7492;Mazowieckie;płoński
+1420043;Czerwińsk nad Wisł;gmina miejsko-wiejska;7209;Mazowieckie;płoński
+1420052;Dzierzążnia;wies;3387;Mazowieckie;płoński
+1420062;Joniec;wies;2738;Mazowieckie;płoński
+1420072;Naruszewo;wies;6009;Mazowieckie;płoński
+1420083;Nowe Miasto;gmina miejsko-wiejska;4573;Mazowieckie;płoński
+1420092;Płońsk;wies;8284;Mazowieckie;płoński
+1420102;Raciąż;wies;7955;Mazowieckie;płoński
+1420113;Sochocin;gmina miejsko-wiejska;5685;Mazowieckie;płoński
+1420122;Załuski;wies;5531;Mazowieckie;płoński
+1421011;Piastów;miasto;23111;Mazowieckie;pruszkowski
+1421021;Pruszków;miasto;65334;Mazowieckie;pruszkowski
+1421033;Brwinów;gmina miejsko-wiejska;29694;Mazowieckie;pruszkowski
+1421042;Michałowice;wies;19216;Mazowieckie;pruszkowski
+1421052;Nadarzyn;wies;17444;Mazowieckie;pruszkowski
+1421062;Raszyn;wies;22853;Mazowieckie;pruszkowski
+1422011;Przasnysz;miasto;16491;Mazowieckie;przasnyski
+1422023;Chorzele;gmina miejsko-wiejska;9379;Mazowieckie;przasnyski
+1422032;Czernice Borowe;wies;3548;Mazowieckie;przasnyski
+1422042;Jednorożec;wies;6661;Mazowieckie;przasnyski
+1422052;Krasne;wies;3347;Mazowieckie;przasnyski
+1422062;Krzynowłoga Mała;wies;3239;Mazowieckie;przasnyski
+1422072;Przasnysz;wies;6930;Mazowieckie;przasnyski
+1423012;Borkowice;wies;4049;Mazowieckie;przysuski
+1423022;Gielniów;wies;4302;Mazowieckie;przysuski
+1423032;Klwów;wies;3128;Mazowieckie;przysuski
+1423042;Odrzywół;wies;3405;Mazowieckie;przysuski
+1423052;Potworów;wies;4012;Mazowieckie;przysuski
+1423063;Przysucha;gmina miejsko-wiejska;11057;Mazowieckie;przysuski
+1423072;Rusinów;wies;4039;Mazowieckie;przysuski
+1423082;Wieniawa;wies;5112;Mazowieckie;przysuski
+1424012;Gzy;wies;3588;Mazowieckie;pułtuski
+1424022;Obryte;wies;4387;Mazowieckie;pułtuski
+1424032;Pokrzywnica;wies;5125;Mazowieckie;pułtuski
+1424043;Pułtusk;gmina miejsko-wiejska;24186;Mazowieckie;pułtuski
+1424052;Świercze;wies;4493;Mazowieckie;pułtuski
+1424062;Winnica;wies;4010;Mazowieckie;pułtuski
+1424072;Zatory;wies;4723;Mazowieckie;pułtuski
+1425011;Pionki;miasto;16424;Mazowieckie;radomski
+1425022;Gózd;wies;9255;Mazowieckie;radomski
+1425033;Iłża;gmina miejsko-wiejska;13807;Mazowieckie;radomski
+1425042;Jastrzębia;wies;7132;Mazowieckie;radomski
+1425052;Jedlińsk;wies;14571;Mazowieckie;radomski
+1425063;Jedlnia-Letnisko;gmina miejsko-wiejska;13466;Mazowieckie;radomski
+1425072;Kowala;wies;12416;Mazowieckie;radomski
+1425082;Pionki;wies;9672;Mazowieckie;radomski
+1425092;Przytyk;wies;7064;Mazowieckie;radomski
+1425103;Skaryszew;gmina miejsko-wiejska;15310;Mazowieckie;radomski
+1425112;Wierzbica;wies;9295;Mazowieckie;radomski
+1425122;Wolanów;wies;8965;Mazowieckie;radomski
+1425132;Zakrzew;wies;13804;Mazowieckie;radomski
+1426012;Domanice;wies;2479;Mazowieckie;siedlecki
+1426022;Korczew;wies;2395;Mazowieckie;siedlecki
+1426032;Kotuń;wies;8165;Mazowieckie;siedlecki
+1426042;Mokobody;wies;4837;Mazowieckie;siedlecki
+1426053;Mordy;gmina miejsko-wiejska;5410;Mazowieckie;siedlecki
+1426062;Paprotnia;wies;2375;Mazowieckie;siedlecki
+1426072;Przesmyki;wies;2834;Mazowieckie;siedlecki
+1426082;Siedlce;wies;19451;Mazowieckie;siedlecki
+1426092;Skórzec;wies;8128;Mazowieckie;siedlecki
+1426102;Suchożebry;wies;4644;Mazowieckie;siedlecki
+1426112;Wiśniew;wies;5691;Mazowieckie;siedlecki
+1426122;Wodynie;wies;4213;Mazowieckie;siedlecki
+1426132;Zbuczyn;wies;9805;Mazowieckie;siedlecki
+1427011;Sierpc;miasto;17116;Mazowieckie;sierpecki
+1427022;Gozdowo;wies;5712;Mazowieckie;sierpecki
+1427032;Mochowo;wies;5587;Mazowieckie;sierpecki
+1427042;Rościszewo;wies;3821;Mazowieckie;sierpecki
+1427052;Sierpc;wies;6635;Mazowieckie;sierpecki
+1427062;Szczutowo;wies;4013;Mazowieckie;sierpecki
+1427072;Zawidz;wies;5933;Mazowieckie;sierpecki
+1428011;Sochaczew;miasto;33918;Mazowieckie;sochaczewski
+1428022;Brochów;wies;4405;Mazowieckie;sochaczewski
+1428032;Iłów;wies;5957;Mazowieckie;sochaczewski
+1428042;Młodzieszyn;wies;5545;Mazowieckie;sochaczewski
+1428052;Nowa Sucha;wies;6817;Mazowieckie;sochaczewski
+1428062;Rybno;wies;3402;Mazowieckie;sochaczewski
+1428072;Sochaczew;wies;11838;Mazowieckie;sochaczewski
+1428082;Teresin;wies;11612;Mazowieckie;sochaczewski
+1429011;Sokołów Podlaski;miasto;18494;Mazowieckie;sokołowski
+1429022;Bielany;wies;3509;Mazowieckie;sokołowski
+1429032;Ceranów;wies;1853;Mazowieckie;sokołowski
+1429042;Jabłonna Lacka;wies;4184;Mazowieckie;sokołowski
+1429053;Kosów Lacki;gmina miejsko-wiejska;5441;Mazowieckie;sokołowski
+1429062;Repki;wies;4708;Mazowieckie;sokołowski
+1429072;Sabnie;wies;3347;Mazowieckie;sokołowski
+1429082;Sokołów Podlaski;wies;5801;Mazowieckie;sokołowski
+1429092;Sterdyń;wies;3458;Mazowieckie;sokołowski
+1430012;Chlewiska;wies;5588;Mazowieckie;szydłowiecki
+1430022;Jastrząb;wies;5120;Mazowieckie;szydłowiecki
+1430032;Mirów;wies;3762;Mazowieckie;szydłowiecki
+1430042;Orońsko;wies;5943;Mazowieckie;szydłowiecki
+1430053;Szydłowiec;gmina miejsko-wiejska;17437;Mazowieckie;szydłowiecki
+1432013;Błonie;gmina miejsko-wiejska;22198;Mazowieckie;warszawski zachodni
+1432022;Izabelin;wies;10824;Mazowieckie;warszawski zachodni
+1432032;Kampinos;wies;4471;Mazowieckie;warszawski zachodni
+1432042;Leszno;wies;10959;Mazowieckie;warszawski zachodni
+1432053;Łomianki;gmina miejsko-wiejska;31276;Mazowieckie;warszawski zachodni
+1432063;Ożarów Mazowiecki;gmina miejsko-wiejska;30499;Mazowieckie;warszawski zachodni
+1432072;Stare Babice;wies;22415;Mazowieckie;warszawski zachodni
+1433011;Węgrów;miasto;11872;Mazowieckie;węgrowski
+1433022;Grębków;wies;4280;Mazowieckie;węgrowski
+1433032;Korytnica;wies;5561;Mazowieckie;węgrowski
+1433042;Liw;wies;7170;Mazowieckie;węgrowski
+1433053;Łochów;gmina miejsko-wiejska;17348;Mazowieckie;węgrowski
+1433062;Miedzna;wies;3623;Mazowieckie;węgrowski
+1433072;Sadowne;wies;5519;Mazowieckie;węgrowski
+1433082;Stoczek;wies;4566;Mazowieckie;węgrowski
+1433092;Wierzbno;wies;2487;Mazowieckie;węgrowski
+1434011;Kobyłka;miasto;27867;Mazowieckie;wołomiński
+1434021;Marki;miasto;43909;Mazowieckie;wołomiński
+1434031;Ząbki;miasto;44720;Mazowieckie;wołomiński
+1434041;Zielonka;miasto;18171;Mazowieckie;wołomiński
+1434052;Dąbrówka;wies;8516;Mazowieckie;wołomiński
+1434062;Jadów;wies;7105;Mazowieckie;wołomiński
+1434072;Klembów;wies;10963;Mazowieckie;wołomiński
+1434082;Poświętne;wies;6432;Mazowieckie;wołomiński
+1434093;Radzymin;gmina miejsko-wiejska;30560;Mazowieckie;wołomiński
+1434102;Strachówka;wies;2614;Mazowieckie;wołomiński
+1434113;Tłuszcz;gmina miejsko-wiejska;20132;Mazowieckie;wołomiński
+1434123;Wołomin;gmina miejsko-wiejska;51248;Mazowieckie;wołomiński
+1435012;Brańszczyk;wies;8191;Mazowieckie;wyszkowski
+1435022;Długosiodło;wies;7467;Mazowieckie;wyszkowski
+1435032;Rząśnik;wies;6831;Mazowieckie;wyszkowski
+1435042;Somianka;wies;5611;Mazowieckie;wyszkowski
+1435053;Wyszków;gmina miejsko-wiejska;39319;Mazowieckie;wyszkowski
+1435062;Zabrodzie;wies;6160;Mazowieckie;wyszkowski
+1436012;Kazanów;wies;4305;Mazowieckie;zwoleński
+1436022;Policzna;wies;5176;Mazowieckie;zwoleński
+1436032;Przyłęk;wies;5841;Mazowieckie;zwoleński
+1436042;Tczów;wies;4825;Mazowieckie;zwoleński
+1436053;Zwoleń;gmina miejsko-wiejska;14446;Mazowieckie;zwoleński
+1437013;Bieżuń;gmina miejsko-wiejska;4650;Mazowieckie;żuromiński
+1437022;Kuczbork-Osada;wies;4327;Mazowieckie;żuromiński
+1437033;Lubowidz;gmina miejsko-wiejska;6344;Mazowieckie;żuromiński
+1437042;Lutocin;wies;4015;Mazowieckie;żuromiński
+1437052;Siemiątkowo;wies;3233;Mazowieckie;żuromiński
+1437063;Żuromin;gmina miejsko-wiejska;13496;Mazowieckie;żuromiński
+1438011;Żyrardów;miasto;38985;Mazowieckie;żyrardowski
+1438023;Mszczonów;gmina miejsko-wiejska;11347;Mazowieckie;żyrardowski
+1438032;Puszcza Mariańska;wies;8782;Mazowieckie;żyrardowski
+1438042;Radziejowice;wies;6334;Mazowieckie;żyrardowski
+1438053;Wiskitki;gmina miejsko-wiejska;10095;Mazowieckie;żyrardowski
+1461000;Ostrołęka;miasto;48995;Mazowieckie;Ostrołęka
+1462000;Płock;miasto;113146;Mazowieckie;Płock
+1463000;Radom;miasto;198754;Mazowieckie;Radom
+1464000;Siedlce;miasto;75820;Mazowieckie;Siedlce
+1465011;Warszawa;miasto;1862345;Mazowieckie;Warszawa
+1201011;Bochnia;miasto;28698;Małopolskie;bocheński
+1201022;Bochnia;wies;20545;Małopolskie;bocheński
+1201032;Drwinia;wies;6469;Małopolskie;bocheński
+1201042;Lipnica Murowana;wies;5547;Małopolskie;bocheński
+1201052;Łapanów;wies;8517;Małopolskie;bocheński
+1201063;Nowy Wiśnicz;gmina miejsko-wiejska;14369;Małopolskie;bocheński
+1201072;Rzezawa;wies;11401;Małopolskie;bocheński
+1201082;Trzciana;wies;5669;Małopolskie;bocheński
+1201092;Żegocina;wies;5531;Małopolskie;bocheński
+1202012;Borzęcin;wies;8155;Małopolskie;brzeski
+1202023;Brzesko;gmina miejsko-wiejska;35607;Małopolskie;brzeski
+1202033;Czchów;gmina miejsko-wiejska;9792;Małopolskie;brzeski
+1202042;Dębno;wies;14481;Małopolskie;brzeski
+1202052;Gnojnik;wies;8116;Małopolskie;brzeski
+1202062;Iwkowa;wies;6607;Małopolskie;brzeski
+1202072;Szczurowa;wies;9238;Małopolskie;brzeski
+1203013;Alwernia;gmina miejsko-wiejska;12397;Małopolskie;chrzanowski
+1203022;Babice;wies;9012;Małopolskie;chrzanowski
+1203033;Chrzanów;gmina miejsko-wiejska;44653;Małopolskie;chrzanowski
+1203043;Libiąż;gmina miejsko-wiejska;21425;Małopolskie;chrzanowski
+1203053;Trzebinia;gmina miejsko-wiejska;32695;Małopolskie;chrzanowski
+1204012;Bolesław;wies;2659;Małopolskie;dąbrowski
+1204023;Dąbrowa Tarnowska;gmina miejsko-wiejska;20885;Małopolskie;dąbrowski
+1204032;Gręboszów;wies;3221;Małopolskie;dąbrowski
+1204042;Mędrzechów;wies;3350;Małopolskie;dąbrowski
+1204052;Olesno;wies;7669;Małopolskie;dąbrowski
+1204062;Radgoszcz;wies;7448;Małopolskie;dąbrowski
+1204073;Szczucin;gmina miejsko-wiejska;12587;Małopolskie;dąbrowski
+1205011;Gorlice;miasto;25944;Małopolskie;gorlicki
+1205023;Biecz;gmina miejsko-wiejska;16254;Małopolskie;gorlicki
+1205033;Bobowa;gmina miejsko-wiejska;9556;Małopolskie;gorlicki
+1205042;Gorlice;wies;16995;Małopolskie;gorlicki
+1205052;Lipinki;wies;6718;Małopolskie;gorlicki
+1205062;Łużna;wies;8390;Małopolskie;gorlicki
+1205072;Moszczenica;wies;4878;Małopolskie;gorlicki
+1205082;Ropa;wies;5525;Małopolskie;gorlicki
+1205092;Sękowa;wies;4888;Małopolskie;gorlicki
+1205102;Uście Gorlickie;wies;6836;Małopolskie;gorlicki
+1206012;Czernichów;wies;15293;Małopolskie;krakowski
+1206022;Igołomia-Wawrzeńczyc;wies;7872;Małopolskie;krakowski
+1206032;Iwanowice;wies;9783;Małopolskie;krakowski
+1206042;Jerzmanowice-Przegin;wies;11189;Małopolskie;krakowski
+1206052;Kocmyrzów-Luborzyca;wies;17890;Małopolskie;krakowski
+1206063;Krzeszowice;gmina miejsko-wiejska;31984;Małopolskie;krakowski
+1206072;Liszki;wies;18260;Małopolskie;krakowski
+1206082;Michałowice;wies;13038;Małopolskie;krakowski
+1206092;Mogilany;wies;16150;Małopolskie;krakowski
+1206103;Skała;gmina miejsko-wiejska;10958;Małopolskie;krakowski
+1206113;Skawina;gmina miejsko-wiejska;44032;Małopolskie;krakowski
+1206123;Słomniki;gmina miejsko-wiejska;13815;Małopolskie;krakowski
+1206132;Sułoszowa;wies;5710;Małopolskie;krakowski
+1206143;Świątniki Górne;gmina miejsko-wiejska;11053;Małopolskie;krakowski
+1206152;Wielka Wieś;wies;16216;Małopolskie;krakowski
+1206162;Zabierzów;wies;29252;Małopolskie;krakowski
+1206172;Zielonki;wies;27023;Małopolskie;krakowski
+1207011;Limanowa;miasto;14565;Małopolskie;limanowski
+1207021;Mszana Dolna;miasto;7840;Małopolskie;limanowski
+1207032;Dobra;wies;10048;Małopolskie;limanowski
+1207042;Jodłownik;wies;8749;Małopolskie;limanowski
+1207052;Kamienica;wies;7801;Małopolskie;limanowski
+1207062;Laskowa;wies;8164;Małopolskie;limanowski
+1207072;Limanowa;wies;25863;Małopolskie;limanowski
+1207082;Łukowica;wies;10153;Małopolskie;limanowski
+1207092;Mszana Dolna;wies;17591;Małopolskie;limanowski
+1207102;Niedźwiedź;wies;7291;Małopolskie;limanowski
+1207112;Słopnice;wies;6857;Małopolskie;limanowski
+1207122;Tymbark;wies;6410;Małopolskie;limanowski
+1208012;Charsznica;wies;7174;Małopolskie;miechowski
+1208022;Gołcza;wies;5992;Małopolskie;miechowski
+1208032;Kozłów;wies;4429;Małopolskie;miechowski
+1208042;Książ Wielki;wies;4921;Małopolskie;miechowski
+1208053;Miechów;gmina miejsko-wiejska;18849;Małopolskie;miechowski
+1208062;Racławice;wies;2436;Małopolskie;miechowski
+1208072;Słaboszów;wies;3376;Małopolskie;miechowski
+1209013;Dobczyce;gmina miejsko-wiejska;15510;Małopolskie;myślenicki
+1209022;Lubień;wies;10096;Małopolskie;myślenicki
+1209033;Myślenice;gmina miejsko-wiejska;45349;Małopolskie;myślenicki
+1209042;Pcim;wies;11107;Małopolskie;myślenicki
+1209052;Raciechowice;wies;6420;Małopolskie;myślenicki
+1209062;Siepraw;wies;9530;Małopolskie;myślenicki
+1209073;Sułkowice;gmina miejsko-wiejska;15132;Małopolskie;myślenicki
+1209082;Tokarnia;wies;8809;Małopolskie;myślenicki
+1209092;Wiśniowa;wies;7490;Małopolskie;myślenicki
+1210011;Grybów;miasto;5968;Małopolskie;nowosądecki
+1210022;Chełmiec;wies;29396;Małopolskie;nowosądecki
+1210032;Gródek nad Dunajcem;wies;8934;Małopolskie;nowosądecki
+1210042;Grybów;wies;25286;Małopolskie;nowosądecki
+1210052;Kamionka Wielka;wies;10476;Małopolskie;nowosądecki
+1210062;Korzenna;wies;14346;Małopolskie;nowosądecki
+1210073;Krynica-Zdrój;gmina miejsko-wiejska;15860;Małopolskie;nowosądecki
+1210082;Łabowa;wies;5959;Małopolskie;nowosądecki
+1210092;Łącko;wies;16650;Małopolskie;nowosądecki
+1210102;Łososina Dolna;wies;11138;Małopolskie;nowosądecki
+1210113;Muszyna;gmina miejsko-wiejska;11183;Małopolskie;nowosądecki
+1210122;Nawojowa;wies;8767;Małopolskie;nowosądecki
+1210133;Piwniczna-Zdrój;gmina miejsko-wiejska;10058;Małopolskie;nowosądecki
+1210142;Podegrodzie;wies;13461;Małopolskie;nowosądecki
+1210152;Rytro;wies;3683;Małopolskie;nowosądecki
+1210163;Stary Sącz;gmina miejsko-wiejska;23510;Małopolskie;nowosądecki
+1211011;Nowy Targ;miasto;33088;Małopolskie;nowotarski
+1211023;Szczawnica;gmina miejsko-wiejska;6813;Małopolskie;nowotarski
+1211032;Czarny Dunajec;wies;22085;Małopolskie;nowotarski
+1211042;Czorsztyn;wies;7618;Małopolskie;nowotarski
+1211052;Jabłonka;wies;18989;Małopolskie;nowotarski
+1211062;Krościenko nad Dunaj;wies;6677;Małopolskie;nowotarski
+1211072;Lipnica Wielka;wies;6056;Małopolskie;nowotarski
+1211082;Łapsze Niżne;wies;9238;Małopolskie;nowotarski
+1211092;Nowy Targ;wies;24031;Małopolskie;nowotarski
+1211102;Ochotnica Dolna;wies;8416;Małopolskie;nowotarski
+1211112;Raba Wyżna;wies;14482;Małopolskie;nowotarski
+1211123;Rabka-Zdrój;gmina miejsko-wiejska;16705;Małopolskie;nowotarski
+1211132;Spytkowice;wies;4676;Małopolskie;nowotarski
+1211142;Szaflary;wies;11216;Małopolskie;nowotarski
+1212011;Bukowno;miasto;9651;Małopolskie;olkuski
+1212032;Bolesław;wies;7619;Małopolskie;olkuski
+1212042;Klucze;wies;14638;Małopolskie;olkuski
+1212053;Olkusz;gmina miejsko-wiejska;46351;Małopolskie;olkuski
+1212062;Trzyciąż;wies;6927;Małopolskie;olkuski
+1212073;Wolbrom;gmina miejsko-wiejska;22111;Małopolskie;olkuski
+1213011;Oświęcim;miasto;36279;Małopolskie;oświęcimski
+1213023;Brzeszcze;gmina miejsko-wiejska;20628;Małopolskie;oświęcimski
+1213033;Chełmek;gmina miejsko-wiejska;12421;Małopolskie;oświęcimski
+1213043;Kęty;gmina miejsko-wiejska;33387;Małopolskie;oświęcimski
+1213052;Osiek;wies;8159;Małopolskie;oświęcimski
+1213062;Oświęcim;wies;18888;Małopolskie;oświęcimski
+1213072;Polanka Wielka;wies;4311;Małopolskie;oświęcimski
+1213082;Przeciszów;wies;6445;Małopolskie;oświęcimski
+1213093;Zator;gmina miejsko-wiejska;9121;Małopolskie;oświęcimski
+1214012;Koniusza;wies;9084;Małopolskie;proszowicki
+1214023;Koszyce;gmina miejsko-wiejska;5260;Małopolskie;proszowicki
+1214033;Nowe Brzesko;gmina miejsko-wiejska;5665;Małopolskie;proszowicki
+1214042;Pałecznica;wies;3492;Małopolskie;proszowicki
+1214053;Proszowice;gmina miejsko-wiejska;15657;Małopolskie;proszowicki
+1214062;Radziemice;wies;3225;Małopolskie;proszowicki
+1215011;Jordanów;miasto;5395;Małopolskie;suski
+1215021;Sucha Beskidzka;miasto;8876;Małopolskie;suski
+1215032;Budzów;wies;8817;Małopolskie;suski
+1215042;Bystra-Sidzina;wies;6836;Małopolskie;suski
+1215052;Jordanów;wies;11189;Małopolskie;suski
+1215063;Maków Podhalański;gmina miejsko-wiejska;15808;Małopolskie;suski
+1215072;Stryszawa;wies;11924;Małopolskie;suski
+1215082;Zawoja;wies;8813;Małopolskie;suski
+1215092;Zembrzyce;wies;5439;Małopolskie;suski
+1216013;Ciężkowice;gmina miejsko-wiejska;11037;Małopolskie;tarnowski
+1216022;Gromnik;wies;8705;Małopolskie;tarnowski
+1216032;Lisia Góra;wies;15565;Małopolskie;tarnowski
+1216042;Pleśna;wies;11794;Małopolskie;tarnowski
+1216053;Radłów;gmina miejsko-wiejska;9414;Małopolskie;tarnowski
+1216063;Ryglice;gmina miejsko-wiejska;11268;Małopolskie;tarnowski
+1216072;Rzepiennik Strzyżews;wies;6575;Małopolskie;tarnowski
+1216082;Skrzyszów;wies;14109;Małopolskie;tarnowski
+1216092;Tarnów;wies;26279;Małopolskie;tarnowski
+1216103;Tuchów;gmina miejsko-wiejska;17165;Małopolskie;tarnowski
+1216112;Wierzchosławice;wies;10588;Małopolskie;tarnowski
+1216122;Wietrzychowice;wies;3779;Małopolskie;tarnowski
+1216133;Wojnicz;gmina miejsko-wiejska;13049;Małopolskie;tarnowski
+1216143;Zakliczyn;gmina miejsko-wiejska;12381;Małopolskie;tarnowski
+1216153;Żabno;gmina miejsko-wiejska;18509;Małopolskie;tarnowski
+1216162;Szerzyny;wies;7534;Małopolskie;tarnowski
+1217011;Zakopane;miasto;25456;Małopolskie;tatrzański
+1217022;Biały Dunajec;wies;6847;Małopolskie;tatrzański
+1217032;Bukowina Tatrzańska;wies;13504;Małopolskie;tatrzański
+1217042;Kościelisko;wies;9039;Małopolskie;tatrzański
+1217052;Poronin;wies;11773;Małopolskie;tatrzański
+1218013;Andrychów;gmina miejsko-wiejska;42283;Małopolskie;wadowicki
+1218022;Brzeźnica;wies;10749;Małopolskie;wadowicki
+1218033;Kalwaria Zebrzydow;gmina miejsko-wiejska;19932;Małopolskie;wadowicki
+1218042;Lanckorona;wies;6267;Małopolskie;wadowicki
+1218052;Mucharz;wies;4141;Małopolskie;wadowicki
+1218062;Spytkowice;wies;10135;Małopolskie;wadowicki
+1218072;Stryszów;wies;6829;Małopolskie;wadowicki
+1218082;Tomice;wies;8181;Małopolskie;wadowicki
+1218093;Wadowice;gmina miejsko-wiejska;36830;Małopolskie;wadowicki
+1218102;Wieprz;wies;12631;Małopolskie;wadowicki
+1219012;Biskupice;wies;11480;Małopolskie;wielicki
+1219022;Gdów;wies;18577;Małopolskie;wielicki
+1219032;Kłaj;wies;11091;Małopolskie;wielicki
+1219043;Niepołomice;gmina miejsko-wiejska;32552;Małopolskie;wielicki
+1219053;Wieliczka;gmina miejsko-wiejska;67512;Małopolskie;wielicki
+1261000;Kraków;miasto;802781;Małopolskie;Kraków
+1262000;Nowy Sącz;miasto;80756;Małopolskie;Nowy Sącz
+1263000;Tarnów;miasto;104454;Małopolskie;Tarnów
+1601011;Brzeg;miasto;33962;Opolskie;brzeski
+1601022;Skarbimierz;wies;8612;Opolskie;brzeski
+1601033;Grodków;gmina miejsko-wiejska;18177;Opolskie;brzeski
+1601043;Lewin Brzeski;gmina miejsko-wiejska;12517;Opolskie;brzeski
+1601052;Lubsza;wies;8963;Opolskie;brzeski
+1601062;Olszanka;wies;4769;Opolskie;brzeski
+1602013;Baborów;gmina miejsko-wiejska;5740;Opolskie;głubczycki
+1602022;Branice;wies;6295;Opolskie;głubczycki
+1602033;Głubczyce;gmina miejsko-wiejska;21139;Opolskie;głubczycki
+1602043;Kietrz;gmina miejsko-wiejska;10137;Opolskie;głubczycki
+1603011;Kędzierzyn-Koźle;miasto;55623;Opolskie;kędzierzyńsko-koziels
+1603022;Bierawa;wies;7519;Opolskie;kędzierzyńsko-koziels
+1603032;Cisek;wies;5350;Opolskie;kędzierzyńsko-koziels
+1603042;Pawłowiczki;wies;7097;Opolskie;kędzierzyńsko-koziels
+1603052;Polska Cerekiew;wies;3773;Opolskie;kędzierzyńsko-koziels
+1603062;Reńska Wieś;wies;8088;Opolskie;kędzierzyńsko-koziels
+1604013;Byczyna;gmina miejsko-wiejska;8753;Opolskie;kluczborski
+1604023;Kluczbork;gmina miejsko-wiejska;34441;Opolskie;kluczborski
+1604032;Lasowice Wielkie;wies;6388;Opolskie;kluczborski
+1604043;Wołczyn;gmina miejsko-wiejska;12418;Opolskie;kluczborski
+1605013;Gogolin;gmina miejsko-wiejska;11658;Opolskie;krapkowicki
+1605023;Krapkowice;gmina miejsko-wiejska;21766;Opolskie;krapkowicki
+1605032;Strzeleczki;wies;7229;Opolskie;krapkowicki
+1605042;Walce;wies;5169;Opolskie;krapkowicki
+1605053;Zdzieszowice;gmina miejsko-wiejska;14260;Opolskie;krapkowicki
+1606012;Domaszowice;wies;3485;Opolskie;namysłowski
+1606023;Namysłów;gmina miejsko-wiejska;26377;Opolskie;namysłowski
+1606032;Pokój;wies;5075;Opolskie;namysłowski
+1606042;Świerczów;wies;3089;Opolskie;namysłowski
+1606052;Wilków;wies;4220;Opolskie;namysłowski
+1607013;Głuchołazy;gmina miejsko-wiejska;22654;Opolskie;nyski
+1607022;Kamiennik;wies;3206;Opolskie;nyski
+1607033;Korfantów;gmina miejsko-wiejska;8458;Opolskie;nyski
+1607042;Łambinowice;wies;7253;Opolskie;nyski
+1607053;Nysa;gmina miejsko-wiejska;54514;Opolskie;nyski
+1607063;Otmuchów;gmina miejsko-wiejska;12922;Opolskie;nyski
+1607073;Paczków;gmina miejsko-wiejska;11573;Opolskie;nyski
+1607082;Pakosławice;wies;3364;Opolskie;nyski
+1607092;Skoroszyce;wies;5912;Opolskie;nyski
+1608013;Dobrodzień;gmina miejsko-wiejska;9155;Opolskie;oleski
+1608023;Gorzów Śląski;gmina miejsko-wiejska;7009;Opolskie;oleski
+1608033;Olesno;gmina miejsko-wiejska;17285;Opolskie;oleski
+1608043;Praszka;gmina miejsko-wiejska;13002;Opolskie;oleski
+1608052;Radłów;wies;4096;Opolskie;oleski
+1608062;Rudniki;wies;7737;Opolskie;oleski
+1608072;Zębowice;wies;3484;Opolskie;oleski
+1609012;Chrząstowice;wies;7053;Opolskie;opolski
+1609022;Dąbrowa;wies;8190;Opolskie;opolski
+1609032;Dobrzeń Wielki;wies;9154;Opolskie;opolski
+1609042;Komprachcice;wies;9232;Opolskie;opolski
+1609052;Łubniany;wies;10085;Opolskie;opolski
+1609062;Murów;wies;5085;Opolskie;opolski
+1609073;Niemodlin;gmina miejsko-wiejska;12658;Opolskie;opolski
+1609083;Ozimek;gmina miejsko-wiejska;18531;Opolskie;opolski
+1609092;Popielów;wies;7736;Opolskie;opolski
+1609103;Prószków;gmina miejsko-wiejska;8884;Opolskie;opolski
+1609112;Tarnów Opolski;wies;9363;Opolskie;opolski
+1609123;Tułowice;gmina miejsko-wiejska;4976;Opolskie;opolski
+1609132;Turawa;wies;9861;Opolskie;opolski
+1610013;Biała;gmina miejsko-wiejska;9973;Opolskie;prudnicki
+1610023;Głogówek;gmina miejsko-wiejska;12714;Opolskie;prudnicki
+1610032;Lubrza;wies;4154;Opolskie;prudnicki
+1610043;Prudnik;gmina miejsko-wiejska;25345;Opolskie;prudnicki
+1611012;Izbicko;wies;5273;Opolskie;strzelecki
+1611022;Jemielnica;wies;6997;Opolskie;strzelecki
+1611033;Kolonowskie;gmina miejsko-wiejska;5709;Opolskie;strzelecki
+1611043;Leśnica;gmina miejsko-wiejska;7513;Opolskie;strzelecki
+1611053;Strzelce Opolskie;gmina miejsko-wiejska;29424;Opolskie;strzelecki
+1611063;Ujazd;gmina miejsko-wiejska;6342;Opolskie;strzelecki
+1611073;Zawadzkie;gmina miejsko-wiejska;10591;Opolskie;strzelecki
+1661011;Opole;miasto;126623;Opolskie;Opole
+1801032;Czarna;wies;2378;Podkarpackie;bieszczadzki
+1801052;Lutowiska;wies;2004;Podkarpackie;bieszczadzki
+1801083;Ustrzyki Dolne;gmina miejsko-wiejska;16472;Podkarpackie;bieszczadzki
+1802013;Brzozów;gmina miejsko-wiejska;26076;Podkarpackie;brzozowski
+1802022;Domaradz;wies;5864;Podkarpackie;brzozowski
+1802032;Dydnia;wies;7562;Podkarpackie;brzozowski
+1802042;Haczów;wies;9055;Podkarpackie;brzozowski
+1802052;Jasienica Rosielna;wies;7607;Podkarpackie;brzozowski
+1802062;Nozdrzec;wies;7612;Podkarpackie;brzozowski
+1803011;Dębica;miasto;43523;Podkarpackie;dębicki
+1803023;Brzostek;gmina miejsko-wiejska;12711;Podkarpackie;dębicki
+1803032;Czarna;wies;13325;Podkarpackie;dębicki
+1803042;Dębica;wies;25665;Podkarpackie;dębicki
+1803052;Jodłowa;wies;5259;Podkarpackie;dębicki
+1803063;Pilzno;gmina miejsko-wiejska;18220;Podkarpackie;dębicki
+1803072;Żyraków;wies;14385;Podkarpackie;dębicki
+1804011;Jarosław;miasto;35739;Podkarpackie;jarosławski
+1804021;Radymno;miasto;5050;Podkarpackie;jarosławski
+1804032;Chłopice;wies;5319;Podkarpackie;jarosławski
+1804042;Jarosław;wies;13156;Podkarpackie;jarosławski
+1804052;Laszki;wies;6637;Podkarpackie;jarosławski
+1804062;Pawłosiów;wies;8441;Podkarpackie;jarosławski
+1804073;Pruchnik;gmina miejsko-wiejska;9319;Podkarpackie;jarosławski
+1804082;Radymno;wies;10950;Podkarpackie;jarosławski
+1804092;Rokietnica;wies;4166;Podkarpackie;jarosławski
+1804102;Roźwienica;wies;6192;Podkarpackie;jarosławski
+1804112;Wiązownica;wies;11696;Podkarpackie;jarosławski
+1805011;Jasło;miasto;33276;Podkarpackie;jasielski
+1805022;Brzyska;wies;6327;Podkarpackie;jasielski
+1805032;Dębowiec;wies;8795;Podkarpackie;jasielski
+1805042;Jasło;wies;15988;Podkarpackie;jasielski
+1805053;Kołaczyce;gmina miejsko-wiejska;8653;Podkarpackie;jasielski
+1805062;Krempna;wies;1719;Podkarpackie;jasielski
+1805072;Nowy Żmigród;wies;8742;Podkarpackie;jasielski
+1805082;Osiek Jasielski;wies;5190;Podkarpackie;jasielski
+1805092;Skołyszyn;wies;12072;Podkarpackie;jasielski
+1805112;Tarnowiec;wies;9034;Podkarpackie;jasielski
+1806012;Cmolas;wies;8010;Podkarpackie;kolbuszowski
+1806023;Kolbuszowa;gmina miejsko-wiejska;24332;Podkarpackie;kolbuszowski
+1806032;Majdan Królewski;wies;9690;Podkarpackie;kolbuszowski
+1806042;Niwiska;wies;6188;Podkarpackie;kolbuszowski
+1806052;Raniżów;wies;6939;Podkarpackie;kolbuszowski
+1806062;Dzikowiec;wies;6322;Podkarpackie;kolbuszowski
+1807012;Chorkówka;wies;13488;Podkarpackie;krośnieński
+1807023;Dukla;gmina miejsko-wiejska;13986;Podkarpackie;krośnieński
+1807033;Iwonicz-Zdrój;gmina miejsko-wiejska;10385;Podkarpackie;krośnieński
+1807043;Jedlicze;gmina miejsko-wiejska;14947;Podkarpackie;krośnieński
+1807052;Korczyna;wies;11129;Podkarpackie;krośnieński
+1807062;Krościenko Wyżne;wies;5376;Podkarpackie;krośnieński
+1807072;Miejsce Piastowe;wies;13326;Podkarpackie;krośnieński
+1807083;Rymanów;gmina miejsko-wiejska;15322;Podkarpackie;krośnieński
+1807092;Wojaszówka;wies;9233;Podkarpackie;krośnieński
+1807102;Jaśliska;wies;2076;Podkarpackie;krośnieński
+1808011;Leżajsk;miasto;12926;Podkarpackie;leżajski
+1808022;Grodzisko Dolne;wies;7787;Podkarpackie;leżajski
+1808032;Kuryłówka;wies;5523;Podkarpackie;leżajski
+1808042;Leżajsk;wies;19912;Podkarpackie;leżajski
+1808053;Nowa Sarzyna;gmina miejsko-wiejska;21051;Podkarpackie;leżajski
+1809011;Lubaczów;miasto;11485;Podkarpackie;lubaczowski
+1809023;Cieszanów;gmina miejsko-wiejska;6824;Podkarpackie;lubaczowski
+1809032;Horyniec-Zdrój;wies;4419;Podkarpackie;lubaczowski
+1809042;Lubaczów;wies;8957;Podkarpackie;lubaczowski
+1809053;Narol;gmina miejsko-wiejska;7609;Podkarpackie;lubaczowski
+1809063;Oleszyce;gmina miejsko-wiejska;6149;Podkarpackie;lubaczowski
+1809072;Stary Dzików;wies;4036;Podkarpackie;lubaczowski
+1809082;Wielkie Oczy;wies;3672;Podkarpackie;lubaczowski
+1810011;Łańcut;miasto;17668;Podkarpackie;łańcucki
+1810022;Białobrzegi;wies;8674;Podkarpackie;łańcucki
+1810032;Czarna;wies;11992;Podkarpackie;łańcucki
+1810042;Łańcut;wies;21785;Podkarpackie;łańcucki
+1810052;Markowa;wies;6336;Podkarpackie;łańcucki
+1810062;Rakszawa;wies;7306;Podkarpackie;łańcucki
+1810072;Żołynia;wies;6998;Podkarpackie;łańcucki
+1811011;Mielec;miasto;57612;Podkarpackie;mielecki
+1811022;Borowa;wies;5309;Podkarpackie;mielecki
+1811032;Czermin;wies;7028;Podkarpackie;mielecki
+1811042;Gawłuszowice;wies;2708;Podkarpackie;mielecki
+1811052;Mielec;wies;13529;Podkarpackie;mielecki
+1811062;Padew Narodowa;wies;5158;Podkarpackie;mielecki
+1811073;Przecław;gmina miejsko-wiejska;11995;Podkarpackie;mielecki
+1811083;Radomyśl Wielki;gmina miejsko-wiejska;14219;Podkarpackie;mielecki
+1811092;Tuszów Narodowy;wies;8286;Podkarpackie;mielecki
+1811102;Wadowice Górne;wies;7607;Podkarpackie;mielecki
+1812012;Harasiuki;wies;5774;Podkarpackie;niżański
+1812022;Jarocin;wies;5122;Podkarpackie;niżański
+1812032;Jeżowe;wies;9843;Podkarpackie;niżański
+1812042;Krzeszów;wies;4133;Podkarpackie;niżański
+1812053;Nisko;gmina miejsko-wiejska;21534;Podkarpackie;niżański
+1812063;Rudnik nad Sanem;gmina miejsko-wiejska;9915;Podkarpackie;niżański
+1812073;Ulanów;gmina miejsko-wiejska;7933;Podkarpackie;niżański
+1813012;Bircza;wies;5957;Podkarpackie;przemyski
+1813023;Dubiecko;gmina miejsko-wiejska;8844;Podkarpackie;przemyski
+1813032;Fredropol;wies;5210;Podkarpackie;przemyski
+1813042;Krasiczyn;wies;5124;Podkarpackie;przemyski
+1813052;Krzywcza;wies;4566;Podkarpackie;przemyski
+1813062;Medyka;wies;6252;Podkarpackie;przemyski
+1813072;Orły;wies;8557;Podkarpackie;przemyski
+1813082;Przemyśl;wies;10683;Podkarpackie;przemyski
+1813092;Stubno;wies;3705;Podkarpackie;przemyski
+1813102;Żurawica;wies;12667;Podkarpackie;przemyski
+1814011;Przeworsk;miasto;14709;Podkarpackie;przeworski
+1814022;Adamówka;wies;4035;Podkarpackie;przeworski
+1814032;Gać;wies;4529;Podkarpackie;przeworski
+1814042;Jawornik Polski;wies;4256;Podkarpackie;przeworski
+1814053;Kańczuga;gmina miejsko-wiejska;11810;Podkarpackie;przeworski
+1814062;Przeworsk;wies;14609;Podkarpackie;przeworski
+1814073;Sieniawa;gmina miejsko-wiejska;6758;Podkarpackie;przeworski
+1814082;Tryńcza;wies;8510;Podkarpackie;przeworski
+1814092;Zarzecze;wies;6962;Podkarpackie;przeworski
+1815012;Iwierzyce;wies;7714;Podkarpackie;ropczycko-sędziszowsk
+1815022;Ostrów;wies;7371;Podkarpackie;ropczycko-sędziszowsk
+1815033;Ropczyce;gmina miejsko-wiejska;27229;Podkarpackie;ropczycko-sędziszowsk
+1815043;Sędziszów Małopols;gmina miejsko-wiejska;23879;Podkarpackie;ropczycko-sędziszowsk
+1815052;Wielopole Skrzyńskie;wies;7824;Podkarpackie;ropczycko-sędziszowsk
+1816011;Dynów;miasto;6022;Podkarpackie;rzeszowski
+1816023;Błażowa;gmina miejsko-wiejska;10827;Podkarpackie;rzeszowski
+1816033;Boguchwała;gmina miejsko-wiejska;21836;Podkarpackie;rzeszowski
+1816042;Chmielnik;wies;7344;Podkarpackie;rzeszowski
+1816052;Dynów;wies;6650;Podkarpackie;rzeszowski
+1816063;Głogów Małopolski;gmina miejsko-wiejska;19397;Podkarpackie;rzeszowski
+1816072;Hyżne;wies;6956;Podkarpackie;rzeszowski
+1816082;Kamień;wies;6813;Podkarpackie;rzeszowski
+1816092;Krasne;wies;12781;Podkarpackie;rzeszowski
+1816102;Lubenia;wies;6521;Podkarpackie;rzeszowski
+1816113;Sokołów Małopolski;gmina miejsko-wiejska;17315;Podkarpackie;rzeszowski
+1816122;Świlcza;wies;16568;Podkarpackie;rzeszowski
+1816132;Trzebownisko;wies;23815;Podkarpackie;rzeszowski
+1816143;Tyczyn;gmina miejsko-wiejska;11315;Podkarpackie;rzeszowski
+1817011;Sanok;miasto;34921;Podkarpackie;sanocki
+1817022;Besko;wies;4399;Podkarpackie;sanocki
+1817032;Bukowsko;wies;5339;Podkarpackie;sanocki
+1817042;Komańcza;wies;4194;Podkarpackie;sanocki
+1817052;Sanok;wies;18110;Podkarpackie;sanocki
+1817062;Tyrawa Wołoska;wies;1946;Podkarpackie;sanocki
+1817073;Zagórz;gmina miejsko-wiejska;12743;Podkarpackie;sanocki
+1817082;Zarszyn;wies;8938;Podkarpackie;sanocki
+1818011;Stalowa Wola;miasto;56280;Podkarpackie;stalowowolski
+1818022;Bojanów;wies;7570;Podkarpackie;stalowowolski
+1818032;Pysznica;wies;11734;Podkarpackie;stalowowolski
+1818042;Radomyśl nad Sanem;wies;7237;Podkarpackie;stalowowolski
+1818053;Zaklików;gmina miejsko-wiejska;8116;Podkarpackie;stalowowolski
+1818062;Zaleszany;wies;11005;Podkarpackie;stalowowolski
+1819012;Czudec;wies;11591;Podkarpackie;strzyżowski
+1819022;Frysztak;wies;10116;Podkarpackie;strzyżowski
+1819032;Niebylec;wies;10320;Podkarpackie;strzyżowski
+1819043;Strzyżów;gmina miejsko-wiejska;19925;Podkarpackie;strzyżowski
+1819052;Wiśniowa;wies;7697;Podkarpackie;strzyżowski
+1820013;Baranów Sandomiers;gmina miejsko-wiejska;11387;Podkarpackie;tarnobrzeski
+1820022;Gorzyce;wies;12773;Podkarpackie;tarnobrzeski
+1820032;Grębów;wies;10002;Podkarpackie;tarnobrzeski
+1820043;Nowa Dęba;gmina miejsko-wiejska;17202;Podkarpackie;tarnobrzeski
+1821012;Baligród;wies;3060;Podkarpackie;leski
+1821022;Cisna;wies;1689;Podkarpackie;leski
+1821033;Lesko;gmina miejsko-wiejska;10892;Podkarpackie;leski
+1821042;Olszanica;wies;4729;Podkarpackie;leski
+1821052;Solina;wies;5245;Podkarpackie;leski
+1861000;Krosno;miasto;44530;Podkarpackie;Krosno
+1862000;Przemyśl;miasto;57193;Podkarpackie;Przemyśl
+1863000;Rzeszów;miasto;196726;Podkarpackie;Rzeszów
+1864000;Tarnobrzeg;miasto;44314;Podkarpackie;Tarnobrzeg
+2001011;Augustów;miasto;29305;Podlaskie;augustowski
+2001022;Augustów;wies;6452;Podlaskie;augustowski
+2001032;Bargłów Kościelny;wies;5035;Podlaskie;augustowski
+2001043;Lipsk;gmina miejsko-wiejska;4495;Podlaskie;augustowski
+2001052;Nowinka;wies;2896;Podlaskie;augustowski
+2001062;Płaska;wies;2353;Podlaskie;augustowski
+2001072;Sztabin;wies;4596;Podlaskie;augustowski
+2002013;Choroszcz;gmina miejsko-wiejska;17281;Podlaskie;białostocki
+2002023;Czarna Białostocka;gmina miejsko-wiejska;10837;Podlaskie;białostocki
+2002032;Dobrzyniewo Duże;wies;10161;Podlaskie;białostocki
+2002042;Gródek;wies;4954;Podlaskie;białostocki
+2002052;Juchnowiec Kościelny;wies;18208;Podlaskie;białostocki
+2002063;Łapy;gmina miejsko-wiejska;20618;Podlaskie;białostocki
+2002073;Michałowo;gmina miejsko-wiejska;6022;Podlaskie;białostocki
+2002082;Poświętne;wies;3136;Podlaskie;białostocki
+2002093;Supraśl;gmina miejsko-wiejska;17484;Podlaskie;białostocki
+2002103;Suraż;gmina miejsko-wiejska;1933;Podlaskie;białostocki
+2002112;Turośń Kościelna;wies;6873;Podlaskie;białostocki
+2002123;Tykocin;gmina miejsko-wiejska;5793;Podlaskie;białostocki
+2002133;Wasilków;gmina miejsko-wiejska;20088;Podlaskie;białostocki
+2002143;Zabłudów;gmina miejsko-wiejska;9876;Podlaskie;białostocki
+2002152;Zawady;wies;2521;Podlaskie;białostocki
+2003011;Bielsk Podlaski;miasto;24233;Podlaskie;bielski
+2003021;Brańsk;miasto;3550;Podlaskie;bielski
+2003032;Bielsk Podlaski;wies;6433;Podlaskie;bielski
+2003042;Boćki;wies;3865;Podlaskie;bielski
+2003052;Brańsk;wies;5274;Podlaskie;bielski
+2003062;Orla;wies;2465;Podlaskie;bielski
+2003072;Rudka;wies;1678;Podlaskie;bielski
+2003082;Wyszki;wies;3969;Podlaskie;bielski
+2004011;Grajewo;miasto;21200;Podlaskie;grajewski
+2004022;Grajewo;wies;5493;Podlaskie;grajewski
+2004032;Radziłów;wies;4391;Podlaskie;grajewski
+2004043;Rajgród;gmina miejsko-wiejska;4690;Podlaskie;grajewski
+2004053;Szczuczyn;gmina miejsko-wiejska;5817;Podlaskie;grajewski
+2004062;Wąsosz;wies;3349;Podlaskie;grajewski
+2005011;Hajnówka;miasto;19354;Podlaskie;hajnowski
+2005022;Białowieża;wies;2076;Podlaskie;hajnowski
+2005032;Czeremcha;wies;2767;Podlaskie;hajnowski
+2005042;Czyże;wies;1836;Podlaskie;hajnowski
+2005052;Dubicze Cerkiewne;wies;1356;Podlaskie;hajnowski
+2005062;Hajnówka;wies;3674;Podlaskie;hajnowski
+2005073;Kleszczele;gmina miejsko-wiejska;2174;Podlaskie;hajnowski
+2005082;Narew;wies;3266;Podlaskie;hajnowski
+2005092;Narewka;wies;3207;Podlaskie;hajnowski
+2006011;Kolno;miasto;9911;Podlaskie;kolneński
+2006022;Grabowo;wies;3250;Podlaskie;kolneński
+2006032;Kolno;wies;7954;Podlaskie;kolneński
+2006042;Mały Płock;wies;4446;Podlaskie;kolneński
+2006053;Stawiski;gmina miejsko-wiejska;5599;Podlaskie;kolneński
+2006062;Turośl;wies;4825;Podlaskie;kolneński
+2007013;Jedwabne;gmina miejsko-wiejska;4948;Podlaskie;łomżyński
+2007022;Łomża;wies;11933;Podlaskie;łomżyński
+2007032;Miastkowo;wies;4037;Podlaskie;łomżyński
+2007043;Nowogród;gmina miejsko-wiejska;3903;Podlaskie;łomżyński
+2007052;Piątnica;wies;10293;Podlaskie;łomżyński
+2007062;Przytuły;wies;1944;Podlaskie;łomżyński
+2007072;Śniadowo;wies;5096;Podlaskie;łomżyński
+2007082;Wizna;wies;3657;Podlaskie;łomżyński
+2007092;Zbójna;wies;3992;Podlaskie;łomżyński
+2008013;Goniądz;gmina miejsko-wiejska;4652;Podlaskie;moniecki
+2008022;Jasionówka;wies;2471;Podlaskie;moniecki
+2008032;Jaświły;wies;4405;Podlaskie;moniecki
+2008043;Knyszyn;gmina miejsko-wiejska;4529;Podlaskie;moniecki
+2008052;Krypno;wies;3738;Podlaskie;moniecki
+2008063;Mońki;gmina miejsko-wiejska;14114;Podlaskie;moniecki
+2008072;Trzcianne;wies;3976;Podlaskie;moniecki
+2009011;Sejny;miasto;4985;Podlaskie;sejneński
+2009022;Giby;wies;2500;Podlaskie;sejneński
+2009032;Krasnopol;wies;3622;Podlaskie;sejneński
+2009042;Puńsk;wies;3996;Podlaskie;sejneński
+2009052;Sejny;wies;3790;Podlaskie;sejneński
+2010011;Siemiatycze;miasto;13559;Podlaskie;siemiatycki
+2010023;Drohiczyn;gmina miejsko-wiejska;5807;Podlaskie;siemiatycki
+2010032;Dziadkowice;wies;2560;Podlaskie;siemiatycki
+2010042;Grodzisk;wies;3826;Podlaskie;siemiatycki
+2010052;Mielnik;wies;2119;Podlaskie;siemiatycki
+2010062;Milejczyce;wies;1653;Podlaskie;siemiatycki
+2010072;Nurzec-Stacja;wies;3540;Podlaskie;siemiatycki
+2010082;Perlejewo;wies;2541;Podlaskie;siemiatycki
+2010092;Siemiatycze;wies;5742;Podlaskie;siemiatycki
+2011013;Dąbrowa Białostock;gmina miejsko-wiejska;10289;Podlaskie;sokólski
+2011022;Janów;wies;3788;Podlaskie;sokólski
+2011032;Korycin;wies;3058;Podlaskie;sokólski
+2011043;Krynki;gmina miejsko-wiejska;2789;Podlaskie;sokólski
+2011052;Kuźnica;wies;3705;Podlaskie;sokólski
+2011062;Nowy Dwór;wies;2259;Podlaskie;sokólski
+2011072;Sidra;wies;3087;Podlaskie;sokólski
+2011083;Sokółka;gmina miejsko-wiejska;24205;Podlaskie;sokólski
+2011093;Suchowola;gmina miejsko-wiejska;6421;Podlaskie;sokólski
+2011102;Szudziałowo;wies;2799;Podlaskie;sokólski
+2012012;Bakałarzewo;wies;2986;Podlaskie;suwalski
+2012022;Filipów;wies;4057;Podlaskie;suwalski
+2012032;Jeleniewo;wies;3107;Podlaskie;suwalski
+2012042;Przerośl;wies;2781;Podlaskie;suwalski
+2012052;Raczki;wies;5718;Podlaskie;suwalski
+2012062;Rutka-Tartak;wies;2241;Podlaskie;suwalski
+2012072;Suwałki;wies;7955;Podlaskie;suwalski
+2012082;Szypliszki;wies;3883;Podlaskie;suwalski
+2012092;Wiżajny;wies;2024;Podlaskie;suwalski
+2013011;Wysokie Mazowieckie;miasto;9032;Podlaskie;wysokomazowiecki
+2013023;Ciechanowiec;gmina miejsko-wiejska;8078;Podlaskie;wysokomazowiecki
+2013033;Czyżew;gmina miejsko-wiejska;6085;Podlaskie;wysokomazowiecki
+2013042;Klukowo;wies;4017;Podlaskie;wysokomazowiecki
+2013052;Kobylin-Borzymy;wies;2967;Podlaskie;wysokomazowiecki
+2013062;Kulesze Kościelne;wies;2956;Podlaskie;wysokomazowiecki
+2013072;Nowe Piekuty;wies;3582;Podlaskie;wysokomazowiecki
+2013082;Sokoły;wies;5289;Podlaskie;wysokomazowiecki
+2013093;Szepietowo;gmina miejsko-wiejska;6533;Podlaskie;wysokomazowiecki
+2013102;Wysokie Mazowieckie;wies;5506;Podlaskie;wysokomazowiecki
+2014011;Zambrów;miasto;21101;Podlaskie;zambrowski
+2014022;Kołaki Kościelne;wies;2168;Podlaskie;zambrowski
+2014032;Rutki;wies;5128;Podlaskie;zambrowski
+2014042;Szumowo;wies;4574;Podlaskie;zambrowski
+2014052;Zambrów;wies;8682;Podlaskie;zambrowski
+2061000;Białystok;miasto;293028;Podlaskie;Białystok
+2062000;Łomża;miasto;60264;Podlaskie;Łomża
+2063000;Suwałki;miasto;68752;Podlaskie;Suwałki
+2201012;Borzytuchom;wies;3439;Pomorskie;bytowski
+2201023;Bytów;gmina miejsko-wiejska;25227;Pomorskie;bytowski
+2201032;Czarna Dąbrówka;wies;5681;Pomorskie;bytowski
+2201042;Kołczygłowy;wies;4099;Pomorskie;bytowski
+2201052;Lipnica;wies;5129;Pomorskie;bytowski
+2201063;Miastko;gmina miejsko-wiejska;18103;Pomorskie;bytowski
+2201072;Parchowo;wies;3784;Pomorskie;bytowski
+2201082;Studzienice;wies;3638;Pomorskie;bytowski
+2201092;Trzebielino;wies;3523;Pomorskie;bytowski
+2201102;Tuchomie;wies;4158;Pomorskie;bytowski
+2202011;Chojnice;miasto;39041;Pomorskie;chojnicki
+2202023;Brusy;gmina miejsko-wiejska;14336;Pomorskie;chojnicki
+2202032;Chojnice;wies;19326;Pomorskie;chojnicki
+2202043;Czersk;gmina miejsko-wiejska;21297;Pomorskie;chojnicki
+2202052;Konarzyny;wies;2273;Pomorskie;chojnicki
+2203011;Człuchów;miasto;13216;Pomorskie;człuchowski
+2203023;Czarne;gmina miejsko-wiejska;8649;Pomorskie;człuchowski
+2203032;Człuchów;wies;10693;Pomorskie;człuchowski
+2203043;Debrzno;gmina miejsko-wiejska;8626;Pomorskie;człuchowski
+2203052;Koczała;wies;3181;Pomorskie;człuchowski
+2203062;Przechlewo;wies;5951;Pomorskie;człuchowski
+2203072;Rzeczenica;wies;3392;Pomorskie;człuchowski
+2204011;Pruszcz Gdański;miasto;31939;Pomorskie;gdański
+2204022;Cedry Wielkie;wies;6759;Pomorskie;gdański
+2204032;Kolbudy;wies;20627;Pomorskie;gdański
+2204042;Pruszcz Gdański;wies;37164;Pomorskie;gdański
+2204052;Przywidz;wies;6073;Pomorskie;gdański
+2204062;Pszczółki;wies;10795;Pomorskie;gdański
+2204072;Suchy Dąb;wies;4245;Pomorskie;gdański
+2204082;Trąbki Wielkie;wies;11663;Pomorskie;gdański
+2205012;Chmielno;wies;7809;Pomorskie;kartuski
+2205023;Kartuzy;gmina miejsko-wiejska;34289;Pomorskie;kartuski
+2205032;Przodkowo;wies;10873;Pomorskie;kartuski
+2205042;Sierakowice;wies;20686;Pomorskie;kartuski
+2205052;Somonino;wies;11204;Pomorskie;kartuski
+2205062;Stężyca;wies;11112;Pomorskie;kartuski
+2205072;Sulęczyno;wies;5684;Pomorskie;kartuski
+2205083;Żukowo;gmina miejsko-wiejska;49331;Pomorskie;kartuski
+2206011;Kościerzyna;miasto;23487;Pomorskie;kościerski
+2206022;Dziemiany;wies;4438;Pomorskie;kościerski
+2206032;Karsin;wies;6120;Pomorskie;kościerski
+2206042;Kościerzyna;wies;16029;Pomorskie;kościerski
+2206052;Liniewo;wies;4478;Pomorskie;kościerski
+2206062;Lipusz;wies;3772;Pomorskie;kościerski
+2206072;Nowa Karczma;wies;7159;Pomorskie;kościerski
+2206082;Stara Kiszewa;wies;6754;Pomorskie;kościerski
+2207011;Kwidzyn;miasto;37339;Pomorskie;kwidzyński
+2207022;Gardeja;wies;8140;Pomorskie;kwidzyński
+2207032;Kwidzyn;wies;11352;Pomorskie;kwidzyński
+2207043;Prabuty;gmina miejsko-wiejska;12303;Pomorskie;kwidzyński
+2207052;Ryjewo;wies;5677;Pomorskie;kwidzyński
+2207062;Sadlinki;wies;5971;Pomorskie;kwidzyński
+2208011;Lębork;miasto;34261;Pomorskie;lęborski
+2208021;Łeba;miasto;3131;Pomorskie;lęborski
+2208032;Cewice;wies;7441;Pomorskie;lęborski
+2208042;Nowa Wieś Lęborska;wies;13570;Pomorskie;lęborski
+2208052;Wicko;wies;5586;Pomorskie;lęborski
+2209011;Malbork;miasto;37156;Pomorskie;malborski
+2209032;Lichnowy;wies;4210;Pomorskie;malborski
+2209042;Malbork;wies;4980;Pomorskie;malborski
+2209062;Miłoradz;wies;3247;Pomorskie;malborski
+2209073;Nowy Staw;gmina miejsko-wiejska;7175;Pomorskie;malborski
+2209082;Stare Pole;wies;4430;Pomorskie;malborski
+2210011;Krynica Morska;miasto;1189;Pomorskie;nowodworski
+2210023;Nowy Dwór Gdański;gmina miejsko-wiejska;17047;Pomorskie;nowodworski
+2210032;Ostaszewo;wies;2933;Pomorskie;nowodworski
+2210042;Stegna;wies;9365;Pomorskie;nowodworski
+2210052;Sztutowo;wies;3457;Pomorskie;nowodworski
+2211011;Hel;miasto;2880;Pomorskie;pucki
+2211023;Jastarnia;gmina miejsko-wiejska;3535;Pomorskie;pucki
+2211031;Puck;miasto;10688;Pomorskie;pucki
+2211043;Władysławowo;gmina miejsko-wiejska;14562;Pomorskie;pucki
+2211052;Kosakowo;wies;20247;Pomorskie;pucki
+2211062;Krokowa;wies;10507;Pomorskie;pucki
+2211072;Puck;wies;28194;Pomorskie;pucki
+2212011;Ustka;miasto;14053;Pomorskie;słupski
+2212022;Damnica;wies;5741;Pomorskie;słupski
+2212032;Dębnica Kaszubska;wies;9092;Pomorskie;słupski
+2212042;Główczyce;wies;8367;Pomorskie;słupski
+2212053;Kępice;gmina miejsko-wiejska;8303;Pomorskie;słupski
+2212062;Kobylnica;wies;13888;Pomorskie;słupski
+2212072;Potęgowo;wies;6563;Pomorskie;słupski
+2212082;Słupsk;wies;19113;Pomorskie;słupski
+2212092;Smołdzino;wies;3080;Pomorskie;słupski
+2212102;Ustka;wies;8024;Pomorskie;słupski
+2213013;Czarna Woda;gmina miejsko-wiejska;3073;Pomorskie;starogardzki
+2213021;Skórcz;miasto;3481;Pomorskie;starogardzki
+2213031;Starogard Gdański;miasto;45804;Pomorskie;starogardzki
+2213042;Bobowo;wies;3155;Pomorskie;starogardzki
+2213052;Kaliska;wies;5318;Pomorskie;starogardzki
+2213062;Lubichowo;wies;6809;Pomorskie;starogardzki
+2213072;Osieczna;wies;2712;Pomorskie;starogardzki
+2213082;Osiek;wies;2257;Pomorskie;starogardzki
+2213093;Skarszewy;gmina miejsko-wiejska;14467;Pomorskie;starogardzki
+2213102;Skórcz;wies;4337;Pomorskie;starogardzki
+2213112;Smętowo Graniczne;wies;4884;Pomorskie;starogardzki
+2213122;Starogard Gdański;wies;17143;Pomorskie;starogardzki
+2213132;Zblewo;wies;12101;Pomorskie;starogardzki
+2214011;Tczew;miasto;57739;Pomorskie;tczewski
+2214023;Gniew;gmina miejsko-wiejska;14589;Pomorskie;tczewski
+2214032;Morzeszczyn;wies;3363;Pomorskie;tczewski
+2214043;Pelplin;gmina miejsko-wiejska;15281;Pomorskie;tczewski
+2214052;Subkowy;wies;5369;Pomorskie;tczewski
+2214062;Tczew;wies;15770;Pomorskie;tczewski
+2215011;Reda;miasto;28460;Pomorskie;wejherowski
+2215021;Rumia;miasto;52506;Pomorskie;wejherowski
+2215031;Wejherowo;miasto;46712;Pomorskie;wejherowski
+2215042;Choczewo;wies;5025;Pomorskie;wejherowski
+2215052;Gniewino;wies;7415;Pomorskie;wejherowski
+2215062;Linia;wies;6411;Pomorskie;wejherowski
+2215072;Luzino;wies;17493;Pomorskie;wejherowski
+2215082;Łęczyce;wies;11993;Pomorskie;wejherowski
+2215092;Szemud;wies;20681;Pomorskie;wejherowski
+2215102;Wejherowo;wies;29958;Pomorskie;wejherowski
+2216013;Dzierzgoń;gmina miejsko-wiejska;8783;Pomorskie;sztumski
+2216022;Mikołajki Pomorskie;wies;3404;Pomorskie;sztumski
+2216032;Stary Dzierzgoń;wies;3489;Pomorskie;sztumski
+2216042;Stary Targ;wies;5943;Pomorskie;sztumski
+2216053;Sztum;gmina miejsko-wiejska;17271;Pomorskie;sztumski
+2261000;Gdańsk;miasto;486226;Pomorskie;Gdańsk
+2262000;Gdynia;miasto;243770;Pomorskie;Gdynia
+2263000;Słupsk;miasto;86737;Pomorskie;Słupsk
+2264000;Sopot;miasto;32474;Pomorskie;Sopot
+2801011;Bartoszyce;miasto;21843;Warmińsko-mazurskie;bartoszycki
+2801021;Górowo Iławeckie;miasto;3702;Warmińsko-mazurskie;bartoszycki
+2801032;Bartoszyce;wies;10215;Warmińsko-mazurskie;bartoszycki
+2801043;Bisztynek;gmina miejsko-wiejska;5744;Warmińsko-mazurskie;bartoszycki
+2801052;Górowo Iławeckie;wies;6202;Warmińsko-mazurskie;bartoszycki
+2801063;Sępopol;gmina miejsko-wiejska;5760;Warmińsko-mazurskie;bartoszycki
+2802011;Braniewo;miasto;16331;Warmińsko-mazurskie;braniewski
+2802022;Braniewo;wies;5454;Warmińsko-mazurskie;braniewski
+2802033;Frombork;gmina miejsko-wiejska;3174;Warmińsko-mazurskie;braniewski
+2802042;Lelkowo;wies;2440;Warmińsko-mazurskie;braniewski
+2802053;Pieniężno;gmina miejsko-wiejska;5616;Warmińsko-mazurskie;braniewski
+2802062;Płoskinia;wies;2371;Warmińsko-mazurskie;braniewski
+2802072;Wilczęta;wies;2635;Warmińsko-mazurskie;braniewski
+2803011;Działdowo;miasto;20452;Warmińsko-mazurskie;działdowski
+2803022;Działdowo;wies;9506;Warmińsko-mazurskie;działdowski
+2803032;Iłowo-Osada;wies;6812;Warmińsko-mazurskie;działdowski
+2803043;Lidzbark;gmina miejsko-wiejska;13343;Warmińsko-mazurskie;działdowski
+2803052;Płośnica;wies;5176;Warmińsko-mazurskie;działdowski
+2803062;Rybno;wies;6795;Warmińsko-mazurskie;działdowski
+2804012;Elbląg;wies;7622;Warmińsko-mazurskie;elbląski
+2804022;Godkowo;wies;2747;Warmińsko-mazurskie;elbląski
+2804032;Gronowo Elbląskie;wies;4852;Warmińsko-mazurskie;elbląski
+2804042;Markusy;wies;3891;Warmińsko-mazurskie;elbląski
+2804052;Milejewo;wies;3280;Warmińsko-mazurskie;elbląski
+2804063;Młynary;gmina miejsko-wiejska;4209;Warmińsko-mazurskie;elbląski
+2804073;Pasłęk;gmina miejsko-wiejska;18555;Warmińsko-mazurskie;elbląski
+2804082;Rychliki;wies;3552;Warmińsko-mazurskie;elbląski
+2804093;Tolkmicko;gmina miejsko-wiejska;6049;Warmińsko-mazurskie;elbląski
+2805011;Ełk;miasto;60174;Warmińsko-mazurskie;ełcki
+2805022;Ełk;wies;12171;Warmińsko-mazurskie;ełcki
+2805032;Kalinowo;wies;6228;Warmińsko-mazurskie;ełcki
+2805042;Prostki;wies;6759;Warmińsko-mazurskie;ełcki
+2805052;Stare Juchy;wies;3365;Warmińsko-mazurskie;ełcki
+2806011;Giżycko;miasto;27813;Warmińsko-mazurskie;giżycki
+2806042;Giżycko;wies;8564;Warmińsko-mazurskie;giżycki
+2806052;Kruklanki;wies;2976;Warmińsko-mazurskie;giżycki
+2806062;Miłki;wies;3507;Warmińsko-mazurskie;giżycki
+2806083;Ryn;gmina miejsko-wiejska;5424;Warmińsko-mazurskie;giżycki
+2806102;Wydminy;wies;5881;Warmińsko-mazurskie;giżycki
+2807011;Iława;miasto;32409;Warmińsko-mazurskie;iławski
+2807021;Lubawa;miasto;10621;Warmińsko-mazurskie;iławski
+2807032;Iława;wies;13188;Warmińsko-mazurskie;iławski
+2807043;Kisielice;gmina miejsko-wiejska;5585;Warmińsko-mazurskie;iławski
+2807052;Lubawa;wies;10378;Warmińsko-mazurskie;iławski
+2807063;Susz;gmina miejsko-wiejska;11886;Warmińsko-mazurskie;iławski
+2807073;Zalewo;gmina miejsko-wiejska;6251;Warmińsko-mazurskie;iławski
+2808011;Kętrzyn;miasto;25693;Warmińsko-mazurskie;kętrzyński
+2808022;Barciany;wies;5668;Warmińsko-mazurskie;kętrzyński
+2808032;Kętrzyn;wies;7674;Warmińsko-mazurskie;kętrzyński
+2808043;Korsze;gmina miejsko-wiejska;8918;Warmińsko-mazurskie;kętrzyński
+2808053;Reszel;gmina miejsko-wiejska;6736;Warmińsko-mazurskie;kętrzyński
+2808062;Srokowo;wies;3464;Warmińsko-mazurskie;kętrzyński
+2809011;Lidzbark Warmiński;miasto;14708;Warmińsko-mazurskie;lidzbarski
+2809022;Kiwity;wies;3117;Warmińsko-mazurskie;lidzbarski
+2809032;Lidzbark Warmiński;wies;6441;Warmińsko-mazurskie;lidzbarski
+2809042;Lubomino;wies;3371;Warmińsko-mazurskie;lidzbarski
+2809053;Orneta;gmina miejsko-wiejska;11090;Warmińsko-mazurskie;lidzbarski
+2810011;Mrągowo;miasto;20904;Warmińsko-mazurskie;mrągowski
+2810023;Mikołajki;gmina miejsko-wiejska;7457;Warmińsko-mazurskie;mrągowski
+2810032;Mrągowo;wies;8039;Warmińsko-mazurskie;mrągowski
+2810042;Piecki;wies;7228;Warmińsko-mazurskie;mrągowski
+2810052;Sorkwity;wies;4427;Warmińsko-mazurskie;mrągowski
+2811012;Janowiec Kościelny;wies;2960;Warmińsko-mazurskie;nidzicki
+2811022;Janowo;wies;2498;Warmińsko-mazurskie;nidzicki
+2811032;Kozłowo;wies;5440;Warmińsko-mazurskie;nidzicki
+2811043;Nidzica;gmina miejsko-wiejska;19885;Warmińsko-mazurskie;nidzicki
+2812011;Nowe Miasto Lubawskie;miasto;10278;Warmińsko-mazurskie;nowomiejski
+2812022;Biskupiec;wies;8704;Warmińsko-mazurskie;nowomiejski
+2812032;Grodziczno;wies;5940;Warmińsko-mazurskie;nowomiejski
+2812042;Kurzętnik;wies;8944;Warmińsko-mazurskie;nowomiejski
+2812052;Nowe Miasto Lubawski;wies;8408;Warmińsko-mazurskie;nowomiejski
+2813032;Kowale Oleckie;wies;4591;Warmińsko-mazurskie;olecki
+2813043;Olecko;gmina miejsko-wiejska;21208;Warmińsko-mazurskie;olecki
+2813052;Świętajno;wies;3387;Warmińsko-mazurskie;olecki
+2813062;Wieliczki;wies;3188;Warmińsko-mazurskie;olecki
+2814013;Barczewo;gmina miejsko-wiejska;18174;Warmińsko-mazurskie;olsztyński
+2814023;Biskupiec;gmina miejsko-wiejska;17915;Warmińsko-mazurskie;olsztyński
+2814033;Dobre Miasto;gmina miejsko-wiejska;15173;Warmińsko-mazurskie;olsztyński
+2814042;Dywity;wies;13331;Warmińsko-mazurskie;olsztyński
+2814052;Gietrzwałd;wies;6843;Warmińsko-mazurskie;olsztyński
+2814063;Jeziorany;gmina miejsko-wiejska;7066;Warmińsko-mazurskie;olsztyński
+2814072;Jonkowo;wies;7720;Warmińsko-mazurskie;olsztyński
+2814082;Kolno;wies;2807;Warmińsko-mazurskie;olsztyński
+2814093;Olsztynek;gmina miejsko-wiejska;13180;Warmińsko-mazurskie;olsztyński
+2814102;Purda;wies;8903;Warmińsko-mazurskie;olsztyński
+2814112;Stawiguda;wies;14249;Warmińsko-mazurskie;olsztyński
+2814122;Świątki;wies;3727;Warmińsko-mazurskie;olsztyński
+2815011;Ostróda;miasto;31704;Warmińsko-mazurskie;ostródzki
+2815022;Dąbrówno;wies;3930;Warmińsko-mazurskie;ostródzki
+2815032;Grunwald;wies;5135;Warmińsko-mazurskie;ostródzki
+2815042;Łukta;wies;4422;Warmińsko-mazurskie;ostródzki
+2815052;Małdyty;wies;5764;Warmińsko-mazurskie;ostródzki
+2815063;Miłakowo;gmina miejsko-wiejska;5056;Warmińsko-mazurskie;ostródzki
+2815073;Miłomłyn;gmina miejsko-wiejska;4804;Warmińsko-mazurskie;ostródzki
+2815083;Morąg;gmina miejsko-wiejska;23322;Warmińsko-mazurskie;ostródzki
+2815092;Ostróda;wies;16009;Warmińsko-mazurskie;ostródzki
+2816013;Biała Piska;gmina miejsko-wiejska;10610;Warmińsko-mazurskie;piski
+2816023;Orzysz;gmina miejsko-wiejska;8431;Warmińsko-mazurskie;piski
+2816033;Pisz;gmina miejsko-wiejska;26244;Warmińsko-mazurskie;piski
+2816043;Ruciane-Nida;gmina miejsko-wiejska;7411;Warmińsko-mazurskie;piski
+2817011;Szczytno;miasto;22215;Warmińsko-mazurskie;szczycieński
+2817022;Dźwierzuty;wies;5926;Warmińsko-mazurskie;szczycieński
+2817032;Jedwabno;wies;3441;Warmińsko-mazurskie;szczycieński
+2817043;Pasym;gmina miejsko-wiejska;5049;Warmińsko-mazurskie;szczycieński
+2817052;Rozogi;wies;5251;Warmińsko-mazurskie;szczycieński
+2817062;Szczytno;wies;13446;Warmińsko-mazurskie;szczycieński
+2817072;Świętajno;wies;5388;Warmińsko-mazurskie;szczycieński
+2817083;Wielbark;gmina miejsko-wiejska;6285;Warmińsko-mazurskie;szczycieński
+2818012;Banie Mazurskie;wies;3295;Warmińsko-mazurskie;gołdapski
+2818022;Dubeninki;wies;2664;Warmińsko-mazurskie;gołdapski
+2818033;Gołdap;gmina miejsko-wiejska;19315;Warmińsko-mazurskie;gołdapski
+2819012;Budry;wies;2590;Warmińsko-mazurskie;węgorzewski
+2819022;Pozezdrze;wies;2968;Warmińsko-mazurskie;węgorzewski
+2819033;Węgorzewo;gmina miejsko-wiejska;15543;Warmińsko-mazurskie;węgorzewski
+2861000;Elbląg;miasto;113912;Warmińsko-mazurskie;Elbląg
+2862000;Olsztyn;miasto;168803;Warmińsko-mazurskie;Olsztyn
+3001011;Chodzież;miasto;17722;Wielkopolskie;chodzieski
+3001023;Budzyń;gmina miejsko-wiejska;8326;Wielkopolskie;chodzieski
+3001032;Chodzież;wies;6051;Wielkopolskie;chodzieski
+3001043;Margonin;gmina miejsko-wiejska;6342;Wielkopolskie;chodzieski
+3001053;Szamocin;gmina miejsko-wiejska;7195;Wielkopolskie;chodzieski
+3002011;Czarnków;miasto;10146;Wielkopolskie;czarnkowsko-trzcianec
+3002022;Czarnków;wies;11155;Wielkopolskie;czarnkowsko-trzcianec
+3002032;Drawsko;wies;5615;Wielkopolskie;czarnkowsko-trzcianec
+3002043;Krzyż Wielkopolski;gmina miejsko-wiejska;8359;Wielkopolskie;czarnkowsko-trzcianec
+3002052;Lubasz;wies;7540;Wielkopolskie;czarnkowsko-trzcianec
+3002062;Połajewo;wies;6039;Wielkopolskie;czarnkowsko-trzcianec
+3002073;Trzcianka;gmina miejsko-wiejska;23586;Wielkopolskie;czarnkowsko-trzcianec
+3002083;Wieleń;gmina miejsko-wiejska;11862;Wielkopolskie;czarnkowsko-trzcianec
+3003011;Gniezno;miasto;64535;Wielkopolskie;gnieźnieński
+3003023;Czerniejewo;gmina miejsko-wiejska;7225;Wielkopolskie;gnieźnieński
+3003032;Gniezno;wies;14027;Wielkopolskie;gnieźnieński
+3003042;Kiszkowo;wies;5207;Wielkopolskie;gnieźnieński
+3003053;Kłecko;gmina miejsko-wiejska;7211;Wielkopolskie;gnieźnieński
+3003062;Łubowo;wies;7112;Wielkopolskie;gnieźnieński
+3003072;Mieleszyn;wies;3713;Wielkopolskie;gnieźnieński
+3003082;Niechanowo;wies;5989;Wielkopolskie;gnieźnieński
+3003093;Trzemeszno;gmina miejsko-wiejska;13855;Wielkopolskie;gnieźnieński
+3003103;Witkowo;gmina miejsko-wiejska;13067;Wielkopolskie;gnieźnieński
+3004013;Borek Wielkopolski;gmina miejsko-wiejska;7095;Wielkopolskie;gostyński
+3004023;Gostyń;gmina miejsko-wiejska;27866;Wielkopolskie;gostyński
+3004033;Krobia;gmina miejsko-wiejska;12694;Wielkopolskie;gostyński
+3004042;Pępowo;wies;5770;Wielkopolskie;gostyński
+3004052;Piaski;wies;8316;Wielkopolskie;gostyński
+3004063;Pogorzela;gmina miejsko-wiejska;4682;Wielkopolskie;gostyński
+3004073;Poniec;gmina miejsko-wiejska;7540;Wielkopolskie;gostyński
+3005012;Granowo;wies;5025;Wielkopolskie;grodziski
+3005023;Grodzisk Wielkopol;gmina miejsko-wiejska;20364;Wielkopolskie;grodziski
+3005032;Kamieniec;wies;6225;Wielkopolskie;grodziski
+3005043;Rakoniewice;gmina miejsko-wiejska;13221;Wielkopolskie;grodziski
+3005053;Wielichowo;gmina miejsko-wiejska;6693;Wielkopolskie;grodziski
+3006013;Jaraczewo;gmina miejsko-wiejska;7682;Wielkopolskie;jarociński
+3006023;Jarocin;gmina miejsko-wiejska;45608;Wielkopolskie;jarociński
+3006032;Kotlin;wies;7025;Wielkopolskie;jarociński
+3006043;Żerków;gmina miejsko-wiejska;9796;Wielkopolskie;jarociński
+3007012;Blizanów;wies;10145;Wielkopolskie;kaliski
+3007022;Brzeziny;wies;5730;Wielkopolskie;kaliski
+3007032;Ceków-Kolonia;wies;4778;Wielkopolskie;kaliski
+3007042;Godziesze Wielkie;wies;10071;Wielkopolskie;kaliski
+3007053;Koźminek;gmina miejsko-wiejska;7366;Wielkopolskie;kaliski
+3007062;Lisków;wies;5176;Wielkopolskie;kaliski
+3007072;Mycielin;wies;4689;Wielkopolskie;kaliski
+3007083;Opatówek;gmina miejsko-wiejska;10668;Wielkopolskie;kaliski
+3007093;Stawiszyn;gmina miejsko-wiejska;6780;Wielkopolskie;kaliski
+3007102;Szczytniki;wies;7611;Wielkopolskie;kaliski
+3007112;Żelazków;wies;9620;Wielkopolskie;kaliski
+3008012;Baranów;wies;8272;Wielkopolskie;kępiński
+3008022;Bralin;wies;6085;Wielkopolskie;kępiński
+3008033;Kępno;gmina miejsko-wiejska;24328;Wielkopolskie;kępiński
+3008042;Łęka Opatowska;wies;5167;Wielkopolskie;kępiński
+3008052;Perzów;wies;3785;Wielkopolskie;kępiński
+3008062;Rychtal;wies;3630;Wielkopolskie;kępiński
+3008072;Trzcinica;wies;4916;Wielkopolskie;kępiński
+3009011;Koło;miasto;19862;Wielkopolskie;kolski
+3009022;Babiak;wies;7428;Wielkopolskie;kolski
+3009032;Chodów;wies;2826;Wielkopolskie;kolski
+3009043;Dąbie;gmina miejsko-wiejska;5814;Wielkopolskie;kolski
+3009052;Grzegorzew;wies;5395;Wielkopolskie;kolski
+3009063;Kłodawa;gmina miejsko-wiejska;11950;Wielkopolskie;kolski
+3009072;Koło;wies;7930;Wielkopolskie;kolski
+3009082;Kościelec;wies;6761;Wielkopolskie;kolski
+3009092;Olszówka;wies;4190;Wielkopolskie;kolski
+3009102;Osiek Mały;wies;6222;Wielkopolskie;kolski
+3009113;Przedecz;gmina miejsko-wiejska;3936;Wielkopolskie;kolski
+3010013;Golina;gmina miejsko-wiejska;12214;Wielkopolskie;koniński
+3010022;Grodziec;wies;5035;Wielkopolskie;koniński
+3010032;Kazimierz Biskupi;wies;11497;Wielkopolskie;koniński
+3010043;Kleczew;gmina miejsko-wiejska;9664;Wielkopolskie;koniński
+3010052;Kramsk;wies;11558;Wielkopolskie;koniński
+3010062;Krzymów;wies;8273;Wielkopolskie;koniński
+3010073;Rychwał;gmina miejsko-wiejska;8010;Wielkopolskie;koniński
+3010082;Rzgów;wies;7135;Wielkopolskie;koniński
+3010092;Skulsk;wies;5787;Wielkopolskie;koniński
+3010103;Sompolno;gmina miejsko-wiejska;10168;Wielkopolskie;koniński
+3010112;Stare Miasto;wies;12807;Wielkopolskie;koniński
+3010123;Ślesin;gmina miejsko-wiejska;13972;Wielkopolskie;koniński
+3010132;Wierzbinek;wies;6975;Wielkopolskie;koniński
+3010142;Wilczyn;wies;5853;Wielkopolskie;koniński
+3011011;Kościan;miasto;23713;Wielkopolskie;kościański
+3011023;Czempiń;gmina miejsko-wiejska;11439;Wielkopolskie;kościański
+3011032;Kościan;wies;15830;Wielkopolskie;kościański
+3011043;Krzywiń;gmina miejsko-wiejska;9551;Wielkopolskie;kościański
+3011053;Śmigiel;gmina miejsko-wiejska;17071;Wielkopolskie;kościański
+3012011;Sulmierzyce;miasto;2726;Wielkopolskie;krotoszyński
+3012023;Kobylin;gmina miejsko-wiejska;7725;Wielkopolskie;krotoszyński
+3012033;Koźmin Wielkopolsk;gmina miejsko-wiejska;12743;Wielkopolskie;krotoszyński
+3012043;Krotoszyn;gmina miejsko-wiejska;39652;Wielkopolskie;krotoszyński
+3012052;Rozdrażew;wies;5009;Wielkopolskie;krotoszyński
+3012063;Zduny;gmina miejsko-wiejska;7626;Wielkopolskie;krotoszyński
+3013012;Krzemieniewo;wies;7883;Wielkopolskie;leszczyński
+3013022;Lipno;wies;9569;Wielkopolskie;leszczyński
+3013033;Osieczna;gmina miejsko-wiejska;9283;Wielkopolskie;leszczyński
+3013043;Rydzyna;gmina miejsko-wiejska;10323;Wielkopolskie;leszczyński
+3013052;Święciechowa;wies;8620;Wielkopolskie;leszczyński
+3013062;Wijewo;wies;3750;Wielkopolskie;leszczyński
+3013072;Włoszakowice;wies;9833;Wielkopolskie;leszczyński
+3014012;Chrzypsko Wielkie;wies;3210;Wielkopolskie;międzychodzki
+3014022;Kwilcz;wies;6125;Wielkopolskie;międzychodzki
+3014033;Międzychód;gmina miejsko-wiejska;17951;Wielkopolskie;międzychodzki
+3014043;Sieraków;gmina miejsko-wiejska;8516;Wielkopolskie;międzychodzki
+3015012;Kuślin;wies;5165;Wielkopolskie;nowotomyski
+3015023;Lwówek;gmina miejsko-wiejska;8797;Wielkopolskie;nowotomyski
+3015032;Miedzichowo;wies;3850;Wielkopolskie;nowotomyski
+3015043;Nowy Tomyśl;gmina miejsko-wiejska;27575;Wielkopolskie;nowotomyski
+3015053;Opalenica;gmina miejsko-wiejska;16053;Wielkopolskie;nowotomyski
+3015063;Zbąszyń;gmina miejsko-wiejska;13717;Wielkopolskie;nowotomyski
+3016013;Oborniki;gmina miejsko-wiejska;34160;Wielkopolskie;obornicki
+3016023;Rogoźno;gmina miejsko-wiejska;18061;Wielkopolskie;obornicki
+3016032;Ryczywół;wies;6889;Wielkopolskie;obornicki
+3017011;Ostrów Wielkopolski;miasto;70062;Wielkopolskie;ostrowski
+3017023;Nowe Skalmierzyce;gmina miejsko-wiejska;15924;Wielkopolskie;ostrowski
+3017033;Odolanów;gmina miejsko-wiejska;14453;Wielkopolskie;ostrowski
+3017042;Ostrów Wielkopolski;wies;19188;Wielkopolskie;ostrowski
+3017052;Przygodzice;wies;12334;Wielkopolskie;ostrowski
+3017063;Raszków;gmina miejsko-wiejska;11485;Wielkopolskie;ostrowski
+3017072;Sieroszewice;wies;9340;Wielkopolskie;ostrowski
+3017082;Sośnie;wies;6309;Wielkopolskie;ostrowski
+3018012;Czajków;wies;2477;Wielkopolskie;ostrzeszowski
+3018022;Doruchów;wies;5098;Wielkopolskie;ostrzeszowski
+3018033;Grabów nad Prosną;gmina miejsko-wiejska;7727;Wielkopolskie;ostrzeszowski
+3018042;Kobyla Góra;wies;6200;Wielkopolskie;ostrzeszowski
+3018052;Kraszewice;wies;3521;Wielkopolskie;ostrzeszowski
+3018063;Mikstat;gmina miejsko-wiejska;5838;Wielkopolskie;ostrzeszowski
+3018073;Ostrzeszów;gmina miejsko-wiejska;23904;Wielkopolskie;ostrzeszowski
+3019011;Piła;miasto;70861;Wielkopolskie;pilski
+3019022;Białośliwie;wies;4555;Wielkopolskie;pilski
+3019033;Kaczory;gmina miejsko-wiejska;7475;Wielkopolskie;pilski
+3019043;Łobżenica;gmina miejsko-wiejska;9108;Wielkopolskie;pilski
+3019052;Miasteczko Krajeński;wies;3003;Wielkopolskie;pilski
+3019062;Szydłowo;wies;9503;Wielkopolskie;pilski
+3019073;Ujście;gmina miejsko-wiejska;7644;Wielkopolskie;pilski
+3019083;Wyrzysk;gmina miejsko-wiejska;13221;Wielkopolskie;pilski
+3019093;Wysoka;gmina miejsko-wiejska;6163;Wielkopolskie;pilski
+3020013;Chocz;gmina miejsko-wiejska;4451;Wielkopolskie;pleszewski
+3020022;Czermin;wies;4835;Wielkopolskie;pleszewski
+3020033;Dobrzyca;gmina miejsko-wiejska;7697;Wielkopolskie;pleszewski
+3020042;Gizałki;wies;4475;Wielkopolskie;pleszewski
+3020052;Gołuchów;wies;11096;Wielkopolskie;pleszewski
+3020063;Pleszew;gmina miejsko-wiejska;28993;Wielkopolskie;pleszewski
+3021011;Luboń;miasto;32900;Wielkopolskie;poznański
+3021021;Puszczykowo;miasto;9384;Wielkopolskie;poznański
+3021033;Buk;gmina miejsko-wiejska;12770;Wielkopolskie;poznański
+3021042;Czerwonak;wies;27867;Wielkopolskie;poznański
+3021052;Dopiewo;wies;34406;Wielkopolskie;poznański
+3021062;Kleszczewo;wies;11102;Wielkopolskie;poznański
+3021072;Komorniki;wies;36159;Wielkopolskie;poznański
+3021083;Kostrzyn;gmina miejsko-wiejska;19771;Wielkopolskie;poznański
+3021093;Kórnik;gmina miejsko-wiejska;35228;Wielkopolskie;poznański
+3021103;Mosina;gmina miejsko-wiejska;35093;Wielkopolskie;poznański
+3021113;Murowana Goślina;gmina miejsko-wiejska;16927;Wielkopolskie;poznański
+3021123;Pobiedziska;gmina miejsko-wiejska;21136;Wielkopolskie;poznański
+3021132;Rokietnica;wies;23232;Wielkopolskie;poznański
+3021143;Stęszew;gmina miejsko-wiejska;15431;Wielkopolskie;poznański
+3021152;Suchy Las;wies;20256;Wielkopolskie;poznański
+3021163;Swarzędz;gmina miejsko-wiejska;55926;Wielkopolskie;poznański
+3021172;Tarnowo Podgórne;wies;32246;Wielkopolskie;poznański
+3022013;Bojanowo;gmina miejsko-wiejska;8302;Wielkopolskie;rawicki
+3022023;Jutrosin;gmina miejsko-wiejska;6938;Wielkopolskie;rawicki
+3022033;Miejska Górka;gmina miejsko-wiejska;8881;Wielkopolskie;rawicki
+3022042;Pakosław;wies;4786;Wielkopolskie;rawicki
+3022053;Rawicz;gmina miejsko-wiejska;30057;Wielkopolskie;rawicki
+3023011;Słupca;miasto;13176;Wielkopolskie;słupecki
+3023022;Lądek;wies;5500;Wielkopolskie;słupecki
+3023032;Orchowo;wies;3588;Wielkopolskie;słupecki
+3023042;Ostrowite;wies;4829;Wielkopolskie;słupecki
+3023052;Powidz;wies;2226;Wielkopolskie;słupecki
+3023062;Słupca;wies;9827;Wielkopolskie;słupecki
+3023072;Strzałkowo;wies;9996;Wielkopolskie;słupecki
+3023083;Zagórów;gmina miejsko-wiejska;8533;Wielkopolskie;słupecki
+3024011;Obrzycko;miasto;2381;Wielkopolskie;szamotulski
+3024022;Duszniki;wies;9505;Wielkopolskie;szamotulski
+3024032;Kaźmierz;wies;9205;Wielkopolskie;szamotulski
+3024042;Obrzycko;wies;4422;Wielkopolskie;szamotulski
+3024053;Ostroróg;gmina miejsko-wiejska;4743;Wielkopolskie;szamotulski
+3024063;Pniewy;gmina miejsko-wiejska;12470;Wielkopolskie;szamotulski
+3024073;Szamotuły;gmina miejsko-wiejska;30073;Wielkopolskie;szamotulski
+3024083;Wronki;gmina miejsko-wiejska;18808;Wielkopolskie;szamotulski
+3025012;Dominowo;wies;3326;Wielkopolskie;średzki
+3025022;Krzykosy;wies;7306;Wielkopolskie;średzki
+3025032;Nowe Miasto nad Wart;wies;8633;Wielkopolskie;średzki
+3025043;Środa Wielkopolska;gmina miejsko-wiejska;33573;Wielkopolskie;średzki
+3025052;Zaniemyśl;wies;6883;Wielkopolskie;średzki
+3026012;Brodnica;wies;4766;Wielkopolskie;śremski
+3026023;Dolsk;gmina miejsko-wiejska;5752;Wielkopolskie;śremski
+3026033;Książ Wielkopolski;gmina miejsko-wiejska;8116;Wielkopolskie;śremski
+3026043;Śrem;gmina miejsko-wiejska;42488;Wielkopolskie;śremski
+3027011;Turek;miasto;24977;Wielkopolskie;turecki
+3027022;Brudzew;wies;5930;Wielkopolskie;turecki
+3027033;Dobra;gmina miejsko-wiejska;5848;Wielkopolskie;turecki
+3027042;Kawęczyn;wies;4965;Wielkopolskie;turecki
+3027052;Malanów;wies;6498;Wielkopolskie;turecki
+3027062;Przykona;wies;4612;Wielkopolskie;turecki
+3027073;Tuliszków;gmina miejsko-wiejska;10203;Wielkopolskie;turecki
+3027082;Turek;wies;10524;Wielkopolskie;turecki
+3027092;Władysławów;wies;7960;Wielkopolskie;turecki
+3028011;Wągrowiec;miasto;25539;Wielkopolskie;wągrowiecki
+3028022;Damasławek;wies;5054;Wielkopolskie;wągrowiecki
+3028033;Gołańcz;gmina miejsko-wiejska;7820;Wielkopolskie;wągrowiecki
+3028042;Mieścisko;wies;5732;Wielkopolskie;wągrowiecki
+3028053;Skoki;gmina miejsko-wiejska;10053;Wielkopolskie;wągrowiecki
+3028062;Wapno;wies;2711;Wielkopolskie;wągrowiecki
+3028072;Wągrowiec;wies;12158;Wielkopolskie;wągrowiecki
+3029012;Przemęt;wies;14035;Wielkopolskie;wolsztyński
+3029022;Siedlec;wies;12405;Wielkopolskie;wolsztyński
+3029033;Wolsztyn;gmina miejsko-wiejska;30330;Wielkopolskie;wolsztyński
+3030012;Kołaczkowo;wies;5643;Wielkopolskie;wrzesiński
+3030023;Miłosław;gmina miejsko-wiejska;9934;Wielkopolskie;wrzesiński
+3030033;Nekla;gmina miejsko-wiejska;7798;Wielkopolskie;wrzesiński
+3030043;Pyzdry;gmina miejsko-wiejska;6536;Wielkopolskie;wrzesiński
+3030053;Września;gmina miejsko-wiejska;48177;Wielkopolskie;wrzesiński
+3031011;Złotów;miasto;18411;Wielkopolskie;złotowski
+3031023;Jastrowie;gmina miejsko-wiejska;10979;Wielkopolskie;złotowski
+3031033;Krajenka;gmina miejsko-wiejska;7381;Wielkopolskie;złotowski
+3031042;Lipka;wies;5295;Wielkopolskie;złotowski
+3031053;Okonek;gmina miejsko-wiejska;7967;Wielkopolskie;złotowski
+3031062;Tarnówka;wies;2955;Wielkopolskie;złotowski
+3031072;Zakrzewo;wies;4860;Wielkopolskie;złotowski
+3031082;Złotów;wies;9877;Wielkopolskie;złotowski
+3061000;Kalisz;miasto;94489;Wielkopolskie;Kalisz
+3062000;Konin;miasto;68483;Wielkopolskie;Konin
+3063000;Leszno;miasto;60983;Wielkopolskie;Leszno
+3064000;Poznań;miasto;543347;Wielkopolskie;Poznań
+3201011;Białogard;miasto;22781;Zachodniopomorskie;białogardzki
+3201022;Białogard;wies;7303;Zachodniopomorskie;białogardzki
+3201033;Karlino;gmina miejsko-wiejska;8554;Zachodniopomorskie;białogardzki
+3201043;Tychowo;gmina miejsko-wiejska;6312;Zachodniopomorskie;białogardzki
+3202012;Bierzwnik;wies;4427;Zachodniopomorskie;choszczeński
+3202023;Choszczno;gmina miejsko-wiejska;20381;Zachodniopomorskie;choszczeński
+3202033;Drawno;gmina miejsko-wiejska;4682;Zachodniopomorskie;choszczeński
+3202042;Krzęcin;wies;3294;Zachodniopomorskie;choszczeński
+3202053;Pełczyce;gmina miejsko-wiejska;7242;Zachodniopomorskie;choszczeński
+3202063;Recz;gmina miejsko-wiejska;5027;Zachodniopomorskie;choszczeński
+3203013;Czaplinek;gmina miejsko-wiejska;11227;Zachodniopomorskie;drawski
+3203023;Drawsko Pomorskie;gmina miejsko-wiejska;16523;Zachodniopomorskie;drawski
+3203033;Kalisz Pomorski;gmina miejsko-wiejska;6882;Zachodniopomorskie;drawski
+3203052;Wierzchowo;wies;4080;Zachodniopomorskie;drawski
+3203063;Złocieniec;gmina miejsko-wiejska;15443;Zachodniopomorskie;drawski
+3204023;Goleniów;gmina miejsko-wiejska;36972;Zachodniopomorskie;goleniowski
+3204033;Maszewo;gmina miejsko-wiejska;8550;Zachodniopomorskie;goleniowski
+3204043;Nowogard;gmina miejsko-wiejska;23576;Zachodniopomorskie;goleniowski
+3204052;Osina;wies;2917;Zachodniopomorskie;goleniowski
+3204062;Przybiernów;wies;4850;Zachodniopomorskie;goleniowski
+3204073;Stepnica;gmina miejsko-wiejska;4741;Zachodniopomorskie;goleniowski
+3205012;Brojce;wies;3510;Zachodniopomorskie;gryficki
+3205023;Gryfice;gmina miejsko-wiejska;22913;Zachodniopomorskie;gryficki
+3205032;Karnice;wies;3723;Zachodniopomorskie;gryficki
+3205043;Płoty;gmina miejsko-wiejska;8192;Zachodniopomorskie;gryficki
+3205072;Rewal;wies;3646;Zachodniopomorskie;gryficki
+3205083;Trzebiatów;gmina miejsko-wiejska;15092;Zachodniopomorskie;gryficki
+3206012;Banie;wies;5803;Zachodniopomorskie;gryfiński
+3206023;Cedynia;gmina miejsko-wiejska;4033;Zachodniopomorskie;gryfiński
+3206033;Chojna;gmina miejsko-wiejska;13246;Zachodniopomorskie;gryfiński
+3206043;Gryfino;gmina miejsko-wiejska;30520;Zachodniopomorskie;gryfiński
+3206053;Mieszkowice;gmina miejsko-wiejska;6593;Zachodniopomorskie;gryfiński
+3206063;Moryń;gmina miejsko-wiejska;4116;Zachodniopomorskie;gryfiński
+3206072;Stare Czarnowo;wies;3695;Zachodniopomorskie;gryfiński
+3206083;Trzcińsko-Zdrój;gmina miejsko-wiejska;4895;Zachodniopomorskie;gryfiński
+3206092;Widuchowa;wies;5069;Zachodniopomorskie;gryfiński
+3207013;Dziwnów;gmina miejsko-wiejska;3644;Zachodniopomorskie;kamieński
+3207023;Golczewo;gmina miejsko-wiejska;5575;Zachodniopomorskie;kamieński
+3207033;Kamień Pomorski;gmina miejsko-wiejska;13613;Zachodniopomorskie;kamieński
+3207043;Międzyzdroje;gmina miejsko-wiejska;6092;Zachodniopomorskie;kamieński
+3207052;Świerzno;wies;4004;Zachodniopomorskie;kamieński
+3207063;Wolin;gmina miejsko-wiejska;11729;Zachodniopomorskie;kamieński
+3208011;Kołobrzeg;miasto;43884;Zachodniopomorskie;kołobrzeski
+3208022;Dygowo;wies;5370;Zachodniopomorskie;kołobrzeski
+3208033;Gościno;gmina miejsko-wiejska;5258;Zachodniopomorskie;kołobrzeski
+3208042;Kołobrzeg;wies;11294;Zachodniopomorskie;kołobrzeski
+3208052;Rymań;wies;3710;Zachodniopomorskie;kołobrzeski
+3208062;Siemyśl;wies;3949;Zachodniopomorskie;kołobrzeski
+3208072;Ustronie Morskie;wies;3776;Zachodniopomorskie;kołobrzeski
+3209012;Będzino;wies;8482;Zachodniopomorskie;koszaliński
+3209022;Biesiekierz;wies;7477;Zachodniopomorskie;koszaliński
+3209033;Bobolice;gmina miejsko-wiejska;8378;Zachodniopomorskie;koszaliński
+3209042;Manowo;wies;6793;Zachodniopomorskie;koszaliński
+3209053;Mielno;gmina miejsko-wiejska;4802;Zachodniopomorskie;koszaliński
+3209063;Polanów;gmina miejsko-wiejska;8182;Zachodniopomorskie;koszaliński
+3209073;Sianów;gmina miejsko-wiejska;13898;Zachodniopomorskie;koszaliński
+3209082;Świeszyno;wies;8364;Zachodniopomorskie;koszaliński
+3210013;Barlinek;gmina miejsko-wiejska;18549;Zachodniopomorskie;myśliborski
+3210022;Boleszkowice;wies;2780;Zachodniopomorskie;myśliborski
+3210033;Dębno;gmina miejsko-wiejska;19584;Zachodniopomorskie;myśliborski
+3210043;Myślibórz;gmina miejsko-wiejska;18737;Zachodniopomorskie;myśliborski
+3210052;Nowogródek Pomorski;wies;3313;Zachodniopomorskie;myśliborski
+3211012;Dobra (Szczecińska);wies;28642;Zachodniopomorskie;policki
+3211022;Kołbaskowo;wies;14875;Zachodniopomorskie;policki
+3211033;Nowe Warpno;gmina miejsko-wiejska;1542;Zachodniopomorskie;policki
+3211043;Police;gmina miejsko-wiejska;39370;Zachodniopomorskie;policki
+3212012;Bielice;wies;2970;Zachodniopomorskie;pyrzycki
+3212022;Kozielice;wies;2417;Zachodniopomorskie;pyrzycki
+3212033;Lipiany;gmina miejsko-wiejska;5540;Zachodniopomorskie;pyrzycki
+3212042;Przelewice;wies;4557;Zachodniopomorskie;pyrzycki
+3212053;Pyrzyce;gmina miejsko-wiejska;18358;Zachodniopomorskie;pyrzycki
+3212062;Warnice;wies;3108;Zachodniopomorskie;pyrzycki
+3213011;Darłowo;miasto;12778;Zachodniopomorskie;sławieński
+3213021;Sławno;miasto;11958;Zachodniopomorskie;sławieński
+3213032;Darłowo;wies;7594;Zachodniopomorskie;sławieński
+3213042;Malechowo;wies;6013;Zachodniopomorskie;sławieński
+3213052;Postomino;wies;6778;Zachodniopomorskie;sławieński
+3213062;Sławno;wies;8412;Zachodniopomorskie;sławieński
+3214011;Stargard;miasto;66990;Zachodniopomorskie;stargardzki
+3214023;Chociwel;gmina miejsko-wiejska;5537;Zachodniopomorskie;stargardzki
+3214033;Dobrzany;gmina miejsko-wiejska;4573;Zachodniopomorskie;stargardzki
+3214042;Dolice;wies;7193;Zachodniopomorskie;stargardzki
+3214053;Ińsko;gmina miejsko-wiejska;3174;Zachodniopomorskie;stargardzki
+3214062;Kobylanka;wies;6325;Zachodniopomorskie;stargardzki
+3214082;Marianowo;wies;2881;Zachodniopomorskie;stargardzki
+3214092;Stara Dąbrowa;wies;3583;Zachodniopomorskie;stargardzki
+3214102;Stargard;wies;14805;Zachodniopomorskie;stargardzki
+3214113;Suchań;gmina miejsko-wiejska;4080;Zachodniopomorskie;stargardzki
+3215011;Szczecinek;miasto;37987;Zachodniopomorskie;szczecinecki
+3215023;Barwice;gmina miejsko-wiejska;7937;Zachodniopomorskie;szczecinecki
+3215033;Biały Bór;gmina miejsko-wiejska;4933;Zachodniopomorskie;szczecinecki
+3215043;Borne Sulinowo;gmina miejsko-wiejska;9365;Zachodniopomorskie;szczecinecki
+3215052;Grzmiąca;wies;4363;Zachodniopomorskie;szczecinecki
+3215062;Szczecinek;wies;8871;Zachodniopomorskie;szczecinecki
+3216011;Świdwin;miasto;14759;Zachodniopomorskie;świdwiński
+3216022;Brzeżno;wies;2610;Zachodniopomorskie;świdwiński
+3216033;Połczyn-Zdrój;gmina miejsko-wiejska;13876;Zachodniopomorskie;świdwiński
+3216042;Rąbino;wies;3318;Zachodniopomorskie;świdwiński
+3216052;Sławoborze;wies;3863;Zachodniopomorskie;świdwiński
+3216062;Świdwin;wies;5374;Zachodniopomorskie;świdwiński
+3217011;Wałcz;miasto;23841;Zachodniopomorskie;wałecki
+3217023;Człopa;gmina miejsko-wiejska;4619;Zachodniopomorskie;wałecki
+3217033;Mirosławiec;gmina miejsko-wiejska;5322;Zachodniopomorskie;wałecki
+3217043;Tuczno;gmina miejsko-wiejska;4526;Zachodniopomorskie;wałecki
+3217052;Wałcz;wies;12158;Zachodniopomorskie;wałecki
+3218013;Dobra;gmina miejsko-wiejska;3905;Zachodniopomorskie;łobeski
+3218023;Łobez;gmina miejsko-wiejska;12996;Zachodniopomorskie;łobeski
+3218032;Radowo Małe;wies;3272;Zachodniopomorskie;łobeski
+3218043;Resko;gmina miejsko-wiejska;7376;Zachodniopomorskie;łobeski
+3218053;Węgorzyno;gmina miejsko-wiejska;6380;Zachodniopomorskie;łobeski
+3261000;Koszalin;miasto;104648;Zachodniopomorskie;Koszalin
+3262000;Szczecin;miasto;393028;Zachodniopomorskie;Szczecin
+3263000;Świnoujście;miasto;39631;Zachodniopomorskie;Świnoujście
+1001011;Bełchatów;miasto;53309;Łódzkie;bełchatowski
+1001022;Bełchatów;wies;12734;Łódzkie;bełchatowski
+1001032;Drużbice;wies;5251;Łódzkie;bełchatowski
+1001042;Kleszczów;wies;6166;Łódzkie;bełchatowski
+1001052;Kluki;wies;4340;Łódzkie;bełchatowski
+1001062;Rusiec;wies;4845;Łódzkie;bełchatowski
+1001072;Szczerców;wies;8155;Łódzkie;bełchatowski
+1001083;Zelów;gmina miejsko-wiejska;14442;Łódzkie;bełchatowski
+1002011;Kutno;miasto;41461;Łódzkie;kutnowski
+1002022;Bedlno;wies;5149;Łódzkie;kutnowski
+1002032;Dąbrowice;wies;1790;Łódzkie;kutnowski
+1002043;Krośniewice;gmina miejsko-wiejska;7878;Łódzkie;kutnowski
+1002052;Krzyżanów;wies;4006;Łódzkie;kutnowski
+1002062;Kutno;wies;8872;Łódzkie;kutnowski
+1002072;Łanięta;wies;2200;Łódzkie;kutnowski
+1002082;Nowe Ostrowy;wies;3261;Łódzkie;kutnowski
+1002092;Oporów;wies;2401;Łódzkie;kutnowski
+1002102;Strzelce;wies;3760;Łódzkie;kutnowski
+1002113;Żychlin;gmina miejsko-wiejska;11144;Łódzkie;kutnowski
+1003012;Buczek;wies;5069;Łódzkie;łaski
+1003023;Łask;gmina miejsko-wiejska;27080;Łódzkie;łaski
+1003032;Sędziejowice;wies;6240;Łódzkie;łaski
+1003042;Widawa;wies;6963;Łódzkie;łaski
+1003052;Wodzierady;wies;3700;Łódzkie;łaski
+1004011;Łęczyca;miasto;13261;Łódzkie;łęczycki
+1004022;Daszyna;wies;3681;Łódzkie;łęczycki
+1004032;Góra Świętej Małgorz;wies;4253;Łódzkie;łęczycki
+1004042;Grabów;wies;5384;Łódzkie;łęczycki
+1004052;Łęczyca;wies;8235;Łódzkie;łęczycki
+1004063;Piątek;gmina miejsko-wiejska;5654;Łódzkie;łęczycki
+1004072;Świnice Warckie;wies;3673;Łódzkie;łęczycki
+1004082;Witonia;wies;3054;Łódzkie;łęczycki
+1005011;Łowicz;miasto;26393;Łódzkie;łowicki
+1005022;Bielawy;wies;5116;Łódzkie;łowicki
+1005032;Chąśno;wies;2885;Łódzkie;łowicki
+1005042;Domaniewice;wies;4532;Łódzkie;łowicki
+1005052;Kiernozia;wies;3140;Łódzkie;łowicki
+1005062;Kocierzew Południowy;wies;4056;Łódzkie;łowicki
+1005072;Łowicz;wies;7674;Łódzkie;łowicki
+1005082;Łyszkowice;wies;6476;Łódzkie;łowicki
+1005092;Nieborów;wies;9268;Łódzkie;łowicki
+1005102;Zduny;wies;5275;Łódzkie;łowicki
+1006022;Andrespol;wies;14581;Łódzkie;łódzki wschodni
+1006032;Brójce;wies;7209;Łódzkie;łódzki wschodni
+1006073;Koluszki;gmina miejsko-wiejska;22984;Łódzkie;łódzki wschodni
+1006082;Nowosolna;wies;5593;Łódzkie;łódzki wschodni
+1006103;Rzgów;gmina miejsko-wiejska;11154;Łódzkie;łódzki wschodni
+1006113;Tuszyn;gmina miejsko-wiejska;12682;Łódzkie;łódzki wschodni
+1007012;Białaczów;wies;5544;Łódzkie;opoczyński
+1007023;Drzewica;gmina miejsko-wiejska;9886;Łódzkie;opoczyński
+1007032;Mniszków;wies;4717;Łódzkie;opoczyński
+1007043;Opoczno;gmina miejsko-wiejska;32197;Łódzkie;opoczyński
+1007052;Paradyż;wies;4210;Łódzkie;opoczyński
+1007062;Poświętne;wies;2950;Łódzkie;opoczyński
+1007072;Sławno;wies;7500;Łódzkie;opoczyński
+1007082;Żarnów;wies;5556;Łódzkie;opoczyński
+1008011;Konstantynów Łódzki;miasto;19139;Łódzkie;pabianicki
+1008021;Pabianice;miasto;61754;Łódzkie;pabianicki
+1008032;Dłutów;wies;4917;Łódzkie;pabianicki
+1008042;Dobroń;wies;8067;Łódzkie;pabianicki
+1008052;Ksawerów;wies;7607;Łódzkie;pabianicki
+1008063;Lutomiersk;gmina miejsko-wiejska;9375;Łódzkie;pabianicki
+1008072;Pabianice;wies;8653;Łódzkie;pabianicki
+1009013;Działoszyn;gmina miejsko-wiejska;11689;Łódzkie;pajęczański
+1009022;Kiełczygłów;wies;3803;Łódzkie;pajęczański
+1009032;Nowa Brzeźnica;wies;4398;Łódzkie;pajęczański
+1009043;Pajęczno;gmina miejsko-wiejska;11236;Łódzkie;pajęczański
+1009052;Rząśnia;wies;4897;Łódzkie;pajęczański
+1009062;Siemkowice;wies;4494;Łódzkie;pajęczański
+1009072;Strzelce Wielkie;wies;4224;Łódzkie;pajęczański
+1009082;Sulmierzyce;wies;4417;Łódzkie;pajęczański
+1010012;Aleksandrów;wies;4280;Łódzkie;piotrkowski
+1010022;Czarnocin;wies;4082;Łódzkie;piotrkowski
+1010032;Gorzkowice;wies;8255;Łódzkie;piotrkowski
+1010042;Grabica;wies;6041;Łódzkie;piotrkowski
+1010052;Łęki Szlacheckie;wies;3225;Łódzkie;piotrkowski
+1010062;Moszczenica;wies;12613;Łódzkie;piotrkowski
+1010072;Ręczno;wies;3360;Łódzkie;piotrkowski
+1010082;Rozprza;wies;12227;Łódzkie;piotrkowski
+1010093;Sulejów;gmina miejsko-wiejska;16538;Łódzkie;piotrkowski
+1010102;Wola Krzysztoporska;wies;11949;Łódzkie;piotrkowski
+1010113;Wolbórz;gmina miejsko-wiejska;7838;Łódzkie;piotrkowski
+1011012;Dalików;wies;3977;Łódzkie;poddębicki
+1011022;Pęczniew;wies;3395;Łódzkie;poddębicki
+1011033;Poddębice;gmina miejsko-wiejska;14672;Łódzkie;poddębicki
+1011043;Uniejów;gmina miejsko-wiejska;6772;Łódzkie;poddębicki
+1011052;Wartkowice;wies;6091;Łódzkie;poddębicki
+1011062;Zadzim;wies;4722;Łódzkie;poddębicki
+1012011;Radomsko;miasto;43698;Łódzkie;radomszczański
+1012022;Dobryszyce;wies;4576;Łódzkie;radomszczański
+1012032;Gidle;wies;5773;Łódzkie;radomszczański
+1012042;Gomunice;wies;5681;Łódzkie;radomszczański
+1012053;Kamieńsk;gmina miejsko-wiejska;5645;Łódzkie;radomszczański
+1012062;Kobiele Wielkie;wies;4274;Łódzkie;radomszczański
+1012072;Kodrąb;wies;4306;Łódzkie;radomszczański
+1012082;Lgota Wielka;wies;4210;Łódzkie;radomszczański
+1012092;Ładzice;wies;4650;Łódzkie;radomszczański
+1012102;Masłowice;wies;3940;Łódzkie;radomszczański
+1012113;Przedbórz;gmina miejsko-wiejska;6660;Łódzkie;radomszczański
+1012122;Radomsko;wies;5421;Łódzkie;radomszczański
+1012132;Wielgomłyny;wies;4356;Łódzkie;radomszczański
+1012142;Żytno;wies;4810;Łódzkie;radomszczański
+1013011;Rawa Mazowiecka;miasto;16168;Łódzkie;rawski
+1013023;Biała Rawska;gmina miejsko-wiejska;10922;Łódzkie;rawski
+1013032;Cielądz;wies;3945;Łódzkie;rawski
+1013042;Rawa Mazowiecka;wies;8668;Łódzkie;rawski
+1013052;Regnów;wies;1709;Łódzkie;rawski
+1013062;Sadkowice;wies;5172;Łódzkie;rawski
+1014011;Sieradz;miasto;39351;Łódzkie;sieradzki
+1014023;Błaszki;gmina miejsko-wiejska;14051;Łódzkie;sieradzki
+1014032;Brąszewice;wies;4355;Łódzkie;sieradzki
+1014042;Brzeźnio;wies;6176;Łódzkie;sieradzki
+1014052;Burzenin;wies;5290;Łódzkie;sieradzki
+1014062;Goszczanów;wies;5163;Łódzkie;sieradzki
+1014072;Klonowa;wies;2785;Łódzkie;sieradzki
+1014082;Sieradz;wies;10766;Łódzkie;sieradzki
+1014093;Warta;gmina miejsko-wiejska;11960;Łódzkie;sieradzki
+1014102;Wróblew;wies;5929;Łódzkie;sieradzki
+1014113;Złoczew;gmina miejsko-wiejska;6868;Łódzkie;sieradzki
+1015013;Bolimów;gmina miejsko-wiejska;3886;Łódzkie;skierniewicki
+1015022;Głuchów;wies;5540;Łódzkie;skierniewicki
+1015032;Godzianów;wies;2580;Łódzkie;skierniewicki
+1015042;Kowiesy;wies;2810;Łódzkie;skierniewicki
+1015052;Lipce Reymontowskie;wies;3142;Łódzkie;skierniewicki
+1015062;Maków;wies;5970;Łódzkie;skierniewicki
+1015072;Nowy Kawęczyn;wies;3377;Łódzkie;skierniewicki
+1015082;Skierniewice;wies;8013;Łódzkie;skierniewicki
+1015092;Słupia;wies;2497;Łódzkie;skierniewicki
+1016011;Tomaszów Mazowiecki;miasto;58421;Łódzkie;tomaszowski
+1016022;Będków;wies;3153;Łódzkie;tomaszowski
+1016032;Budziszewice;wies;2097;Łódzkie;tomaszowski
+1016042;Czerniewice;wies;4871;Łódzkie;tomaszowski
+1016052;Inowłódz;wies;3662;Łódzkie;tomaszowski
+1016062;Lubochnia;wies;7289;Łódzkie;tomaszowski
+1016072;Rokiciny;wies;6147;Łódzkie;tomaszowski
+1016082;Rzeczyca;wies;4429;Łódzkie;tomaszowski
+1016092;Tomaszów Mazowiecki;wies;11243;Łódzkie;tomaszowski
+1016102;Ujazd;wies;7368;Łódzkie;tomaszowski
+1016112;Żelechlinek;wies;3148;Łódzkie;tomaszowski
+1017012;Biała;wies;5328;Łódzkie;wieluński
+1017022;Czarnożyły;wies;4408;Łódzkie;wieluński
+1017032;Konopnica;wies;3569;Łódzkie;wieluński
+1017042;Mokrsko;wies;5133;Łódzkie;wieluński
+1017052;Osjaków;wies;4627;Łódzkie;wieluński
+1017062;Ostrówek;wies;4419;Łódzkie;wieluński
+1017072;Pątnów;wies;6223;Łódzkie;wieluński
+1017082;Skomlin;wies;3208;Łódzkie;wieluński
+1017093;Wieluń;gmina miejsko-wiejska;30010;Łódzkie;wieluński
+1017102;Wierzchlas;wies;6447;Łódzkie;wieluński
+1018012;Bolesławiec;wies;3953;Łódzkie;wieruszowski
+1018022;Czastary;wies;3873;Łódzkie;wieruszowski
+1018032;Galewice;wies;6118;Łódzkie;wieruszowski
+1018043;Lututów;gmina miejsko-wiejska;4604;Łódzkie;wieruszowski
+1018052;Łubnice;wies;3884;Łódzkie;wieruszowski
+1018062;Sokolniki;wies;5011;Łódzkie;wieruszowski
+1018073;Wieruszów;gmina miejsko-wiejska;14159;Łódzkie;wieruszowski
+1019011;Zduńska Wola;miasto;39172;Łódzkie;zduńskowolski
+1019023;Szadek;gmina miejsko-wiejska;7116;Łódzkie;zduńskowolski
+1019032;Zapolice;wies;5478;Łódzkie;zduńskowolski
+1019042;Zduńska Wola;wies;12250;Łódzkie;zduńskowolski
+1020011;Głowno;miasto;13293;Łódzkie;zgierski
+1020021;Ozorków;miasto;18369;Łódzkie;zgierski
+1020031;Zgierz;miasto;54254;Łódzkie;zgierski
+1020043;Aleksandrów Łódzki;gmina miejsko-wiejska;34753;Łódzkie;zgierski
+1020052;Głowno;wies;4668;Łódzkie;zgierski
+1020062;Ozorków;wies;7189;Łódzkie;zgierski
+1020072;Parzęczew;wies;5261;Łódzkie;zgierski
+1020083;Stryków;gmina miejsko-wiejska;13005;Łódzkie;zgierski
+1020092;Zgierz;wies;16077;Łódzkie;zgierski
+1021011;Brzeziny;miasto;12044;Łódzkie;brzeziński
+1021022;Brzeziny;wies;6094;Łódzkie;brzeziński
+1021032;Dmosin;wies;4372;Łódzkie;brzeziński
+1021042;Jeżów;wies;3187;Łódzkie;brzeziński
+1021052;Rogów;wies;4611;Łódzkie;brzeziński
+1061000;Łódź;miasto;661329;Łódzkie;Łódź
+1062000;Piotrków Trybunalski;miasto;67734;Łódzkie;Piotrków Trybunalski
+1063000;Skierniewice;miasto;45773;Łódzkie;Skierniewice
+2401011;Będzin;miasto;54720;Śląskie;będziński
+2401021;Czeladź;miasto;30317;Śląskie;będziński
+2401031;Wojkowice;miasto;8540;Śląskie;będziński
+2401042;Bobrowniki;wies;12432;Śląskie;będziński
+2401052;Mierzęcice;wies;7923;Śląskie;będziński
+2401062;Psary;wies;12334;Śląskie;będziński
+2401073;Siewierz;gmina miejsko-wiejska;12741;Śląskie;będziński
+2401081;Sławków;miasto;6892;Śląskie;będziński
+2402011;Szczyrk;miasto;5402;Śląskie;bielski
+2402022;Bestwina;wies;12142;Śląskie;bielski
+2402032;Buczkowice;wies;11218;Śląskie;bielski
+2402043;Czechowice-Dziedzi;gmina miejsko-wiejska;44581;Śląskie;bielski
+2402052;Jasienica;wies;25055;Śląskie;bielski
+2402062;Jaworze;wies;7373;Śląskie;bielski
+2402072;Kozy;wies;13106;Śląskie;bielski
+2402082;Porąbka;wies;15440;Śląskie;bielski
+2402093;Wilamowice;gmina miejsko-wiejska;18063;Śląskie;bielski
+2402102;Wilkowice;wies;13341;Śląskie;bielski
+2403011;Cieszyn;miasto;33486;Śląskie;cieszyński
+2403021;Ustroń;miasto;16023;Śląskie;cieszyński
+2403031;Wisła;miasto;10716;Śląskie;cieszyński
+2403042;Brenna;wies;11741;Śląskie;cieszyński
+2403052;Chybie;wies;9636;Śląskie;cieszyński
+2403062;Dębowiec;wies;5769;Śląskie;cieszyński
+2403072;Goleszów;wies;13156;Śląskie;cieszyński
+2403082;Hażlach;wies;10766;Śląskie;cieszyński
+2403092;Istebna;wies;12153;Śląskie;cieszyński
+2403103;Skoczów;gmina miejsko-wiejska;26331;Śląskie;cieszyński
+2403113;Strumień;gmina miejsko-wiejska;13232;Śląskie;cieszyński
+2403122;Zebrzydowice;wies;12817;Śląskie;cieszyński
+2404013;Blachownia;gmina miejsko-wiejska;12597;Śląskie;częstochowski
+2404022;Dąbrowa Zielona;wies;3639;Śląskie;częstochowski
+2404032;Janów;wies;5861;Śląskie;częstochowski
+2404042;Kamienica Polska;wies;5419;Śląskie;częstochowski
+2404052;Kłomnice;wies;13003;Śląskie;częstochowski
+2404063;Koniecpol;gmina miejsko-wiejska;8813;Śląskie;częstochowski
+2404072;Konopiska;wies;10769;Śląskie;częstochowski
+2404082;Kruszyna;wies;4680;Śląskie;częstochowski
+2404092;Lelów;wies;4608;Śląskie;częstochowski
+2404102;Mstów;wies;10802;Śląskie;częstochowski
+2404112;Mykanów;wies;15325;Śląskie;częstochowski
+2404123;Olsztyn;gmina miejsko-wiejska;8194;Śląskie;częstochowski
+2404132;Poczesna;wies;12475;Śląskie;częstochowski
+2404142;Przyrów;wies;3564;Śląskie;częstochowski
+2404152;Rędziny;wies;9563;Śląskie;częstochowski
+2404162;Starcza;wies;2859;Śląskie;częstochowski
+2405011;Knurów;miasto;36044;Śląskie;gliwicki
+2405021;Pyskowice;miasto;17194;Śląskie;gliwicki
+2405032;Gierałtowice;wies;12568;Śląskie;gliwicki
+2405042;Pilchowice;wies;12471;Śląskie;gliwicki
+2405052;Rudziniec;wies;10842;Śląskie;gliwicki
+2405063;Sośnicowice;gmina miejsko-wiejska;8975;Śląskie;gliwicki
+2405073;Toszek;gmina miejsko-wiejska;9275;Śląskie;gliwicki
+2405082;Wielowieś;wies;5857;Śląskie;gliwicki
+2406013;Kłobuck;gmina miejsko-wiejska;19824;Śląskie;kłobucki
+2406023;Krzepice;gmina miejsko-wiejska;8602;Śląskie;kłobucki
+2406032;Lipie;wies;6006;Śląskie;kłobucki
+2406042;Miedźno;wies;7448;Śląskie;kłobucki
+2406052;Opatów;wies;6615;Śląskie;kłobucki
+2406062;Panki;wies;4882;Śląskie;kłobucki
+2406072;Popów;wies;5765;Śląskie;kłobucki
+2406082;Przystajń;wies;5708;Śląskie;kłobucki
+2406092;Wręczyca Wielka;wies;17680;Śląskie;kłobucki
+2407011;Lubliniec;miasto;23406;Śląskie;lubliniecki
+2407022;Boronów;wies;3316;Śląskie;lubliniecki
+2407032;Ciasna;wies;7277;Śląskie;lubliniecki
+2407042;Herby;wies;6454;Śląskie;lubliniecki
+2407052;Kochanowice;wies;6940;Śląskie;lubliniecki
+2407062;Koszęcin;wies;11898;Śląskie;lubliniecki
+2407072;Pawonków;wies;6517;Śląskie;lubliniecki
+2407083;Woźniki;gmina miejsko-wiejska;9416;Śląskie;lubliniecki
+2408011;Łaziska Górne;miasto;21371;Śląskie;mikołowski
+2408021;Mikołów;miasto;41383;Śląskie;mikołowski
+2408031;Orzesze;miasto;21758;Śląskie;mikołowski
+2408042;Ornontowice;wies;6157;Śląskie;mikołowski
+2408052;Wyry;wies;8930;Śląskie;mikołowski
+2409011;Myszków;miasto;29897;Śląskie;myszkowski
+2409023;Koziegłowy;gmina miejsko-wiejska;14166;Śląskie;myszkowski
+2409032;Niegowa;wies;5402;Śląskie;myszkowski
+2409042;Poraj;wies;10653;Śląskie;myszkowski
+2409053;Żarki;gmina miejsko-wiejska;8179;Śląskie;myszkowski
+2410012;Goczałkowice-Zdrój;wies;6613;Śląskie;pszczyński
+2410022;Kobiór;wies;5120;Śląskie;pszczyński
+2410032;Miedźna;wies;16136;Śląskie;pszczyński
+2410042;Pawłowice;wies;17650;Śląskie;pszczyński
+2410053;Pszczyna;gmina miejsko-wiejska;52749;Śląskie;pszczyński
+2410062;Suszec;wies;12634;Śląskie;pszczyński
+2411011;Racibórz;miasto;50419;Śląskie;raciborski
+2411022;Kornowac;wies;5112;Śląskie;raciborski
+2411033;Krzanowice;gmina miejsko-wiejska;5340;Śląskie;raciborski
+2411042;Krzyżanowice;wies;10766;Śląskie;raciborski
+2411053;Kuźnia Raciborska;gmina miejsko-wiejska;10735;Śląskie;raciborski
+2411062;Nędza;wies;6694;Śląskie;raciborski
+2411072;Pietrowice Wielkie;wies;6501;Śląskie;raciborski
+2411082;Rudnik;wies;4835;Śląskie;raciborski
+2412013;Czerwionka-Leszczy;gmina miejsko-wiejska;40443;Śląskie;rybnicki
+2412022;Gaszowice;wies;9889;Śląskie;rybnicki
+2412032;Jejkowice;wies;4169;Śląskie;rybnicki
+2412042;Lyski;wies;9752;Śląskie;rybnicki
+2412052;Świerklany;wies;12575;Śląskie;rybnicki
+2413011;Kalety;miasto;8196;Śląskie;tarnogórski
+2413021;Miasteczko Śląskie;miasto;7014;Śląskie;tarnogórski
+2413031;Radzionków;miasto;16156;Śląskie;tarnogórski
+2413041;Tarnowskie Góry;miasto;61413;Śląskie;tarnogórski
+2413052;Krupski Młyn;wies;3038;Śląskie;tarnogórski
+2413062;Ożarowice;wies;5938;Śląskie;tarnogórski
+2413072;Świerklaniec;wies;12932;Śląskie;tarnogórski
+2413082;Tworóg;wies;8220;Śląskie;tarnogórski
+2413092;Zbrosławice;wies;16284;Śląskie;tarnogórski
+2414011;Bieruń;miasto;19015;Śląskie;bieruńsko-lędziński
+2414021;Imielin;miasto;9385;Śląskie;bieruńsko-lędziński
+2414031;Lędziny;miasto;16480;Śląskie;bieruńsko-lędziński
+2414042;Bojszowy;wies;8369;Śląskie;bieruńsko-lędziński
+2414052;Chełm Śląski;wies;6298;Śląskie;bieruńsko-lędziński
+2415011;Pszów;miasto;13150;Śląskie;wodzisławski
+2415021;Radlin;miasto;16993;Śląskie;wodzisławski
+2415031;Rydułtowy;miasto;20436;Śląskie;wodzisławski
+2415041;Wodzisław Śląski;miasto;45316;Śląskie;wodzisławski
+2415052;Godów;wies;13717;Śląskie;wodzisławski
+2415062;Gorzyce;wies;21147;Śląskie;wodzisławski
+2415072;Lubomia;wies;7675;Śląskie;wodzisławski
+2415082;Marklowice;wies;5374;Śląskie;wodzisławski
+2415092;Mszana;wies;7616;Śląskie;wodzisławski
+2416011;Poręba;miasto;8204;Śląskie;zawierciański
+2416021;Zawiercie;miasto;46962;Śląskie;zawierciański
+2416032;Irządze;wies;2517;Śląskie;zawierciański
+2416042;Kroczyce;wies;6078;Śląskie;zawierciański
+2416053;Łazy;gmina miejsko-wiejska;15659;Śląskie;zawierciański
+2416063;Ogrodzieniec;gmina miejsko-wiejska;8919;Śląskie;zawierciański
+2416073;Pilica;gmina miejsko-wiejska;8123;Śląskie;zawierciański
+2416083;Szczekociny;gmina miejsko-wiejska;7099;Śląskie;zawierciański
+2416092;Włodowice;wies;5175;Śląskie;zawierciański
+2416102;Żarnowiec;wies;4450;Śląskie;zawierciański
+2417011;Żywiec;miasto;29875;Śląskie;żywiecki
+2417022;Czernichów;wies;6457;Śląskie;żywiecki
+2417032;Gilowice;wies;6225;Śląskie;żywiecki
+2417042;Jeleśnia;wies;12733;Śląskie;żywiecki
+2417052;Koszarawa;wies;2235;Śląskie;żywiecki
+2417062;Lipowa;wies;10853;Śląskie;żywiecki
+2417072;Łękawica;wies;4514;Śląskie;żywiecki
+2417082;Łodygowice;wies;15098;Śląskie;żywiecki
+2417092;Milówka;wies;9884;Śląskie;żywiecki
+2417102;Radziechowy-Wieprz;wies;12885;Śląskie;żywiecki
+2417112;Rajcza;wies;8442;Śląskie;żywiecki
+2417122;Ślemień;wies;3514;Śląskie;żywiecki
+2417132;Świnna;wies;7920;Śląskie;żywiecki
+2417142;Ujsoły;wies;4229;Śląskie;żywiecki
+2417152;Węgierska Górka;wies;14558;Śląskie;żywiecki
+2461000;Bielsko-Biała;miasto;167509;Śląskie;Bielsko-Biała
+2462000;Bytom;miasto;150594;Śląskie;Bytom
+2463000;Chorzów;miasto;102564;Śląskie;Chorzów
+2464000;Częstochowa;miasto;209395;Śląskie;Częstochowa
+2465000;Dąbrowa Górnicza;miasto;115317;Śląskie;Dąbrowa Górnicza
+2466000;Gliwice;miasto;171896;Śląskie;Gliwice
+2467000;Jastrzębie-Zdrój;miasto;83477;Śląskie;Jastrzębie-Zdrój
+2468000;Jaworzno;miasto;87842;Śląskie;Jaworzno
+2469000;Katowice;miasto;281418;Śląskie;Katowice
+2470000;Mysłowice;miasto;71849;Śląskie;Mysłowice
+2471000;Piekary Śląskie;miasto;52396;Śląskie;Piekary Śląskie
+2472000;Ruda Śląska;miasto;132040;Śląskie;Ruda Śląska
+2473000;Rybnik;miasto;132266;Śląskie;Rybnik
+2474000;Siemianowice Śląskie;miasto;64139;Śląskie;Siemianowice Śląskie
+2475000;Sosnowiec;miasto;190406;Śląskie;Sosnowiec
+2476000;Świętochłowice;miasto;45972;Śląskie;Świętochłowice
+2477000;Tychy;miasto;123562;Śląskie;Tychy
+2478000;Zabrze;miasto;156082;Śląskie;Zabrze
+2479000;Żory;miasto;61835;Śląskie;Żory
+2601013;Busko-Zdrój;gmina miejsko-wiejska;30977;Świętokrzyskie;buski
+2601022;Gnojno;wies;4247;Świętokrzyskie;buski
+2601033;Nowy Korczyn;gmina miejsko-wiejska;5515;Świętokrzyskie;buski
+2601043;Pacanów;gmina miejsko-wiejska;6969;Świętokrzyskie;buski
+2601052;Solec-Zdrój;wies;4905;Świętokrzyskie;buski
+2601063;Stopnica;gmina miejsko-wiejska;7208;Świętokrzyskie;buski
+2601072;Tuczępy;wies;3621;Świętokrzyskie;buski
+2601083;Wiślica;gmina miejsko-wiejska;5165;Świętokrzyskie;buski
+2602012;Imielno;wies;4189;Świętokrzyskie;jędrzejowski
+2602023;Jędrzejów;gmina miejsko-wiejska;26941;Świętokrzyskie;jędrzejowski
+2602033;Małogoszcz;gmina miejsko-wiejska;11135;Świętokrzyskie;jędrzejowski
+2602042;Nagłowice;wies;4724;Świętokrzyskie;jędrzejowski
+2602052;Oksa;wies;4396;Świętokrzyskie;jędrzejowski
+2602063;Sędziszów;gmina miejsko-wiejska;11891;Świętokrzyskie;jędrzejowski
+2602072;Słupia;wies;3951;Świętokrzyskie;jędrzejowski
+2602082;Sobków;wies;8386;Świętokrzyskie;jędrzejowski
+2602093;Wodzisław;gmina miejsko-wiejska;6474;Świętokrzyskie;jędrzejowski
+2603012;Bejsce;wies;3881;Świętokrzyskie;kazimierski
+2603022;Czarnocin;wies;3629;Świętokrzyskie;kazimierski
+2603033;Kazimierza Wielka;gmina miejsko-wiejska;15319;Świętokrzyskie;kazimierski
+2603043;Opatowiec;gmina miejsko-wiejska;3030;Świętokrzyskie;kazimierski
+2603053;Skalbmierz;gmina miejsko-wiejska;6203;Świętokrzyskie;kazimierski
+2604012;Bieliny;wies;10010;Świętokrzyskie;kielecki
+2604023;Bodzentyn;gmina miejsko-wiejska;11064;Świętokrzyskie;kielecki
+2604033;Chęciny;gmina miejsko-wiejska;14854;Świętokrzyskie;kielecki
+2604043;Chmielnik;gmina miejsko-wiejska;10828;Świętokrzyskie;kielecki
+2604053;Daleszyce;gmina miejsko-wiejska;16251;Świętokrzyskie;kielecki
+2604062;Górno;wies;15078;Świętokrzyskie;kielecki
+2604073;Łagów;gmina miejsko-wiejska;6603;Świętokrzyskie;kielecki
+2604082;Łopuszno;wies;8762;Świętokrzyskie;kielecki
+2604092;Masłów;wies;11819;Świętokrzyskie;kielecki
+2604102;Miedziana Góra;wies;12442;Świętokrzyskie;kielecki
+2604112;Mniów;wies;9117;Świętokrzyskie;kielecki
+2604123;Morawica;gmina miejsko-wiejska;17626;Świętokrzyskie;kielecki
+2604133;Nowa Słupia;gmina miejsko-wiejska;8998;Świętokrzyskie;kielecki
+2604142;Piekoszów;wies;16807;Świętokrzyskie;kielecki
+2604153;Pierzchnica;gmina miejsko-wiejska;4771;Świętokrzyskie;kielecki
+2604162;Raków;wies;5292;Świętokrzyskie;kielecki
+2604172;Nowiny;wies;7996;Świętokrzyskie;kielecki
+2604182;Strawczyn;wies;11077;Świętokrzyskie;kielecki
+2604192;Zagnańsk;wies;12305;Świętokrzyskie;kielecki
+2605012;Fałków;wies;4023;Świętokrzyskie;konecki
+2605022;Gowarczów;wies;4438;Świętokrzyskie;konecki
+2605033;Końskie;gmina miejsko-wiejska;33026;Świętokrzyskie;konecki
+2605043;Radoszyce;gmina miejsko-wiejska;8236;Świętokrzyskie;konecki
+2605052;Ruda Maleniecka;wies;2895;Świętokrzyskie;konecki
+2605062;Słupia Konecka;wies;3040;Świętokrzyskie;konecki
+2605072;Smyków;wies;3691;Świętokrzyskie;konecki
+2605083;Stąporków;gmina miejsko-wiejska;15602;Świętokrzyskie;konecki
+2606012;Baćkowice;wies;4600;Świętokrzyskie;opatowski
+2606023;Iwaniska;gmina miejsko-wiejska;6173;Świętokrzyskie;opatowski
+2606032;Lipnik;wies;4872;Świętokrzyskie;opatowski
+2606043;Opatów;gmina miejsko-wiejska;10943;Świętokrzyskie;opatowski
+2606053;Ożarów;gmina miejsko-wiejska;10241;Świętokrzyskie;opatowski
+2606062;Sadowie;wies;3791;Świętokrzyskie;opatowski
+2606072;Tarłów;wies;4673;Świętokrzyskie;opatowski
+2606082;Wojciechowice;wies;3817;Świętokrzyskie;opatowski
+2607011;Ostrowiec Świętokrzyski;miasto;63394;Świętokrzyskie;ostrowiecki
+2607022;Bałtów;wies;3178;Świętokrzyskie;ostrowiecki
+2607032;Bodzechów;wies;12738;Świętokrzyskie;ostrowiecki
+2607043;Ćmielów;gmina miejsko-wiejska;6816;Świętokrzyskie;ostrowiecki
+2607053;Kunów;gmina miejsko-wiejska;9296;Świętokrzyskie;ostrowiecki
+2607062;Waśniów;wies;6411;Świętokrzyskie;ostrowiecki
+2608013;Działoszyce;gmina miejsko-wiejska;4640;Świętokrzyskie;pińczowski
+2608022;Kije;wies;4287;Świętokrzyskie;pińczowski
+2608032;Michałów;wies;4443;Świętokrzyskie;pińczowski
+2608043;Pińczów;gmina miejsko-wiejska;19524;Świętokrzyskie;pińczowski
+2608052;Złota;wies;4263;Świętokrzyskie;pińczowski
+2609011;Sandomierz;miasto;21764;Świętokrzyskie;sandomierski
+2609022;Dwikozy;wies;8267;Świętokrzyskie;sandomierski
+2609033;Klimontów;gmina miejsko-wiejska;7545;Świętokrzyskie;sandomierski
+2609043;Koprzywnica;gmina miejsko-wiejska;6288;Świętokrzyskie;sandomierski
+2609052;Łoniów;wies;7224;Świętokrzyskie;sandomierski
+2609062;Obrazów;wies;6188;Świętokrzyskie;sandomierski
+2609072;Samborzec;wies;8176;Świętokrzyskie;sandomierski
+2609082;Wilczyce;wies;3477;Świętokrzyskie;sandomierski
+2609093;Zawichost;gmina miejsko-wiejska;4094;Świętokrzyskie;sandomierski
+2610011;Skarżysko-Kamienna;miasto;42099;Świętokrzyskie;skarżyski
+2610022;Bliżyn;wies;7587;Świętokrzyskie;skarżyski
+2610032;Łączna;wies;4916;Świętokrzyskie;skarżyski
+2610042;Skarżysko Kościelne;wies;5576;Świętokrzyskie;skarżyski
+2610053;Suchedniów;gmina miejsko-wiejska;9361;Świętokrzyskie;skarżyski
+2611011;Starachowice;miasto;45321;Świętokrzyskie;starachowicki
+2611022;Brody;wies;10284;Świętokrzyskie;starachowicki
+2611032;Mirzec;wies;7993;Świętokrzyskie;starachowicki
+2611042;Pawłów;wies;14878;Świętokrzyskie;starachowicki
+2611053;Wąchock;gmina miejsko-wiejska;6421;Świętokrzyskie;starachowicki
+2612012;Bogoria;wies;7464;Świętokrzyskie;staszowski
+2612022;Łubnice;wies;3964;Świętokrzyskie;staszowski
+2612033;Oleśnica;gmina miejsko-wiejska;3783;Świętokrzyskie;staszowski
+2612043;Osiek;gmina miejsko-wiejska;7433;Świętokrzyskie;staszowski
+2612053;Połaniec;gmina miejsko-wiejska;11158;Świętokrzyskie;staszowski
+2612062;Rytwiany;wies;6288;Świętokrzyskie;staszowski
+2612073;Staszów;gmina miejsko-wiejska;24765;Świętokrzyskie;staszowski
+2612083;Szydłów;gmina miejsko-wiejska;4386;Świętokrzyskie;staszowski
+2613012;Kluczewsko;wies;4946;Świętokrzyskie;włoszczowski
+2613022;Krasocin;wies;10216;Świętokrzyskie;włoszczowski
+2613032;Moskorzew;wies;2560;Świętokrzyskie;włoszczowski
+2613042;Radków;wies;2314;Świętokrzyskie;włoszczowski
+2613052;Secemin;wies;4595;Świętokrzyskie;włoszczowski
+2613063;Włoszczowa;gmina miejsko-wiejska;18803;Świętokrzyskie;włoszczowski
+2661000;Kielce;miasto;184520;Świętokrzyskie;Kielce

@@ -1,0 +1,177 @@
+1001011;Bełchatów;miasto;53309;Łódzkie;bełchatowski
+1001022;Bełchatów;wies;12734;Łódzkie;bełchatowski
+1001032;Drużbice;wies;5251;Łódzkie;bełchatowski
+1001042;Kleszczów;wies;6166;Łódzkie;bełchatowski
+1001052;Kluki;wies;4340;Łódzkie;bełchatowski
+1001062;Rusiec;wies;4845;Łódzkie;bełchatowski
+1001072;Szczerców;wies;8155;Łódzkie;bełchatowski
+1001083;Zelów;gmina miejsko-wiejska;14442;Łódzkie;bełchatowski
+1002011;Kutno;miasto;41461;Łódzkie;kutnowski
+1002022;Bedlno;wies;5149;Łódzkie;kutnowski
+1002032;Dąbrowice;wies;1790;Łódzkie;kutnowski
+1002043;Krośniewice;gmina miejsko-wiejska;7878;Łódzkie;kutnowski
+1002052;Krzyżanów;wies;4006;Łódzkie;kutnowski
+1002062;Kutno;wies;8872;Łódzkie;kutnowski
+1002072;Łanięta;wies;2200;Łódzkie;kutnowski
+1002082;Nowe Ostrowy;wies;3261;Łódzkie;kutnowski
+1002092;Oporów;wies;2401;Łódzkie;kutnowski
+1002102;Strzelce;wies;3760;Łódzkie;kutnowski
+1002113;Żychlin;gmina miejsko-wiejska;11144;Łódzkie;kutnowski
+1003012;Buczek;wies;5069;Łódzkie;łaski
+1003023;Łask;gmina miejsko-wiejska;27080;Łódzkie;łaski
+1003032;Sędziejowice;wies;6240;Łódzkie;łaski
+1003042;Widawa;wies;6963;Łódzkie;łaski
+1003052;Wodzierady;wies;3700;Łódzkie;łaski
+1004011;Łęczyca;miasto;13261;Łódzkie;łęczycki
+1004022;Daszyna;wies;3681;Łódzkie;łęczycki
+1004032;Góra Świętej Małgorz;wies;4253;Łódzkie;łęczycki
+1004042;Grabów;wies;5384;Łódzkie;łęczycki
+1004052;Łęczyca;wies;8235;Łódzkie;łęczycki
+1004063;Piątek;gmina miejsko-wiejska;5654;Łódzkie;łęczycki
+1004072;Świnice Warckie;wies;3673;Łódzkie;łęczycki
+1004082;Witonia;wies;3054;Łódzkie;łęczycki
+1005011;Łowicz;miasto;26393;Łódzkie;łowicki
+1005022;Bielawy;wies;5116;Łódzkie;łowicki
+1005032;Chąśno;wies;2885;Łódzkie;łowicki
+1005042;Domaniewice;wies;4532;Łódzkie;łowicki
+1005052;Kiernozia;wies;3140;Łódzkie;łowicki
+1005062;Kocierzew Południowy;wies;4056;Łódzkie;łowicki
+1005072;Łowicz;wies;7674;Łódzkie;łowicki
+1005082;Łyszkowice;wies;6476;Łódzkie;łowicki
+1005092;Nieborów;wies;9268;Łódzkie;łowicki
+1005102;Zduny;wies;5275;Łódzkie;łowicki
+1006022;Andrespol;wies;14581;Łódzkie;łódzki wschodni
+1006032;Brójce;wies;7209;Łódzkie;łódzki wschodni
+1006073;Koluszki;gmina miejsko-wiejska;22984;Łódzkie;łódzki wschodni
+1006082;Nowosolna;wies;5593;Łódzkie;łódzki wschodni
+1006103;Rzgów;gmina miejsko-wiejska;11154;Łódzkie;łódzki wschodni
+1006113;Tuszyn;gmina miejsko-wiejska;12682;Łódzkie;łódzki wschodni
+1007012;Białaczów;wies;5544;Łódzkie;opoczyński
+1007023;Drzewica;gmina miejsko-wiejska;9886;Łódzkie;opoczyński
+1007032;Mniszków;wies;4717;Łódzkie;opoczyński
+1007043;Opoczno;gmina miejsko-wiejska;32197;Łódzkie;opoczyński
+1007052;Paradyż;wies;4210;Łódzkie;opoczyński
+1007062;Poświętne;wies;2950;Łódzkie;opoczyński
+1007072;Sławno;wies;7500;Łódzkie;opoczyński
+1007082;Żarnów;wies;5556;Łódzkie;opoczyński
+1008011;Konstantynów Łódzki;miasto;19139;Łódzkie;pabianicki
+1008021;Pabianice;miasto;61754;Łódzkie;pabianicki
+1008032;Dłutów;wies;4917;Łódzkie;pabianicki
+1008042;Dobroń;wies;8067;Łódzkie;pabianicki
+1008052;Ksawerów;wies;7607;Łódzkie;pabianicki
+1008063;Lutomiersk;gmina miejsko-wiejska;9375;Łódzkie;pabianicki
+1008072;Pabianice;wies;8653;Łódzkie;pabianicki
+1009013;Działoszyn;gmina miejsko-wiejska;11689;Łódzkie;pajęczański
+1009022;Kiełczygłów;wies;3803;Łódzkie;pajęczański
+1009032;Nowa Brzeźnica;wies;4398;Łódzkie;pajęczański
+1009043;Pajęczno;gmina miejsko-wiejska;11236;Łódzkie;pajęczański
+1009052;Rząśnia;wies;4897;Łódzkie;pajęczański
+1009062;Siemkowice;wies;4494;Łódzkie;pajęczański
+1009072;Strzelce Wielkie;wies;4224;Łódzkie;pajęczański
+1009082;Sulmierzyce;wies;4417;Łódzkie;pajęczański
+1010012;Aleksandrów;wies;4280;Łódzkie;piotrkowski
+1010022;Czarnocin;wies;4082;Łódzkie;piotrkowski
+1010032;Gorzkowice;wies;8255;Łódzkie;piotrkowski
+1010042;Grabica;wies;6041;Łódzkie;piotrkowski
+1010052;Łęki Szlacheckie;wies;3225;Łódzkie;piotrkowski
+1010062;Moszczenica;wies;12613;Łódzkie;piotrkowski
+1010072;Ręczno;wies;3360;Łódzkie;piotrkowski
+1010082;Rozprza;wies;12227;Łódzkie;piotrkowski
+1010093;Sulejów;gmina miejsko-wiejska;16538;Łódzkie;piotrkowski
+1010102;Wola Krzysztoporska;wies;11949;Łódzkie;piotrkowski
+1010113;Wolbórz;gmina miejsko-wiejska;7838;Łódzkie;piotrkowski
+1011012;Dalików;wies;3977;Łódzkie;poddębicki
+1011022;Pęczniew;wies;3395;Łódzkie;poddębicki
+1011033;Poddębice;gmina miejsko-wiejska;14672;Łódzkie;poddębicki
+1011043;Uniejów;gmina miejsko-wiejska;6772;Łódzkie;poddębicki
+1011052;Wartkowice;wies;6091;Łódzkie;poddębicki
+1011062;Zadzim;wies;4722;Łódzkie;poddębicki
+1012011;Radomsko;miasto;43698;Łódzkie;radomszczański
+1012022;Dobryszyce;wies;4576;Łódzkie;radomszczański
+1012032;Gidle;wies;5773;Łódzkie;radomszczański
+1012042;Gomunice;wies;5681;Łódzkie;radomszczański
+1012053;Kamieńsk;gmina miejsko-wiejska;5645;Łódzkie;radomszczański
+1012062;Kobiele Wielkie;wies;4274;Łódzkie;radomszczański
+1012072;Kodrąb;wies;4306;Łódzkie;radomszczański
+1012082;Lgota Wielka;wies;4210;Łódzkie;radomszczański
+1012092;Ładzice;wies;4650;Łódzkie;radomszczański
+1012102;Masłowice;wies;3940;Łódzkie;radomszczański
+1012113;Przedbórz;gmina miejsko-wiejska;6660;Łódzkie;radomszczański
+1012122;Radomsko;wies;5421;Łódzkie;radomszczański
+1012132;Wielgomłyny;wies;4356;Łódzkie;radomszczański
+1012142;Żytno;wies;4810;Łódzkie;radomszczański
+1013011;Rawa Mazowiecka;miasto;16168;Łódzkie;rawski
+1013023;Biała Rawska;gmina miejsko-wiejska;10922;Łódzkie;rawski
+1013032;Cielądz;wies;3945;Łódzkie;rawski
+1013042;Rawa Mazowiecka;wies;8668;Łódzkie;rawski
+1013052;Regnów;wies;1709;Łódzkie;rawski
+1013062;Sadkowice;wies;5172;Łódzkie;rawski
+1014011;Sieradz;miasto;39351;Łódzkie;sieradzki
+1014023;Błaszki;gmina miejsko-wiejska;14051;Łódzkie;sieradzki
+1014032;Brąszewice;wies;4355;Łódzkie;sieradzki
+1014042;Brzeźnio;wies;6176;Łódzkie;sieradzki
+1014052;Burzenin;wies;5290;Łódzkie;sieradzki
+1014062;Goszczanów;wies;5163;Łódzkie;sieradzki
+1014072;Klonowa;wies;2785;Łódzkie;sieradzki
+1014082;Sieradz;wies;10766;Łódzkie;sieradzki
+1014093;Warta;gmina miejsko-wiejska;11960;Łódzkie;sieradzki
+1014102;Wróblew;wies;5929;Łódzkie;sieradzki
+1014113;Złoczew;gmina miejsko-wiejska;6868;Łódzkie;sieradzki
+1015013;Bolimów;gmina miejsko-wiejska;3886;Łódzkie;skierniewicki
+1015022;Głuchów;wies;5540;Łódzkie;skierniewicki
+1015032;Godzianów;wies;2580;Łódzkie;skierniewicki
+1015042;Kowiesy;wies;2810;Łódzkie;skierniewicki
+1015052;Lipce Reymontowskie;wies;3142;Łódzkie;skierniewicki
+1015062;Maków;wies;5970;Łódzkie;skierniewicki
+1015072;Nowy Kawęczyn;wies;3377;Łódzkie;skierniewicki
+1015082;Skierniewice;wies;8013;Łódzkie;skierniewicki
+1015092;Słupia;wies;2497;Łódzkie;skierniewicki
+1016011;Tomaszów Mazowiecki;miasto;58421;Łódzkie;tomaszowski
+1016022;Będków;wies;3153;Łódzkie;tomaszowski
+1016032;Budziszewice;wies;2097;Łódzkie;tomaszowski
+1016042;Czerniewice;wies;4871;Łódzkie;tomaszowski
+1016052;Inowłódz;wies;3662;Łódzkie;tomaszowski
+1016062;Lubochnia;wies;7289;Łódzkie;tomaszowski
+1016072;Rokiciny;wies;6147;Łódzkie;tomaszowski
+1016082;Rzeczyca;wies;4429;Łódzkie;tomaszowski
+1016092;Tomaszów Mazowiecki;wies;11243;Łódzkie;tomaszowski
+1016102;Ujazd;wies;7368;Łódzkie;tomaszowski
+1016112;Żelechlinek;wies;3148;Łódzkie;tomaszowski
+1017012;Biała;wies;5328;Łódzkie;wieluński
+1017022;Czarnożyły;wies;4408;Łódzkie;wieluński
+1017032;Konopnica;wies;3569;Łódzkie;wieluński
+1017042;Mokrsko;wies;5133;Łódzkie;wieluński
+1017052;Osjaków;wies;4627;Łódzkie;wieluński
+1017062;Ostrówek;wies;4419;Łódzkie;wieluński
+1017072;Pątnów;wies;6223;Łódzkie;wieluński
+1017082;Skomlin;wies;3208;Łódzkie;wieluński
+1017093;Wieluń;gmina miejsko-wiejska;30010;Łódzkie;wieluński
+1017102;Wierzchlas;wies;6447;Łódzkie;wieluński
+1018012;Bolesławiec;wies;3953;Łódzkie;wieruszowski
+1018022;Czastary;wies;3873;Łódzkie;wieruszowski
+1018032;Galewice;wies;6118;Łódzkie;wieruszowski
+1018043;Lututów;gmina miejsko-wiejska;4604;Łódzkie;wieruszowski
+1018052;Łubnice;wies;3884;Łódzkie;wieruszowski
+1018062;Sokolniki;wies;5011;Łódzkie;wieruszowski
+1018073;Wieruszów;gmina miejsko-wiejska;14159;Łódzkie;wieruszowski
+1019011;Zduńska Wola;miasto;39172;Łódzkie;zduńskowolski
+1019023;Szadek;gmina miejsko-wiejska;7116;Łódzkie;zduńskowolski
+1019032;Zapolice;wies;5478;Łódzkie;zduńskowolski
+1019042;Zduńska Wola;wies;12250;Łódzkie;zduńskowolski
+1020011;Głowno;miasto;13293;Łódzkie;zgierski
+1020021;Ozorków;miasto;18369;Łódzkie;zgierski
+1020031;Zgierz;miasto;54254;Łódzkie;zgierski
+1020043;Aleksandrów Łódzki;gmina miejsko-wiejska;34753;Łódzkie;zgierski
+1020052;Głowno;wies;4668;Łódzkie;zgierski
+1020062;Ozorków;wies;7189;Łódzkie;zgierski
+1020072;Parzęczew;wies;5261;Łódzkie;zgierski
+1020083;Stryków;gmina miejsko-wiejska;13005;Łódzkie;zgierski
+1020092;Zgierz;wies;16077;Łódzkie;zgierski
+1021011;Brzeziny;miasto;12044;Łódzkie;brzeziński
+1021022;Brzeziny;wies;6094;Łódzkie;brzeziński
+1021032;Dmosin;wies;4372;Łódzkie;brzeziński
+1021042;Jeżów;wies;3187;Łódzkie;brzeziński
+1021052;Rogów;wies;4611;Łódzkie;brzeziński
+1061000;Łódź;miasto;661329;Łódzkie;Łódź
+1062000;Piotrków Trybunalski;miasto;67734;Łódzkie;Piotrków Trybunalski
+1063000;Skierniewice;miasto;45773;Łódzkie;Skierniewice
